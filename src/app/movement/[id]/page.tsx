@@ -82,6 +82,7 @@ export default async function MovementPage({
             color: "#ddd",
             marginBottom: 60,
             whiteSpace: "pre-line",
+            textAlign: "justify",
           }}
         >
           {movement.fullDescription}
