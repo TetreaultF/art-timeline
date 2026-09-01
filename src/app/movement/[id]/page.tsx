@@ -70,60 +70,31 @@ export default async function MovementPage({
             height: 4,
             width: 120,
             background: movement.color,
-            marginBottom: 20,
+            marginBottom: 24,
           }}
         />
 
         {/* DESCRIPTION */}
-        <p
+        <div
           style={{
             fontSize: 18,
-            lineHeight: 1.6,
+            lineHeight: 1.75,
             color: "#ddd",
-            marginBottom: 50,
+            marginBottom: 60,
+            whiteSpace: "pre-line",
           }}
         >
           {movement.description}
-        </p>
-
-        {/* SECTIONS */}
-        <div style={{ display: "grid", gap: 40 }}>
-          <section>
-            <h2 style={{ fontSize: 22, marginBottom: 10 }}>
-              Contexte historique
-            </h2>
-            <p style={{ color: "#bbb", lineHeight: 1.6 }}>
-              Ici tu pourras ajouter le contexte politique, social et culturel du mouvement.
-            </p>
-          </section>
-
-          <section>
-            <h2 style={{ fontSize: 22, marginBottom: 10 }}>
-              Caractéristiques
-            </h2>
-            <p style={{ color: "#bbb", lineHeight: 1.6 }}>
-              Style, techniques, thèmes, matériaux, etc.
-            </p>
-          </section>
-
-          <section>
-            <h2 style={{ fontSize: 22, marginBottom: 10 }}>
-              Artistes clés
-            </h2>
-            <p style={{ color: "#bbb", lineHeight: 1.6 }}>
-              Liste d’artistes majeurs associés au mouvement.
-            </p>
-          </section>
-
-          {/* ARTWORK GRID */}
-          <section style={{ marginTop: 40 }}>
-            <h2 style={{ fontSize: 22, marginBottom: 20 }}>
-              Œuvres majeures
-            </h2>
-
-            <ArtworkGrid artworks={movementArtworks} />
-          </section>
         </div>
+
+        {/* ARTWORK GRID */}
+        <section>
+          <h2 style={{ fontSize: 24, fontWeight: 600, marginBottom: 24 }}>
+            Œuvres majeures
+          </h2>
+
+          <ArtworkGrid artworks={movementArtworks} />
+        </section>
       </div>
     </div>
   );
