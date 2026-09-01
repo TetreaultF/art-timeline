@@ -1,0 +1,384 @@
+import type { Artwork } from "@/components/ArtworkGrid";
+
+export const baroqueArtworks: Artwork[] = [
+  {
+    id: "la-laitiere",
+    title: "La Laitière",
+    artist: "Johannes Vermeer",
+    date: 1658,
+    movement: "baroque",
+    location: "Rijksmuseum (Amsterdam, Pays-Bas)",
+    image: "/artworks/baroque/la-laitiere.jpg",
+    description: "Derrière la tranquillité de cette scène domestique se cache l'une des œuvres les plus minutieusement exécutées de Johannes Vermeer. Le tableau met en scène une humble servante entièrement absorbée par une tâche quotidienne : verser du lait dans un plat en terre cuite pour préparer un pudding de pain perdu, une recette traditionnelle destinée à recycler le pain rassis. Pour obtenir ce rendu unique des surfaces, le peintre a utilisé une technique méticuleuse appelée le « pointillé », consistant à appliquer de minuscules gouttes de peinture blanche et jaune sur le pain et les objets pour simuler la réfraction de la lumière du jour à travers la vitre.\n\nL'analyse aux rayons X a révélé que Vermeer avait initialement peint deux éléments importants à l'arrière-plan qu'il a finalement décidé de recouvrir pour épurer sa composition : une grande carte du monde accrochée au mur de briques et un grand panier à linge au sol. À la place, il a choisi de laisser le mur nu, se contenant de peindre les moindres fissures du plâtre, les clous rouillés enfoncés dans la paroi et un carreau de faïence de Delft représentant Cupidon tout au bas de la plinthe.\n\nCe chef-d'œuvre a fait l'objet d'une transaction financière historique lors de son acquisition par l'État néerlandais en 1908 pour le Rijksmuseum. La vente de la collection Six, dont faisait partie la toile, provoqua un débat national intense au Parlement. Pour éviter que le tableau ne soit acheté par de riches collectionneurs américains comme J.P. Morgan, l'assemblée nationale vota une subvention publique exceptionnelle pour bloquer l'exportation de la pièce, garantissant ainsi son maintien sur le territoire des Pays-Bas."
+  },
+  {
+    id: "extase-ste-therese",
+    title: "L'Extase de sainte Thérèse",
+    artist: "Le Bernin",
+    date: 1652,
+    movement: "baroque",
+    location: "Chapelle Cornaro, Église Santa Maria della Vittoria (Rome, Italie)",
+    image: "/artworks/baroque/extase-ste-therese.jpg",
+    description: "Commandé par le cardinal vénitien Federico Cornaro pour la chapelle funéraire de sa famille, cet ensemble sculptural monumental représente l'un des sommets de la mise en scène baroque romaine. Le Bernin ne s'est pas contenté de sculpter deux blocs de marbre blanc ; il a transformé l'ensemble de la chapelle en un véritable théâtre d'ombres et de lumières. De part et d'autre de l'autel, l'artiste a sculpté des balcons de marbre en haut-relief où les membres de la famille Cornaro sont représentés en train de discuter et d'observer la scène sacrée, plaçant le spectateur au centre d'un dispositif théâtral.\n\nLe Bernin a conçu une ouverture dissimulée au-dessus de la corniche de la chapelle, munie d'un vitrail jaune, pour laisser filtrer une lumière naturelle dorée qui descend directement le long de grands rayons de bronze doré fixés au mur. Cette clarté changeante vient frapper les plis tourbillonnants des vêtements de la sainte, qui semble flotter sur un nuage de marbre brut suspendu au-dessus du sol par des attaches métalliques invisibles.\n\nLa physicalité intense de l'œuvre provoqua l'étonnement de la curie romaine et des voyageurs de l'époque. Thérèse d'Avila est montrée les yeux révulsés, la bouche entrouverte et le corps affaissé sous la flèche d'or d'un ange au sourire ambigu, traduisant visuellement les textes mystiques de la sainte qui décrivait ses visions comme une douleur divine traversant son corps. L'écrivain français Stendhal, lors de sa visite de la chapelle au XIXe siècle, nota la sensualité troublante de la sculpture, affirmant qu'il était difficile de distinguer l'extase spirituelle d'un plaisir purement charnel."
+  },
+  {
+    id: "le-festin-de-balthazar",
+    title: "Le Festin de Balthazar",
+    artist: "Rembrandt",
+    date: 1635,
+    movement: "baroque",
+    location: "National Gallery (Londres, Royaume-Uni)",
+    image: "/artworks/baroque/le-festin-de-balthazar.jpg",
+    description: "Cette peinture d'histoire monumentale illustre un épisode dramatique du Livre de Daniel, au moment où le roi de Babylone, Balthazar, commet un sacrilège en utilisant les coupes en or pillées dans le Temple de Jérusalem pour donner un banquet. Rembrandt saisit l'instant précis où une main divine invisible apparaît pour graver des mots mystérieux sur la paroi de pierre, scellant la chute imminente du royaume. La terreur des convives est palpable à travers le renversement d'une coupe de vin et le regard horrifié du souverain, dont la main repousse la vision.\n\nPour rendre le texte hébreu sur le mur, Rembrandt fit appel à l'érudition de son voisin et ami proche dans le quartier juif d'Amsterdam, le rabbin Menasseh ben Israël. Ce dernier lui indiqua une disposition kabbalistique particulière : les mots « Mene, Tekel, Upharsin » devaient être inscrits verticalement de droite à gauche, et non horizontalement, ce qui explique pourquoi, selon le récit biblique, les sages du roi furent incapables de déchiffrer l'inscription céleste.\n\nLe peintre hollandais a concentré ses efforts sur le rendu des matières précieuses, appliquant d'épaisses couches de peinture à l'aide d'un couteau à palette pour donner un relief réel aux broderies d'or du manteau impérial, aux perles du turban et aux reflets de la vaisselle d'apparat. L'œuvre s'écarte radicalement de la retenue habituelle du protestantisme hollandais en embrassant le goût baroque pour le spectaculaire, la violence des contrastes et l'intensité des expressions faciales."
+  },
+  {
+    id: "la-proposition-leyster",
+    title: "La Proposition",
+    artist: "Judith Leyster",
+    date: 1631,
+    movement: "baroque",
+    location: "Mauritshuis (La Haye, Pays-Bas)",
+    image: "/artworks/baroque/la-proposition-leyster.jpg",
+    description: "Pendant près de deux siècles, ce tableau fut attribué par erreur à Frans Hals ou à l'époux de l'artiste, Jan Miense Molenaer, l'œuvre des peintres femmes de l'Âge d'or hollandais ayant été effacée de l'historiographie officielle. Ce n'est qu'en 1893, lorsque le musée du Mauritshuis acheta la toile, qu'un chercheur découvrit le monogramme unique de Judith Leyster caché sous une fausse signature : une lettre « J » entrelacée avec une étoile, un jeu de mots visuel sur son nom de famille qui signifie « l'étoile polaire ».\n\nL'œuvre se distingue par son approche inédite d'un thème classique de la peinture de genre hollandaise, celui de la « proposition malhonnête ». Alors que les peintres masculins de l'époque représentaient traditionnellement ces scènes de manière grivoise, montrant des courtisanes consentantes souriant au spectateur, Leyster adopte le point de vue de la femme. Le personnage est une simple ménagère concentrée sur ses travaux de couture, habillée d'une blouse blanche modeste, qui ignore délibérément l'homme penché sur son épaule lui offrant des pièces de monnaie pour acheter ses faveurs.\n\nL'éclairage à la bougie crée un clair-obscur intime qui isole la jeune femme du reste de la pièce sombre, renforçant l'impression de solitude et de droiture morale face à l'insistance de l'intrus. Un petit chauffe-pieds en bois glissé sous la jupe de la couturière, contenant un pot de braises, indique selon les codes sociologiques hollandais de l'époque que la jeune femme est mariée et indisponible."
+  },
+  {
+    id: "fontaine-quatre-fleuves",
+    title: "Fontaine des Quatre-Fleuves",
+    artist: "Le Bernin",
+    date: 1651,
+    movement: "baroque",
+    location: "Piazza Navona (Rome, Italie)",
+    image: "/artworks/baroque/fontaine-quatre-fleuves.jpg",
+    description: "Érigée au centre de la Piazza Navona à la demande du pape Innocent X, cette fontaine monumentale en travertin et marbre de Carrare constitue l'un des projets d'embellissement urbain les plus ambitieux de la Rome baroque. Le monument allégorise la domination spirituelle et temporelle de l'Église sur les quatre continents connus à l'époque, représentés par quatre géants sculptés figurant le Danube (l'Europe), le Nil (l'Afrique), le Gange (l'Asie) et le Río de la Plata (les Amériques).\n\nL'obtention de cette commande fut le résultat d'une ruse de la part du Bernin. Le pape, influencé par des rivaux jaloux, avait initialement écarté l'artiste du concours au profit de Francesco Borromini. Le Bernin fit parvenir secrètement une maquette en argent de son projet à la belle-sœur et confidente du souverain pontife, Olimpia Maidalchini. Fasciné par l'audace de la composition, qui prévoyait de suspendre un obélisque égyptien romain de seize mètres de haut au-dessus d'une roche creusée et vide, le pape capitula et lui confia le chantier.\n\nUne rumeur populaire romaine tenace, alimentée par la rivalité légendaire entre le Bernin et Borromini, affirmait que la statue du Río de la Plata levait la main pour se protéger de l'effondrement de l'église Santa Agnese en Agone, construite juste en face par Borromini, tandis que la statue du Nil se couvrait la tête d'un voile pour ne pas voir l'édifice de son concurrent. En réalité, le Nil porte un voile car ses sources géographiques étaient encore inconnues au XVIIe siècle."
+  },
+  {
+    id: "charles-ier-chasse",
+    title: "Charles Ier à la chasse",
+    artist: "Antoine van Dyck",
+    date: 1635,
+    movement: "baroque",
+    location: "Musée du Louvre (Paris, France)",
+    image: "/artworks/baroque/charles-ier-chasse.jpg",
+    description: "Antoine van Dyck, élève prodige de Rubens, a révolutionné le portrait d'apparat royal en introduisant une formule basée sur la décontraction aristocratique, appelée la « sprezzatura ». Le roi d'Angleterre Charles Ier est représenté lors d'une halte durant la chasse, vêtu d'une luxueuse veste de satin blanc, de bottes de cuir souple et d'un chapeau de feutre noir, abandonnant les armures et les sceptres lourds habituels de l'iconographie monarchique.\n\nVan Dyck a dû surmonter un défi morphologique majeur : Charles Ier était un homme de très petite taille (environ 1,60 m) et souffrait de séquelles de rachitisme de l'enfance qui rendaient sa démarche peu assurée. Pour masquer cette réalité sans mécontenter le souverain, le peintre a utilisé une perspective en contre-plongée, plaçant le roi sur un tertre rocheux qui domine le reste du paysage et ses serviteurs, tandis que le cheval royal curve l'encolure en signe de soumission.\n\nLa toile fut vendue par le Parlement anglais après l'exécution de Charles Ier en 1649, lors de la dispersion des collections royales ordonnée par Oliver Cromwell. Passée entre les mains de plusieurs collectionneurs français, elle fut finalement acquise par le roi Louis XVI en 1775 pour une somme colossale, réintégrant les collections de la Couronne avant de devenir l'une des pièces maîtresses du musée du Louvre lors de sa fondation."
+  },
+  {
+    id: "las-meninas",
+    title: "Les Ménines",
+    artist: "Diego Velázquez",
+    date: 1656,
+    movement: "baroque",
+    location: "Musée du Prado (Madrid, Espagne)",
+    image: "/artworks/baroque/las-meninas.jpg",
+    description: "Cette œuvre monumentale représente l'atelier de Diego Velázquez au sein du palais de l'Alcázar à Madrid. Le peintre s'y représente lui-même en plein travail, une grande toile posée devant lui, entouré de l'infante Marguerite, de ses demoiselles d'honneur (les ménines), de nains de cour et d'un chien de garde endormi. La complexité de l'œuvre repose sur le miroir accroché au mur du fond, qui reflète les silhouettes du roi Philippe IV et de la reine Marie-Anne d'Autriche, indiquant que le couple royal est installé à la place même du spectateur.\n\nVelázquez a utilisé ce tableau comme une arme politique pour revendiquer la noblesse de la peinture, alors considérée en Espagne comme un simple métier artisanal soumis à l'impôt, contrairement aux arts libéraux comme la poésie ou la musique. En se peignant aux côtés de la famille royale, l'artiste affirmait son statut de courtisan et d'intellectuel proche du pouvoir.\n\nSur la poitrine de son autoportrait apparaît la croix rouge de l'Ordre de Santiago, une distinction de noblesse suprême que Velázquez ne reçut en réalité que trois ans après la réalisation de la toile, en 1569. La légende de la cour d'Espagne prétend que c'est le roi Philippe IV en personne qui prit les pinceaux après la mort du peintre pour ajouter cette croix de chevalier sur la toile originale, en hommage posthume à son ami."
+  },
+  {
+    id: "erection-de-la-croix",
+    title: "L'Érection de la croix",
+    artist: "Pierre Paul Rubens",
+    date: 1610,
+    movement: "baroque",
+    location: "Cathédrale Notre-Dame (Anvers, Belgique)",
+    image: "/artworks/baroque/erection-de-la-croix.jpg",
+    description: "Peint par Pierre Paul Rubens peu après son retour d'un séjour de huit ans en Italie, ce triptyque monumental fut initialement commandé pour l'église Sainte-Walburge d'Anvers. L'œuvre marque l'introduction officielle de l'esthétique baroque italienne et du clair-obscur du Caravage dans les Pays-Bas méridionaux, servant d'outil de propagande visuelle pour la Contre-Réforme catholique face à la montée du protestantisme.\n\nLe panneau central montre neuf bourreaux à la musculature athlétique s'efforçant de dresser la croix en diagonale, un choix de composition dynamique qui accentue la tension physique de la scène. Rubens combine la puissance anatomique des fresques de Michel-Ange qu'il avait copiées à Rome avec la richesse chromatique et les textures soyeuses de l'école vénitienne du Titien.\n\nDurant les guerres de la Révolution française en 1794, la toile fut confisquée par les troupes de la République et transportée à Paris pour être exposée au musée Central des Arts. L'œuvre ne fut restituée à la ville d'Anvers qu'en 1815, après la chute de Napoléon Ier et les accords du Congrès de Vienne. Le tableau fut alors installé définitivement dans la nef de la cathédrale Notre-Dame, où sa structure monumentale fait face à la Descente de croix du même artiste."
+  },
+  {
+    id: "galerie-des-glaces",
+    title: "Galerie des Glaces",
+    artist: "Jules Hardouin-Mansart, Charles Le Brun",
+    date: 1684,
+    movement: "baroque",
+    location: "Château de Versailles (Versailles, France)",
+    image: "/artworks/baroque/galerie-des-glaces.jpg",
+    description: "Conçue par l'architecte Jules Hardouin-Mansart et décorée par le peintre Charles Le Brun, la Galerie des Glaces remplace une ancienne terrasse ouverte construite par Louis Le Vau qui reliait les appartements du roi à ceux de la reine. Ce long couloir d'apparat visait à matérialiser la grandeur de la monarchie absolue de Louis XIV, le Roi-Soleil, à travers une débauche de marbres précieux, de bronzes ciselés et d'effets de perspective architecturale.\n\nLa galerie réunit trois cent cinquante-sept miroirs qui font face aux dix-sept fenêtres cintrées s'ouvrant sur les grands jardins de Le Nôtre. À la fin du XVIIe siècle, la fabrication de miroirs de cette taille représentait un défi technologique majeur et un secret industriel jalousement gardé par la République de Venise, qui détenait le monopole mondial de la verrerie.\n\nPour briser ce monopole et réaliser la galerie sans dépendre des importations, le ministre Jean-Baptiste Colbert créa la Manufacture royale de glaces de miroirs (qui deviendra la compagnie Saint-Gobain) et organisa l'exfiltration clandestine de maîtres verriers vénitiens de l'île de Murano. Plusieurs de ces artisans furent empoisonnés à Paris par des agents secrets envoyés par Venise pour punir leur trahison et protéger le secret d'État."
+  },
+  {
+    id: "la-ronde-de-nuit",
+    title: "La Ronde de nuit",
+    artist: "Rembrandt",
+    date: 1642,
+    movement: "baroque",
+    location: "Rijksmuseum (Amsterdam, Pays-Bas)",
+    image: "/artworks/baroque/la-ronde-de-nuit.jpg",
+    description: "Commandé par la guilde des arquebusiers d'Amsterdam pour orner leur grand quartier général, ce tableau représente la compagnie de milice civile du capitaine Frans Banninck Cocq. Contrairement aux portraits collectifs de l'époque, qui montraient les bourgeois alignés sagement de manière statique, Rembrandt choisit de peindre une scène d'action théâtrale, montrant les hommes en mouvement au moment où l'ordre de marche est donné.\n\nLe titre traditionnel de « Ronde de nuit » découle d'une erreur d'interprétation historique. Au cours du XVIIIe siècle, la surface du tableau s'est recouverte d'un vernis protecteur épais qui s'est oxydé et a noirci avec le temps, laissant croire aux critiques que la scène se déroulait à la lueur de la lune. Une restauration majeure menée en 1947 a permis de retirer cette couche de crasse, révélant que l'action se passe en réalité en plein jour, la lumière solaire descendant d'une fenêtre haute à gauche.\n\nLa toile a subi de graves mutilations en 1715 lors de son transfert vers l'hôtel de ville d'Amsterdam. Le tableau étant trop grand pour entrer dans l'espace qui lui était réservé entre deux portes, les employés de la municipalité découpèrent des bandes de toile sur les quatre côtés, effaçant ainsi deux personnages secondaires sur la gauche et la partie supérieure du pont d'arrière-plan."
+  },
+  {
+    id: "colonnade-place-saint-pierre",
+    title: "Colonnade de la place Saint-Pierre",
+    artist: "Le Bernin",
+    date: 1667,
+    movement: "baroque",
+    location: "Cité du Vatican",
+    image: "/artworks/baroque/colonnade-place-saint-pierre.jpg",
+    description: "Commandée par le pape Alexandre VII au sommet de la Contre-Réforme, cette structure monumentale encadre la place d'accès à la basilique Saint-Pierre. Le Bernin a conçu une quadruple rangée de deux cent quatre-vingt-quatre colonnes doriques en travertin, disposées selon un tracé elliptique complexe pour créer un effet de perspective théâtrale à l'arrivée des pèlerins.\n\nL'architecte romain décrivait explicitement son projet comme une incarnation matérielle des « bras ouverts de l'Église », conçus pour accueillir les fidèles, conforter les hésitants et ramener les hérétiques au sein du giron catholique. Les colonnes sont surmontées d'une balustrade accueillant cent quarante statues de saints sculptées par les élèves de l'atelier du maître.\n\nLe Bernin a intégré une astuce géométrique remarquable dans le sol de la place. Deux disques de porphyre rouge incrustés dans les pavés marquent les foyers de l'ellipse. Lorsqu'un spectateur se place exactement sur l'un de ces repères au sol, l'alignement des quatre rangées de colonnes devient parfait : les trois rangées arrière disparaissent totalement derrière la première colonne de tête, donnant l'illusion magique d'une colonnade simple et d'une architecture transparente."
+  },
+  {
+    id: "apollon-et-daphne",
+    title: "Apollon et Daphne",
+    artist: "Le Bernin",
+    date: 1625,
+    movement: "baroque",
+    location: "Galleria Borghese (Rome, Italie)",
+    image: "/artworks/baroque/apollon-et-daphne.jpg",
+    description: "Réalisé par Le Bernin alors qu'il n'avait que vingt-quatre ans pour le compte du richissime collectionneur et cardinal Scipione Borghese, ce groupe sculptural en marbre de Carrare pousse les capacités de taille du marbre jusqu'à des limites physiques inédites. L'œuvre capture l'instant précis de la métamorphose de la nymphe Daphné en laurier, alors qu'elle tente d'échapper à la poursuite amoureuse du dieu Apollon frappé par les flèches de Cupidon.\n\nLa virtuosité technique du jeune sculpteur s'exprime dans le traitement différentiel des textures. Les doigts de Daphné se transforment sous nos yeux en de fines feuilles de laurier d'une minceur de feuille de papier, ses jambes s'entourent d'une écorce de bois rugueuse tandis que ses cheveux s'envolent dans l'espace. Le Bernin est parvenu à équilibrer le poids considérable du bloc de marbre pour donner l'illusion d'une course en suspension, le pied d'Apollon ne touchant presque pas le sol.\n\nPour justifier la présence d'un sujet mythologique païen aussi érotique au sein de la collection privée d'un prince de l'Église, le cardinal fit graver un distique moralisateur en latin rédigé par le futur pape Urbain VIII sur le socle du monument. Le texte avertissait les visiteurs que « celui qui court après les plaisirs de la beauté éphémère ne cueille en fin de compte que des feuilles amères et des fruits décevants »."
+  },
+  {
+    id: "jeune-fille-a-la-perle",
+    title: "La Jeune Fille à la perle",
+    artist: "Johannes Vermeer",
+    date: 1665,
+    movement: "baroque",
+    location: "Mauritshuis (La Haye, Pays-Bas)",
+    image: "/artworks/baroque/jeune-fille-a-la-perle.jpg",
+    description: "Surnommé « la Joconde du Nord », ce tableau n'est pas un portrait de commande individualisé, mais une « tronie », un genre pictural hollandais visant à étudier les expressions du visage, les costumes exotiques ou les types de personnages. La jeune femme est représentée coiffée d'un turban bleu outremer, un pigment précieux tiré du broyage du lapis-lazuli d'Afghanistan, qui coûtait à l'époque plus cher que l'or.\n\nL'éclat unique de la perle suspendue à l'oreille, qui donne son titre moderne à l'œuvre, est le fruit d'une illusion d'optique magistrale. Une analyse scientifique rapprochée menée en 2018 a révélé que Vermeer n'a pas dessiné les contours de la perle : elle n'est constituée que de deux touches rapides de peinture blanche superposées, l'une figurant le reflet de la lumière de la fenêtre en haut à gauche, l'autre capturant la réfraction de la clarté du col de la chemise blanche.\n\nL'histoire récente de la toile est marquée par un anonymat complet et un achat dérisoire au XIXe siècle. Tombé dans l'oubli, le tableau réapparut lors d'une vente aux enchères à La Haye en 1881. Un collectionneur d'art averti, Arnoldus Andries des Tombe, acheta la pièce couverte de crasse pour la somme dérisoire de deux florins et trente centimes (l'équivalent de quelques dollars actuels), avant de la léguer au musée du Mauritshuis à sa mort en 1902."
+  },
+  {
+    id: "immaculee-conception-murillo",
+    title: "L'Immaculée Conception de Soult",
+    artist: "Bartolomé Esteban Murillo",
+    date: 1678,
+    movement: "baroque",
+    location: "Musée du Prado (Madrid, Espagne)",
+    image: "/artworks/baroque/immaculee-conception-murillo.jpg",
+    description: "Commandé à Bartolomé Esteban Murillo pour l'hospice des Vénérables Prêtres de Séville, ce tableau constitue le modèle absolu du dogme catholique de l'Immaculée Conception au sein de l'Espagne de la Contre-Réforme. Le peintre andalou a développé une esthétique douce et lumineuse, appelée le « style vaporeux », pour figurer la Vierge Marie s'élevant vers les cieux au-dessus d'un croissant de lune, entourée d'une nuée d'angelots en pleine effervescence.\n\nL'œuvre doit son appellation moderne au maréchal français Jean-de-Dieu Soult, qui s'empara de la toile comme butin de guerre lors du pillage systématique des collections religieuses d'Andalousie durant les guerres napoléoniennes en 1810. Soult ramena le tableau à Paris et menaça les moines de Séville d'exécution s'ils refusaient de lui céder la propriété formelle de la pièce.\n\nÀ la mort du militaire en 1852, ses héritiers vendirent la toile aux enchères. L'État français l'acheta pour la somme historique de 615 000 francs-or, un montant jamais atteint pour un tableau à l'époque, pour l'exposer au musée du Louvre. La pièce resta en France jusqu'en 1941, date à laquelle elle fut transférée définitivement au musée du Prado à Madrid dans le cadre d'un échange d'œuvres d'art négocié entre le régime de Vichy et le gouvernement espagnol de Francisco Franco."
+  },
+  {
+    id: "baldaquin-saint-pierre",
+    title: "Baldaquin de la basilique Saint-Pierre",
+    artist: "Le Bernin",
+    date: 1633,
+    movement: "baroque",
+    location: "Basilique Saint-Pierre (Cité du Vatican)",
+    image: "/artworks/baroque/baldaquin-saint-pierre.jpg",
+    description: "S'élevant à près de vingt-neuf mètres de haut directement sous la monumentale coupole de Michel-Ange, ce baldaquin de bronze marque l'emplacement exact du tombeau de saint Pierre. Le Bernin mit au point un modèle de colonnes torses, appelées « colonnes salomoniques », ornées de reliefs de feuilles de laurier, de lézards et de grappes de raisin en bronze ciselé, pour animer l'espace sacré de la basilique et créer un effet visuel de dynamisme ascendant.\n\nLa construction de ce monument colossal exigea une quantité de bronze inédite, épuisant les réserves disponibles de la papauté. Pour obtenir la matière nécessaire, le pape Urbain VIII Barberini ordonna le démontage et la fonte des structures de bronze antiques qui soutenaient le porche d'entrée du Panthéon de Rome.\n\nCe pillage d'un monument de l'Antiquité romaine au profit des projets d'embellissement pontificaux provoqua la colère de la population romaine. Le peuple fit circuler un pamphlet célèbre à travers la ville reprenant un jeu de mots féroce sur le nom de famille du pape : « Quod non fecerunt barbari, fecerunt Barberini » (« Ce que les barbares n'ont pas fait, les Barberini l'ont fait »)."
+  },
+  {
+    id: "la-bohemienne",
+    title: "La Bohémienne",
+    artist: "Frans Hals",
+    date: 1628,
+    movement: "baroque",
+    location: "Musée du Louvre (Paris, France)",
+    image: "/artworks/baroque/la-bohemienne.jpg",
+    description: "Ce portrait de Frans Hals représente l'un des exemples les plus éclatants de la spontanéité technique qui caractérise l'école des maîtres de Haarlem. Le peintre abandonne les poses figées des portraits de commande bourgeois pour saisir l'instantané du rire et de la gaieté d'une jeune fille du peuple, probablement une servante ou une comédienne ambulante, au décolleté plongeant non conventionnel.\n\nHals a utilisé une technique de touche rapide et visible, appelée « alla prima », consistant à appliquer la peinture directement sur la toile sans s'appuyer sur un dessin préparatoire minutieux ou des couches successives de glacis lisses. Ce style de brossage vigoureux, où la matière picturale conserve le mouvement de la main de l'artiste, fit de Frans Hals une référence absolue pour les peintres impressionnistes deux siècles plus tard, notamment Édouard Manet qui voyagea aux Pays-Bas pour étudier ses toiles.\n\nAu cours de l'histoire de l'art du XIXe siècle, l'identité du personnage fit l'objet de contresens moraux. Longtemps étiquetée comme une courtisane provocatrice en raison de sa liberté d'expression faciale, l'œuvre fut réhabilitée par les critiques d'art réalistes qui y virent une célébration joyeuse des classes populaires hollandaises, exempte des artifices de la haute société bourgeoise de l'époque."
+  },
+  {
+    id: "samson-et-dalila-rubens",
+    title: "Samson et Dalila",
+    artist: "Pierre Paul Rubens",
+    date: 1610,
+    movement: "baroque",
+    location: "National Gallery (Londres, Royaume-Uni)",
+    image: "/artworks/baroque/samson-et-dalila-rubens.jpg",
+    description: "Commandé par le bourgmestre d'Anvers Nicolaas Rockox pour le salon de réception de son hôtel particulier, ce tableau illustre le moment tragique où le héros hébreu Samson s'endort sur les genoux de sa maîtresse Dalila, qui en profite pour laisser un serviteur raser ses cheveux, source de sa force divine. Rubens orchestre un jeu d'ombres théâtral à l'aide de trois sources lumineuses artificielles distinctes : une bougie tenue par une vieille servante, un brasero à l'arrière-plan et une lampe fixée au mur extérieur, créant un clair-obscur lourd qui accentue la sensualité des corps.\n\nLe peintre flamand a inséré une statue de Vénus et Cupidon dans une niche au-dessus du lit de Dalila, un commentaire visuel discret indiquant que Samson est prisonnier des forces de l'amour et de la luxure avant d'être capturé physiquement par les soldats philistins qui attendent derrière la porte.\n\nL'histoire moderne de la toile est marquée par une vive controverse d'authenticité. Rachetée par la National Gallery de Londres en 1980 pour la somme de 2,5 millions de livres, l'œuvre a fait l'objet de plusieurs attaques de la part d'historiens de l'art indépendants. Des analyses menées par des logiciels de reconnaissance d'images au début du XXIe siècle ont suggéré que le tableau pourrait être une copie d'atelier tardive plutôt qu'une pièce de la main exclusive de Rubens, une thèse contestée par l'institution britannique."
+  },
+  {
+    id: "cathedrale-compostelle",
+    title: "Façade de la cathédrale de Saint-Jacques-de-Compostelle",
+    artist: "Fernando de Casas Novas",
+    date: 1750,
+    movement: "baroque",
+    location: "Saint-Jacques-de-Compostelle (Galice, Espagne)",
+    image: "/artworks/baroque/cathedrale-compostelle.jpg",
+    description: "Connue sous le nom de façade de l'Obradoiro, cette structure monumentale élevée par l'architecte Fernando de Casas Novas constitue le chef-d'œuvre suprême du baroque espagnol tardif, également appelé le style « churrigueresque » en raison de sa profusion d'éléments décoratifs sculptés dans le granit galicien.\n\nLa façade fut conçue comme un écran de pierre théâtral destiné à protéger l'ancien « Portail de la Gloire », un chef-d'œuvre de la sculpture romane du XIIe siècle endommagé par l'humidité constante du climat pluvieux de la Galice. Casas Novas intégra d'immenses verrières cintrées pour éclairer la nef intérieure de la cathédrale tout en donnant l'illusion d'une façade transparente et lumineuse face à la place publique.\n\nLes deux clochers jumeaux s'élèvent à plus de soixante-seize mètres de haut, modifiant profondément l'imagerie de la ville pour les millions de pèlerins arrivant au terme du pèlerinage de Saint-Jacques. La profusion de colonnes sculptées, de niches abritant la statue de l'apôtre Jacques en habit de voyageur et de volutes de granit fait de ce monument l'un des visages les plus spectaculaires de la dévotion espagnole du XVIIIe siècle."
+  },
+  {
+    id: "femme-en-bleu-lisant",
+    title: "Femme en bleu lisant une lettre",
+    artist: "Johannes Vermeer",
+    date: 1663,
+    movement: "baroque",
+    location: "Rijksmuseum (Amsterdam, Pays-Bas)",
+    image: "/artworks/baroque/femme-en-bleu-lisant.jpg",
+    description: "Cet instantané de l'intimité bourgeoise hollandaise témoigne de la maîtrise de Johannes Vermeer pour capturer l'absorption psychologique totale de ses modèles. Une jeune femme, vêtue d'un manteau de lit bleu appelé « beddejak », est interrompue en pleine lecture d'une lettre personnelle, ses lèvres entrouvertes suggérant qu'elle lit les mots à voix basse. L'harmonie chromatique repose sur une déclinaison subtile de tons azurs et d'ochres, magnifiée par la lumière douce d'une fenêtre invisible située à gauche.\n\nUne analyse scientifique menée lors d'une restauration récente a permis de corriger un contresens historique tenace concernant la silhouette du personnage. Pendant plus d'un siècle, les critiques ont affirmé que la jeune femme était enceinte, s'appuyant sur le volume imposant de sa veste bleue. Les restaurateurs ont démontré que l'artiste avait fidèlement représenté la mode vestimentaire de l'époque : la crinoline bouffante et le tissu lourd étaient structurés de manière à donner cette ampleur sans rapport avec une maternité.\n\nLa carte accrochée au mur de briques à l'arrière-plan représente les provinces des Pays-Bas occidentaux, dessinée par le cartographe Balthasar Florisz van Berckenrode. Sa présence discrète dans une scène de lecture épistolaire suggère que la lettre provient d'un être cher voyageant au loin ou engagé dans les guerres commerciales maritimes de la République hollandaise."
+  },
+  {
+    id: "le-cavalier-riant",
+    title: "Le Cavalier riant",
+    artist: "Frans Hals",
+    date: 1624,
+    movement: "baroque",
+    location: "Wallace Collection (自动、伦敦, Royaume-Uni)",
+    image: "/artworks/baroque/le-cavalier-riant.jpg",
+    description: "Ce portrait de Frans Hals est devenu l'une des icônes du portrait bourgeois hollandais de la première moitié du XVIIe siècle. Contrairement à son titre traditionnel, le personnage ne rit pas ouvertement : il arbore un sourire narquois et distant, accentué par la courbe de sa moustache relevée et un regard plein d'assurance qui défie le spectateur.\n\nHals a concentré ses efforts sur le rendu virtuose du costume de parade du modèle, un jeune commerçant d'étoffes âgé de vingt-six ans. Les broderies du pourpoint intègrent une symbolique complexe liée à l'amour et à la séduction, mêlant des motifs de flèches de Cupidon, de abeilles volantes et de cornes d'abondance, ce qui laisse supposer que le tableau fut commandé à l'occasion de fiançailles chrétiennes.\n\nL'acquisition du tableau par le collectionneur Richard Seymour-Conway, marquis de Hertford, lors d'une vente aux enchères à Paris en 1865, marqua le début de la réhabilitation critique de Frans Hals au XIXe siècle. Le marquis dut affronter la concurrence agressive du baron James de Rothschild, faisant monter les enchères jusqu'à la somme astronomique de 51 000 francs, brisant le mépris dans lequel l'école académique française tenait jusqu'alors l'artiste hollandais."
+  },
+  {
+    id: "triomphe-providence-cortone",
+    title: "Triomphe de la Divine Providence",
+    artist: "Pierre de Cortone",
+    date: 1639,
+    movement: "baroque",
+    location: "Palais Barberini (Rome, Italie)",
+    image: "/artworks/baroque/triomphe-providence-cortone.jpg",
+    description: "Cette fresque de plafond monumentale, exécutée par Pierre de Cortone sur plus de quatre cents mètres carrés dans le grand salon d'apparat du Palais Barberini, constitue le manifeste de la grande peinture décorative de la Rome baroque. L'artiste utilise la technique de la « quadratura », dessinant des structures architecturales feintes en trompe-l'œil qui semblent prolonger les véritables murs du palais vers un ciel ouvert saturé de dizaines de figures mythologiques et d'anges flottants.\n\nLe programme iconographique fut rédigé par le poète Francesco Bracciolini pour célébrer l'élection du pape Urbain VIII Barberini. Au centre de la voûte céleste, la Divine Providence ordonne au Temps et aux Parques de couronner les armes de la famille Barberini, représentées par trois gigantesques abeilles d'or volant au milieu d'une couronne de laurier tenue par les vertus théologales.\n\nPierre de Cortone passa sept années complètes à peindre cette composition complexe, travaillant juché sur des échafaudages de bois vertigineux. La profusion des mouvements, la richesse des drapés volants et l'utilisation d'une lumière solaire éclatante posèrent les bases de l'art de la fresque baroque à travers l'Europe, influençant directement les chantiers des grands palais de Vienne et de Versailles."
+  },
+  {
+    id: "venus-a-son-miroir",
+    title: "Vénus à son miroir",
+    artist: "Diego Velázquez",
+    date: 1651,
+    movement: "baroque",
+    location: "National Gallery (Londres, Royaume-Uni)",
+    image: "/artworks/art-nouveau/venus-a-son-miroir.jpg",
+    description: "Connu en Angleterre sous le nom de « The Rokeby Venus », ce tableau constitue l'unique nu féminin subsistant de la production de Diego Velázquez. En Espagne, la représentation de corps dénudés était sévèrement réprimée par le tribunal de l'Inquisition catholique, qui menaçait les artistes d'excommunication et d'amendes massives pour indécence. Pour contourner cette interdiction, Velázquez réalisa probablement la toile lors de son second voyage officiel en Italie, pour le compte d'un riche courtisan proche du roi.\n\nL'artiste renverse les conventions du thème classique de la déesse de l'amour en la peignant de dos, allongée sur un lit de satin gris sombre qui met en valeur la ligne pure de son corps. Le visage de la déesse n'apparaît que de manière indirecte et mystérieuse à travers le miroir tenu par un jeune Cupidon aux mains entravées par un ruban rose. Fait singulier : le reflet du visage dans le miroir est volontairement flou et présente des traits plus âgés que le corps élancé, interrogeant le spectateur sur l'illusion de la beauté.\n\nLe tableau fut victime d'une agression politique majeure le 10 mars 1914 au sein de la National Gallery de Londres. La militante suffragette Mary Richardson s'introduisit dans le musée munie d'un hachoir de boucher dissimulé sous son manteau et frappa la toile à sept reprises, déchirant le dos sculpté de la déesse. Par cet acte de vandalisme marquant, Richardson entendait protester contre l'arrestation de sa camarade Emmeline Pankhurst, affirmant qu'elle voulait détruire l'image de la plus belle femme de l'histoire de l'art pour dénoncer la destruction des droits des femmes par le gouvernement britannique."
+  },
+  {
+    id: "lecon-anatomie-tulp",
+    title: "La Leçon d'anatomie du docteur Tulp",
+    artist: "Rembrandt",
+    date: 1632,
+    movement: "baroque",
+    location: "Mauritshuis (La Haye, Pays-Bas)",
+    image: "/artworks/baroque/lecon-anatomie-tulp.jpg",
+    description: "Première commande collective d'envergure reçue par Rembrandt après son installation à Amsterdam, ce tableau représente le docteur Nicolaes Tulp, anatomiste officiel de la guilde des chirurgiens, en train de faire la démonstration des muscles du bras gauche devant un parterre de notables de la corporation. Rembrandt brisa la structure rigide des portraits de groupe de l'époque en organisant les chirurgiens selon une composition pyramidale et dynamique, orientant les regards dans des directions variées pour traduire la curiosité intellectuelle.\n\nLe cadavre disséqué au centre de la table n'est pas anonyme : il s'agit du corps d'un criminel de bas étage, Aris Kindt, condamné à mort par pendaison et exécuté le matin même de la démonstration publique pour le vol d'un manteau, la loi hollandaise n'autorisant la dissection que pour les criminels exécutés non réclamés par leurs familles.\n\nUne erreur anatomique délibérée fut introduite par Rembrandt pour des motifs d'harmonie visuelle. Les tendons fléchisseurs du bras gauche dessinés par le peintre s'insèrent du mauvais côté de l'articulation du coude, une incohérence par rapport aux planches médicales de l'époque, prouvant que l'artiste privilégiait l'impact graphique et la dramaturgie de la lumière sur l'exactitude chirurgicale stricte."
+  },
+  {
+    id: "abbaye-de-melk",
+    title: "Abbaye de Melk",
+    artist: "Jakob Prandtauer",
+    date: 1736,
+    movement: "baroque",
+    location: "Melk (Autriche)",
+    image: "/artworks/baroque/abbaye-de-melk.jpg",
+    description: "Perchée sur un éperon rocheux spectaculaire qui domine les eaux du Danube en Basse-Autriche, l'abbaye bénédictine de Melk constitue le chef-d'œuvre de l'architecture baroque tardive de l'espace germanique. Conçu par l'architecte Jakob Prandtauer, le complexe fut entièrement reconstruit après les destructions causées par les guerres contre l'Empire ottoman, se transformant en une ville fortifiée de marbre jaune et de stuc doré.\n\nLe cœur culturel du site réside dans sa grande bibliothèque monastique, qui abrite plus de cent mille manuscrits médiévaux précieux sauvés des incendies. Le plafond de la salle est orné d'une fresque monumentale en trompe-l'œil peinte par Paul Troger, figurant une allégorie de la Foi chrétienne guidant les sciences et les arts intellectuels.\n\nL'abbaye servit d'inspiration directe à l'écrivain italien Umberto Eco pour concevoir le cadre de son célèbre roman historique « Le Nom de la rose ». Le narrateur et jeune novice qui consigne les événements mystérieux de l'intrigue se nomme Adso de Melk, un hommage explicite de l'auteur à la tradition d'érudition et à l'immensité des archives de cette institution autrichienne."
+  },
+  {
+    id: "astronome",
+    title: "L'Astronome",
+    artist: "Johannes Vermeer",
+    date: 1668,
+    movement: "baroque",
+    location: "Musée du Louvre (Paris, France)",
+    image: "/artworks/baroque/astronome.jpg",
+    description: "Johannes Vermeer s'écarte ici de ses thèmes féminins traditionnels pour célébrer l'effervescence des sciences géographiques et spatiales qui marquait l'Âge d'or des Pays-Bas. Le savant est représenté dans son cabinet de travail, un compas à la main, tendant le bras pour faire tourner un globe céleste conçu par le cartographe Jodocus Hondius, baigné par la lumière pure d'une fenêtre haute.\n\nL'identité du modèle fait l'objet d'un consensus historiographique fort. Il s'agit du savant et drapier d'Anvers Antoni van Leeuwenhoek, l'inventeur du microscope moderne et ami proche de Vermeer. Leeuwenhoek fut nommé exécuteur testamentaire des biens du peintre après la mort précoce de ce dernier en 1675, protégeant sa veuve de la faillite financière complète.\n\nDurant la Seconde Guerre mondiale, le tableau fut confisqué en France par les services de l'Einsatzstab Reichsleiter Rosenberg après l'invasion de 1940, dérobé à la collection privée de la famille de Rothschild. L'œuvre fut marquée d'une petite croix gammée noire au tampon encreur sur la face arrière de la toile et transportée par train spécial jusqu'en Allemagne pour être intégrée au projet de musée personnel d'Adolf Hitler à Linz, avant d'être retrouvée par les Alliés cachée dans les mines de sel d'Altaussee à la Libération."
+  },
+  {
+    id: "cycle-marie-medicis",
+    title: "Cycle de Marie de Médicis",
+    artist: "Pierre Paul Rubens",
+    date: 1625,
+    movement: "baroque",
+    location: "Musée du Louvre (Paris, France)",
+    image: "/artworks/baroque/cycle-marie-medicis.jpg",
+    description: "Commandé par la reine-mère Marie de Médicis pour orner les galeries de son tout nouveau Palais du Luxembourg à Paris, ce cycle politique hors norme se compose de vingt-quatre toiles monumentales peintes par Pierre Paul Rubens et son atelier d'Anvers. L'ambition du projet était de légitimer le règne contesté de la régente et de glorifier sa vie politique à travers une mise en scène allégorique outrancière.\n\nLe défi artistique était colossal pour Rubens : la vie de Marie de Médicis était marquée par des exils répétés, des conflits armés contre son propre fils le roi Louis XIII et une absence de hauts faits militaires d'envergure. Pour masquer cette pauvreté historique, le peintre flamand fit le choix d'immerger la reine au milieu de divinités de la mythologie grecque et romaine. Ainsi, les événements les plus banals de son existence se transforment en scènes célestes sous la protection de Jupiter, de Junon et des trois Grâces nues.\n\nL'une des toiles les plus spectaculaires montre le débarquement de la reine au port de Marseille en 1600. Rubens y déploie sa virtuosité plastique dans le traitement des corps des divinités marines, notamment les trois Naïades au premier plan dont les chairs généreuses ruisselantes d'eau de mer captent la lumière, éclipsant presque la silhouette raide de la souveraine installée sur la passerelle du navire."
+  },
+  {
+    id: "enterrement-petronille",
+    title: "L'Enterrement de sainte Pétronille",
+    artist: "Le Guerchin",
+    date: 1623,
+    movement: "baroque",
+    location: "Musées du Capitole (Rome, Italie)",
+    image: "/artworks/baroque/enterrement-petronille.jpg",
+    description: "Écutée par Giovanni Francesco Barbieri, dit Le Guerchin, cette toile d'autel colossale de près de sept mètres de haut fut initialement commandée pour la basilique Saint-Pierre du Vatican, avant d'être transposée sur les murs des Musées du Capitole. L'œuvre illustre la vie et le martyre de sainte Pétronille, traditionnellement considérée par la communauté chrétienne romaine comme la fille spirituelle de l'apôtre saint Pierre.\n\nLa composition adopte une structure baroque bilatérale stricte, divisée en deux registres superposés qui opposent le monde terrestre et le monde céleste. Au premier plan inférieur, deux fossoyeurs à la musculature puissante descendent le corps de la sainte dans une tombe de pierre de manière réaliste, tandis que la partie supérieure montre l'âme de Pétronille accueillie au paradis par le Christ au milieu d'une nuée d'anges musicaux.\n\nLe surnom de l'artiste, « Le Guerchin » (« Il Guercino »), signifie littéralement « le loucheur » en italien, en raison d'un strabisme divergent sévère provoqué par une frayeur survenue durant sa petite enfance. Ce handicap visuel majeur n'empêcha pas le peintre de développer une maîtrise exceptionnelle de la perspective géométrique et des contrastes de lumière, s'imposant comme l'un des rivaux les plus redoutables de Guido Reni sur le marché de l'art romain du XVIIe siècle."
+  },
+  {
+    id: "bethsabee-au-bain",
+    title: "Bethsabée au bain tenant la lettre de David",
+    artist: "Rembrandt",
+    date: 1654,
+    movement: "baroque",
+    location: "Musée du Louvre (Paris, France)",
+    image: "/artworks/baroque/bethsabee-au-bain.jpg",
+    description: "Ce nu intimiste de Rembrandt s'éloigne des représentations idéalisées de la mythologie classique pour explorer l'intériorité psychologique du personnage biblique de Bethsabée. La jeune femme est saisie à sa sortie du bain, tenant dans sa main la lettre par laquelle le roi David lui ordonne de commettre l'adultère en le rejoignant au palais, tandis qu'une servante âgée essuie ses pieds de manière discrète.\n\nLe modèle qui prêta ses traits à Bethsabée était Hendrickje Stoffels, la compagne de Rembrandt après la mort de son épouse Saskia. L'année même de la réalisation de la toile, Hendrickje fut convoquée officielle devant le conseil de l'Église réformée d'Amsterdam pour répondre de l'accusation d'immoralité, le couple vivant en concubinage notoire sans être marié, une situation de marginalité sociale qui se reflète dans la mélancolie profonde du regard du personnage.\n\nDes examens médicaux contemporains menés sur la toile ont mis en évidence une ombre sombre suspecte et une déformation fine sous l'aisselle gauche du sein de la modèle. Plusieurs oncologues et chirurgiens de l'histoire de l'art ont émis l'hypothèse que Hendrickje Stoffels souffrait d'une forme précoce de cancer du sein ou d'une infection lymphatique lourde, que Rembrandt aurait fidèlement peinte sans chercher à corriger le défaut physique pour préserver le réalisme de la chair."
+  },
+  {
+    id: "palais-du-luxembourg",
+    title: "Palais du Luxembourg",
+    artist: "Salomon de Brosse",
+    date: 1625,
+    movement: "baroque",
+    location: "Paris (France)",
+    image: "/artworks/baroque/palais-du-luxembourg.jpg",
+    description: "Construit par l'architecte Salomon de Brosse pour le compte de la reine-mère Marie de Médicis, le Palais du Luxembourg fut conçu pour rappeler à la souveraine l'architecture florentine de son enfance. Déstabilisée par l'austérité des résidences royales parisiennes après l'assassinat de son époux le roi Henri IV, elle ordonna l'achat d'un vaste domaine au sud de la Seine pour y élever un monument inspiré du célèbre Palais Pitti de Florence.\n\nDe Brosse adapta le modèle italien aux traditions de l'architecture de cour française, conservant un plan classique en U avec un grand corps de logis central flanqué de pavillons d'angle, tout en recouvrant l'ensemble des façades de bossages bosselés et de colonnes annelées en pierre de taille qui confèrent au monument un aspect lourd et monumental propre au premier baroque français.\n\nDurant la Révolution française, le palais fut confisqué et converti en prison d'État, abritant des détenus célèbres comme le peintre Jacques-Louis David ou le révolutionnaire Danton avant leur exécution. Le monument fut ensuite réaffecté pour abriter le Sénat conservateur sous le Consulat de Napoléon Bonaparte, une fonction politique que le site conserve encore de nos jours en servant de siège au Sénat de la République française."
+  },
+  {
+    id: "vue-de-delft",
+    title: "Vue de Delft",
+    artist: "Johannes Vermeer",
+    date: 1661,
+    movement: "baroque",
+    location: "Mauritshuis (La Haye, Pays-Bas)",
+    image: "/artworks/baroque/vue-de-delft.jpg",
+    description: "Ce paysage urbain monumentale constitue l'unique grande vue d'extérieur réalisée par Johannes Vermeer, représentant sa ville natale depuis les rives du canal de la Schie. Le peintre hollandais a capturé la topographie de Delft sous des conditions météorologiques changeantes, orchestrant un jeu d'ombres portées par les nuages qui assombrissent le premier plan tout en éclairant la haute tour de la Nouvelle Église à l'arrière-plan.\n\nL'œuvre doit une grande partie de sa notoriété à l'écrivain français Marcel Proust, qui plaça le tableau au cœur d'une scène dramatique de son roman « À la recherche du temps perdu ». Le personnage de l'écrivain Bergotte meurt d'une crise cardiaque au sein du musée après s'être déplacé pour observer une section spécifique de la toile qu'il jugeait parfaite, décrite comme « un petit pan de mur jaune avec un auvent », un détail qui poussa des générations de lecteurs à se déplacer à La Haye pour chercher le motif exact.\n\nLes historiens de l'art estiment que Vermeer s'est appuyé sur un dispositif d'optique physique, la « camera obscura » (la chambre noire), pour obtenir cette exactitude rigoureuse dans les alignements architecturaux et la texture de la brique. La surface de l'eau réfléchit la clarté du ciel à l'aide d'épais empâtements de peinture blanche melée de sable fin, une audace technique qui confère à la toile une matérialité vibrante unique pour l'époque."
+  },
+  {
+    id: "les-trois-graces-rubens",
+    title: "Les Trois Grâces",
+    artist: "Pierre Paul Rubens",
+    date: 1635,
+    movement: "baroque",
+    location: "Musée du Prado (Madrid, Espagne)",
+    image: "/artworks/baroque/les-trois-graces-rubens.jpg",
+    description: "Peint par Pierre Paul Rubens vers la fin de sa vie pour sa collection personnelle, ce tableau célèbre les trois divinités mythologiques de l'abondance et de la joie : Aglaé, Thalie et Euphrosyne, représentées formant une ronde sous une guirlande de fleurs printanières. L'œuvre incarne l'idéal esthétique de la beauté charnelle et généreuse propre à l'artiste flamand, qui refusait les canons de minceur de l'Antiquité au profit d'une célébration des corps voluptueux.\n\nLe modèle qui servit d'inspiration pour la Grâce située sur la gauche de la composition était Hélène Fourment, la seconde épouse de Rubens, qu'il avait mariée en 1630 alors qu'elle n'avait que seize ans et lui cinquante-trois. La présence d'Hélène dans de nombreuses toiles érotiques tardives de l'artiste témoigne de la fascination qu'elle exerçait sur sa création plastique.\n\nÀ la mort du peintre en 1640, le roi d'Espagne Philippe IV, grand admirateur du travail de l'artiste mais soucieux de la décence morale de sa cour chrétienne, acheta la toile directement auprès de la veuve pour l'intégrer aux collections secrètes du palais de l'Alcázar. Le tableau fut ainsi préservé des destructions de l'Inquisition avant d'être exposé publiquement au musée du Prado au XIXe siècle."
+  },
+  {
+    id: "portrait-innocent-x",
+    title: "Portrait du pape Innocent X",
+    artist: "Diego Velázquez",
+    date: 1650,
+    movement: "baroque",
+    location: "Galerie Doria-Pamphilj (Rome, Italie)",
+    image: "/artworks/baroque/portrait-innocent-x.jpg",
+    description: "Diego Velázquez réalisa ce portrait d'apparat magistral lors de sa seconde mission officielle à Rome, mandaté par le roi d'Espagne pour acquérir des œuvres d'art. Le peintre espagnol construisit une symétrie chromatique complexe basée exclusivement sur des variations de rouges (satin écarlate de la mozette, velours du fauteuil, tentures d'arrière-plan), contrastant avec la blancheur du rochet en dentelle et la pâleur du visage du souverain pontife.\n\nLorsque le pape Innocent X vit l'œuvre achevée pour la première fois, il fut déstabilisé par le réalisme implacable du portrait, qui capturait sans concession son regard méfiant, sévère et autoritaire, loin des images religieuses idéalisées courantes au Vatican. Le souverain pontife s'exclama en italien : « Troppo vero ! » (« Trop vrai ! »), tout en acceptant la toile avec admiration et en offrant une lourde chaîne d'or au peintre en guise de récompense.\n\nAu XXe siècle, ce tableau exerça une fascination obsessionnelle sur le peintre britannique Francis Bacon. Ce dernier passa plus de deux décennies à réaliser une série de plus de quarante variantes torturées de l'œuvre de Velázquez, connues sous le nom de « Papas hurlants », où la silhouette d'Innocent X apparaît déformée, enfermée dans une cage spatiale transparente et poussant un cri de terreur existentielle."
+  },
+  {
+    id: "le-concert-vermeer",
+    title: "Le Concert",
+    artist: "Johannes Vermeer",
+    date: 1664,
+    movement: "baroque",
+    location: "Volé au Musée Isabella Stewart Gardner (Boston, États-Unis)",
+    image: "/artworks/baroque/le-concert-vermeer.jpg",
+    description: "Ce tableau de Johannes Vermeer met en scène trois personnages de la bourgeoisie hollandaise réunis autour d'une séance musicale dans un salon de réception raffiné : une jeune femme assise au clavecin dont le couvercle est peint d'un paysage, un homme de dos jouant du luth et une chanteuse debout tenant une feuille de musique. La composition géométrique rigoureuse s'appuie sur le pavement de carreaux de marbre noir et blanc qui structure la perspective spatiale de la pièce.\n\nÀ l'arrière-plan de la scène, Vermeer a accroché au mur une œuvre réelle issue de la collection privée de sa belle-mère, « La Entremetteuse » du peintre de l'école de d'Utrecht Dirck van Baburen. Cette peinture dans la peinture, montrant une scène de prostitution marchande, fonctionne comme un commentaire moral discret suggérant que les relations amoureuses entre les musiciens ne sont pas exemptes d'artifices ou de séductions ambiguës.\n\nL'œuvre est devenue tristement célèbre dans l'histoire de l'art pour sa disparition tragique le 18 mars 1990. Deux cambrioleurs déguisés en officiers de la police de Boston s'introduisirent de nuit au musée Isabella Stewart Gardner, neutralisèrent les gardes et découperent la toile de son cadre original aux côtés de douze autres chefs-d'œuvre de Rembrandt et de Manet. Malgré une prime de dix millions de dollars offerte par le FBI, le tableau n'a jamais été retrouvé, s'imposant comme l'œuvre d'art volée la plus chère du monde, estimée à plus de deux cent cinquante millions de dollars."
+  },
+  {
+    id: "syndic-guilde-drapiers",
+    title: "Le Syndic de la guilde des drapiers",
+    artist: "Rembrandt",
+    date: 1662,
+    movement: "baroque",
+    location: "Rijksmuseum (Amsterdam, Pays-Bas)",
+    image: "/artworks/baroque/syndic-guilde-drapiers.jpg",
+    description: "Commandé par la puissante corporation des drapiers d'Amsterdam pour orner leur salle de réunion, ce portrait collectif représente les cinq contrôleurs de la qualité des draps de laine, accompagnés d'un serviteur en retrait à l'arrière-plan. Rembrandt a conçu la composition de manière à placer la table de réunion en légère contre-plongée, donnant l'illusion que les syndics dominent l'espace de la pièce.\n\nL'astuce scénographique majeure de Rembrandt réside dans l'orientation coordonnée des regards des personnages. Tous fixent un même point situé devant la toile, comme si le spectateur venait de faire irruption dans la salle et d'interrompre brusquement leur séance de travail en plein milieu de l'examen d'un registre de comptes, créant une inclusion interactive propre à l'art baroque.\n\nLe tableau fut salué par la critique contemporaine comme le dernier grand chef-d'œuvre de portrait collectif de l'artiste, réalisé à une période où son style rugueux et ses empâtements lourds commençaient à être boudés par la bourgeoisie hollandaise, qui s'orientait vers les portraits lisses et clairs inspirés de la mode de la cour de France."
+  },
+  {
+    id: "triple-portrait-charles-ier",
+    title: "Triple portrait de Charles Ier",
+    artist: "Antoine van Dyck",
+    date: 1636,
+    movement: "baroque",
+    location: "Royal Collection (Château de Windsor, Royaume-Uni)",
+    image: "/artworks/baroque/triple-portrait-charles-ier.jpg",
+    description: "Ce portrait singulier d'Antoine van Dyck présente trois positions distinctes du visage du roi d'Angleterre Charles Ier sur une seule et même toile : de profil gauche, de trois-quarts droit et de face, le souverain arborant à chaque fois une nuance différente de ses costumes de cour de soie satinée et le grand collier de l'Ordre de la Jarretière.\n\nL'œuvre ne fut pas réalisée pour être exposée dans les galeries du palais royal, mais fut conçue comme un outil technique utilitaire. Elle fut envoyée à Rome pour servir de modèle tridimensionnel au sculpteur Gian Lorenzo Bernini, le pape Urbain VIII ayant souhaité offrir un buste en marbre du roi d'Angleterre en cadeau diplomatique pour favoriser le rapprochement religieux avec la cour Stuart.\n\nLe Bernin, qui n'avait jamais rencontré le roi en personne, s'appuya exclusivement sur la précision des angles peints par Van Dyck pour sculpter le monument de marbre. En découvrant la toile à Rome, le sculpteur baroque aurait noté la mélancolie profonde des traits du roi, affirmant que le visage portait la marque d'une fin tragique promise par le destin. Le buste en marbre fut livré à Londres avec succès, mais fut malheureusement détruit dans l'incendie tragique du palais de Whitehall en 1698."
+  },
+  {
+    id: "tempete-mer-galilee",
+    title: "Le Christ dans la tempête sur la mer de Galilée",
+    artist: "Rembrandt",
+    date: 1633,
+    movement: "baroque",
+    location: "Volé au Musée Isabella Stewart Gardner (Boston, États-Unis)",
+    image: "/artworks/baroque/tempete-mer-galilee.jpg",
+    description: "Cette composition de Rembrandt constitue l'unique paysage marin connu réalisé par le maître hollandais au cours de sa carrière. L'œuvre illustre un épisode évangélique au cours duquel les apôtres paniquent face aux vagues déchaînées qui submergent leur barque de pêche, tandis que Jésus s'éveille pour calmer les éléments de sa main divine.\n\nRembrandt s'est inclus de manière anonyme au cœur de la détresse des passagers. Le personnage situé au centre de la barque, qui s'accroche d'une main à un cordage tout en maintenant son bonnet de l'autre, emprunte les traits exacts de l'artiste à l'âge de vingt-sept ans, un procédé d'autoportrait masqué récurrent dans ses peintures d'histoire.\n\nLe tableau partage le même destin tragique que « Le Concert » de Vermeer. Découpé de son cadre lors du grand cambriolage du musée Isabella Stewart Gardner de Boston en 1990, il n'a jamais été localisé par les services d'enquête. De nos jours, l'institution conserve le cadre en bois doré vide suspendu au mur de la salle hollandaise, un témoignage poignant de la perte de ce chef-d'œuvre baroque."
+  },
+  {
+    id: "la-dentelliere",
+    title: "La Dentellière",
+    artist: "Johannes Vermeer",
+    date: 1670,
+    movement: "baroque",
+    location: "Musée du Louvre (Paris, France)",
+    image: "/artworks/baroque/la-dentelliere.jpg",
+    description: "Mesurant seulement vingt-quatre centimètres sur vingt et un, cette toile constitue le plus petit format réalisé par Johannes Vermeer, contrastant avec l'ampleur visuelle et la notoriété universelle de l'œuvre. Le tableau saisit une jeune artisane de la bourgeoisie de Delft concentrée sur la manipulation fastidieuse de fuseaux de bois pour tisser de la dentelle fine sur un coussin de couture.\n\nLe peintre a introduit un effet de flou optique révolutionnaire pour l'époque, qui reproduit fidèlement la profondeur de champ de l'œil humain. Alors que le visage et les mains de la jeune femme sont peints avec une netteté microscopique, les fils de laine rouge et blanc émergeant du coussin de travail au premier plan sont représentés par de grosses traînées de peinture fluides et floues, simulant la perte de mise au point de l'observateur en s'approchant de la scène.\n\nLe célèbre peintre surréaliste espagnol Salvador Dalí vouait une admiration sans borne à cette toile miniature depuis son adolescence. En 1955, il obtint l'autorisation exceptionnelle de la direction du musée du Louvre de s'installer devant le tableau d'origine avec son chevalet pour réaliser une copie surréaliste, qui donna naissance à sa toile « Paranoïaque-critique de la Dentellière de Vermeer », où la silhouette de l'artisane explose en une multitude de cornes de rhinocéros géométriques."
+  },
+  {
+    id: "autoportrait-beret-rembrandt",
+    title: "Autoportrait avec béret et col droit",
+    artist: "Rembrandt",
+    date: 1659,
+    movement: "baroque",
+    location: "National Gallery of Art (Washington, États-Unis)",
+    image: "/artworks/baroque/autoportrait-beret-rembrandt.jpg",
+    description: "Réalisé à l'âge de cinquante-trois ans, cet autoportrait de Rembrandt constitue l'un des morceaux d'introspection les plus poignants de l'histoire de la peinture occidentale. L'artiste se peint au lendemain d'une faillite financière dévastatrice qui l'a contraint à vendre sa grande maison d'Amsterdam, ses collections d'œuvres d'art antiques et ses presses de gravure pour épurer ses dettes, le reléguant dans un quartier populaire périphérique.\n\nRembrandt refuse toute idéalisation de ses traits, utilisant une touche épaisse et tourmentée pour sculpter les rides de son front, le relâchement de ses joues et la fatigue de ses yeux qui fixent le spectateur avec une fierté intacte. Ses mains sont simplement ébauchées à l'aide de grands coups de brosse rapides, attirant toute l'attention et la lumière sur la vérité psychologique du visage.\n\nLa toile témoigne du triomphe de sa technique tardive, basée sur l'utilisation du couteau à palette et des doigts pour étaler les pigments d'ocre et de blanc de plomb directement dans la matière fraîche. Ce style rugueux et expressif, incompris par ses contemporains qui le jugeaient inachevé, fait de cet autoportrait l'une des pièces majeures de la collection nationale américaine à Washington."
+  }
+];

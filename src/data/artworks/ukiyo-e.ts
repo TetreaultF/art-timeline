@@ -1,0 +1,124 @@
+import type { Artwork } from "@/components/ArtworkGrid";
+
+export const ukiyoEArtworks: Artwork[] = [
+  {
+    id: "grande-vague-kanagawa",
+    title: "La Grande Vague de Kanagawa (des Trente-six vues du mont Fuji)",
+    artist: "Katsushika Hokusai",
+    date: 1831,
+    movement: "ukiyo-e",
+    location: "Plusieurs exemplaires",
+    image: "/artworks/ukiyo-e/grande-vague-kanagawa.jpg",
+    description: "Première planche de la série monumentale des Trente-six vues du mont Fuji, cette estampe polychrome (« nishiki-e ») de Katsushika Hokusai est devenue l'icône universelle de l'art japonais. La composition s'appuie sur un contraste d'échelle saisissant : une vague scélérate s'élève au premier plan, déployant des embruns écumeux en forme de griffes crochues prêtes à s'effondrer sur de frêles embarcations de transport de poissons (« oshi送り-bune »), tandis que la silhouette immuable du mont Fuji apparaît minuscule à l'arrière-plan, parfaitement encadrée par la courbure géométrique du sillage marin.\n\nL'innovation technique majeure de Hokusai réside dans l'utilisation massive du bleu de Prusse, un pigment synthétique d'importation occidentale introduit au Japon par les marchands hollandais installés sur l'île artificielle de Dejima. Ce pigment se distinguait par son intensité chromatique inédite et sa résistance à la décoloration par rapport aux encres végétales traditionnelles, permettant d'obtenir de riches nuances pour le rendu de la profondeur des flots. Pour graver les blocs de bois de cerisier, l'artisan a employé des lignes de contour vigoureuses issues du sillage de l'école Rinpa.\n\nL'œuvre fit l'objet d'une circulation intense à Paris lors de la réouverture des frontières de l'époque Meiji, déclenchant le mouvement du japonisme auprès des peintres occidentaux. Le compositeur Claude Debussy s'appuya sur l'impact visuel de cette estampe, qu'il possédait accrochée au mur de son cabinet de travail, pour concevoir la structure orchestrale de sa pièce de parure symphonique « La Mer », choisissant même d'imprimer le motif de la vague sur la couverture de la partition d'origine en 1905."
+  },
+  {
+    id: "trois-beautes-notre-temps",
+    title: "Trois beautés de notre temps",
+    artist: "Kitagawa Utamaro",
+    date: 1793,
+    movement: "ukiyo-e",
+    location: "Plusieurs exemplaires",
+    image: "/artworks/ukiyo-e/trois-beautes-notre-temps.jpg",
+    description: "Cette composition de Kitagawa Utamaro représente le sommet du genre « bijin-ga » (portraits de jolies femmes) de la période Kansei, caractérisé par l'introduction du « okubi-e », le cadrage resserré en gros plan sur les visages et les bustes. L'artiste orchestre un arrangement triangulaire harmonieux mettant en scène trois célébrités réelles des quartiers de divertissement d'Edo : les courtisanes Tomimoto Toyohina, Naniwaya Okita et Takashima Ohisa, brisant les conventions de l'anonymat pour ancrer son œuvre dans la chronique urbaine contemporaine.\n\nPour conférer un aspect précieux et chatoyant à l'arrière-plan de l'estampe, Utamaro mit au point un protocole technique raffiné appelé « kira-zuri ». Les artisans saupoudraient de la fine poussière de mica brillant sur l'encre encore fraîche de la surface du papier, créant un fond réfléchissant imitant la nacre ou le miroir poli. Ce dispositif optique permet de détacher avec netteté la pâleur diaphane de la peau des modèles, le contour de leurs coiffures complexes et le tracé fin de leurs sourcils arqués.\n\nL'identité de chaque modèle était initialement identifiable par le public de l'époque grâce à de petits rébus géométriques et calligraphiés insérés dans des cartouches au sommet de la feuille. Cependant, les décrets de censure de l'administration shogunale de 1804 interdirent formellement la représentation publique des noms et des blasons des citoyennes ordinaires pour freiner le culte de la personnalité des quartiers de plaisir, contraignant les éditeurs à gratter ces signes distinctifs sur les blocs de bois originaux pour les tirages ultérieurs."
+  },
+  {
+    id: "pruneraie-kameido",
+    title: "Pruneraie à Kameido (des Cent vues d'Edo)",
+    artist: "Utagawa Hiroshige",
+    date: 1857,
+    movement: "ukiyo-e",
+    location: "Plusieurs exemplaires",
+    image: "/artworks/ukiyo-e/pruneraie-kameido.jpg",
+    description: "Issue de la série tardive des Cent vues d'Edo, cette estampe d'Utagawa Hiroshige témoigne de l'audace des compositions spatiales qui caractérisent la maturité de l'artiste. La scène dépeint le célèbre prunier du sanctuaire de Kameido, surnommé le « prunier du dragon couché » (« Garyūba ») en raison de la structure sinueuse de ses branches basses qui s'enfonçaient dans le sol pour resurgir à distance. Hiroshige adopte une perspective révolutionnaire en plaçant le tronc de l'arbre au premier plan immédiat en gros plan, coupant le cadre de manière abrupte pour forcer le spectateur à observer le reste du jardin à travers le réseau des branches.\n\nLe peintre utilise la technique du « bokashi », un procédé d'essuyage manuel de l'encre sur le bloc de bois humidifié avant l'impression, permettant de créer un dégradé fluide et vertical passant du vert de la plaine au rouge brique du ciel crépusculaire. Les silhouettes miniatures des visiteurs déambulant en arrière-plan sont dessinées avec une grande économie de traits linéaires, soulignant le rôle de l'arbre comme repère monumental de la scène.\n\nCette planche exerça une fascination obsessionnelle sur le peintre hollandais Vincent van Gogh lors de sa découverte des collections d'estampes à Anvers et à Paris. En 1887, Van Gogh réalisa une copie à l'huile fidèle de l'œuvre d'Hiroshige, intitulée « Japornerie : Prunier en fleurs », modifiant la saturation des pigments pour employer des tons verts et rouges incandescents. Pour parfaire l'exotisme de sa toile, il encadra la composition d'une large bordure noire saturée de caractères hiératiques japonais copiés au hasard à partir de journaux d'emballage publicitaires."
+  },
+  {
+    id: "amoureux-neige",
+    title: "Amoureux marchant dans la neige (Corbeau et Héron)",
+    artist: "Suzuki Harunobu",
+    date: 1772,
+    movement: "ukiyo-e",
+    location: "Plusieurs exemplaires",
+    image: "/artworks/ukiyo-e/amoureux-neige.jpg",
+    description: "Cette œuvre de Suzuki Harunobu est considérée comme l'un des premiers chefs-d'œuvre du genre « nishiki-e » (estampes de brocart), un procédé d'impression polychrome développé dans les années 1760 permettant de superposer plus de dix encres distinctes grâce à un repérage rigoureux des blocs de bois de cerisier. La scène, d'une grande poésie mélancolique, met en scène un jeune couple marchant sous une averse de flocons de neige de hiver, partageant un unique parasol de bambou.\n\nL'intérêt graphique repose sur le contraste chromatique absolu des vêtements, qui valut à la feuille le surnom populaire de « Corbeau et Héron » (« Sagi musume ») au sein de la société d'Edo : le jeune homme arbore un manteau d'un noir de jais profond, tandis que la courtisane est enveloppée dans une étoffe d'une blancheur diaphane immaculée. Harunobu supprime la profondeur spatiale traditionnelle au profit d'un arrière-plan gris neutre qui accentue la solitude poétique des amants.\n\nPour simuler la texture lourde de la neige s'accumulant sur le sol et sur le parasol, l'artisan a mis en œuvre la technique du « karazuri » (impression à sec ou gaufrage). Ce procédé consiste à presser fortement le papier de lin humide contre le bois sculpté sans y appliquer d'encre, créant de légers reliefs et des micro-ombres tridimensionnelles sur la surface de la feuille, un souci du détail délicat propre à la culture de la cour d'Edo."
+  },
+  {
+    id: "takiyasha-sorciere-fantome",
+    title: "Takiyasha la sorcière et le fantôme du squelette",
+    artist: "Utagawa Kuniyoshi",
+    date: 1844,
+    movement: "ukiyo-e",
+    location: "Plusieurs exemplaires",
+    image: "/artworks/ukiyo-e/takiyasha-sorciere-fantome.jpg",
+    description: "Ce triptyque monumental d'Utagawa Kuniyoshi illustre un épisode dramatique des chroniques médiévales du Japon, au moment où la princesse Takiyasha, fille du chef rebelle Taira no Masakado, se réfugie dans les ruines du palais de Sōma après la défaite de sa lignée. Pour repousser l'assaut du guerrier de cour Ōya Tarō Mitsukuni dépêché par le souverain, la princesse déchiffre un rouleau de formules magiques rituelles afin d'invoquer une créature fantastique souterraine.\n\nKuniyoshi rompt avec la tradition des trois volets indépendants pour concevoir une mise en scène continue et colossale qui traverse l'ensemble de l'espace graphique. Un squelette géant (« gashadokuro ») émerge des ténèbres du fond noir, écartant les pans d'une tenture de soie déchirée pour plonger ses mains osseuses vers l'avant, une perspective monumentale qui terrifie les soldats au premier plan. La précision de la structure osseuse témoigne de l'intérêt de l'artiste pour les planches d'anatomie occidentales d'importation.\n\nL'œuvre fut publiée à une période où l'administration shogunale menait les réformes Tenpō, des édits de censure sévères interdisant la représentation de guerres réelles contemporaines ou de satires politiques directes de la cour. Kuniyoshi contourna l'interdiction en maquillant les événements sous les codes d'un récit médiéval fantastique, le public d'Edo y décodant immédiatement une métaphore visuelle critiquant la corruption et la déliquescence de l'autorité du Shogunat face aux séditions régionales."
+  },
+  {
+    id: "actor-otani-oniji",
+    title: "L'Acteur de kabuki Ōtani Oniji III dans le rôle de Yakko Edobei",
+    artist: "Tōshūsai Sharaku",
+    date: 1794,
+    movement: "ukiyo-e",
+    location: "Plusieurs exemplaires",
+    image: "/artworks/ukiyo-e/actor-otani-oniji.jpg",
+    description: "Peinte au cours d'une brève et mystérieuse carrière artistique de seulement dix mois, cette estampe de Tōshūsai Sharaku s'inscrira comme l'un des sommets de l'art du portrait d'acteur de théâtre kabuki (« yakusha-e »). L'œuvre représente le comédien Ōtani Oniji III dans le rôle du serviteur mercenaire Yakko Edobei, saisi lors d'une pose dramatique figée (« mie »), caractérisée par une grimace de tension faciale et des doigts écartés crispés vers l'avant.\n\nSharaku refuse de céder à la flatterie et à l'idéalisation habituelles des portraits de cour de l'époque. Il accentue les singularités physiques de l'acteur par le biais d'un dessin proche de la caricature : les yeux sont asymétriques et louches, le nez est proéminent et busqué, et les sourcils dessinent des pointes géométriques rudes, capturant ainsi la vérité psychologique et la férocité du méchant sur scène. L'arrière-plan emploie un fond noir scintillant de mica sombre.\n\nCe réalisme brutal et psychologique déstabilisa profondément la guilde des acteurs et la clientèle d'Edo, habituée à des images plus lisses et consensuelles pour orner les boîtes de souvenirs ou les murs des salons. Devant l'échec critique et le rejet commercial de ses tirages, Sharaku cessa toute production artistique et disparut définitivement de la scène publique en 1795, son identité réelle (probablement un acteur de théâtre Nō nommé Saitō Jūrōbei) continuant de nourrir les débats des historiens de l'art."
+  },
+  {
+    id: "vent-frais-matin-clair",
+    title: "Vent frais par matin clair (des Trente-six vues du mont Fuji)",
+    artist: "Katsushika Hokusai",
+    date: 1831,
+    movement: "ukiyo-e",
+    location: "Plusieurs exemplaires",
+    image: "/artworks/ukiyo-e/vent-frais-matin-clair.jpg",
+    description: "Surnommée traditionnellement « Le Fuji rouge » (« Aka-Fuji »), cette estampe de Katsushika Hokusai représente, avec « La Grande Vague », la planche la plus célèbre de sa série paysagère. La composition se distingue par une économie de moyens graphiques et une pureté géométrique absolue, réduisant le volcan sacré du Japon à un grand triangle asymétrique qui occupe l'espace central de la feuille.\n\nLa scène capture un phénomène météorologique rare survenant au début de l'automne, lorsque la combinaison d'un vent du sud frais et d'un ciel dégagé par le matin clair permet aux premiers rayons du soleil levant de teinter les pentes de terre volcanique nue d'un rouge brique profond et chaud. Le sommet du volcan conserve de fines traînées de neige peintes en blanc de plomb, tandis que la base est bordée par une frise de forêts de pins miniatures dessinées d'après nature. Le ciel azur est animé par un réseau régulier de nuages blancs moutonnants obtenus par gaufrage.\n\nLes tirages de l'œuvre révèlent des variations chromatiques notables selon l'état d'usure des blocs de bois d'origine. Les premiers exemplaires, d'une grande rareté, déploient une palette plus douce et nuancée, issue d'un essuyage manuel de l'encre délicat, alors que les éditions tardives commandées par les imprimeurs affichent un rouge saturé et homogène, démontrant l'adaptation de la technique commerciale face à la demande de masse des voyageurs d'Edo."
+  },
+  {
+    id: "beaute-retournant",
+    title: "Beauté se retournant",
+    artist: "Hishikawa Moronobu",
+    date: 1690,
+    movement: "ukiyo-e",
+    location: "Musée national de Tokyo (Tokyo, Japon)",
+    image: "/artworks/ukiyo-e/beaute-retournant.jpg",
+    description: "Conservée au musée national de Tokyo, cette peinture originale (« nikuhitsu ukiyo-e ») exécutée à l'encre et pigments sur soie fine constitue l'œuvre fondatrice du mouvement de « l'art du monde flottant ». Hishikawa Moronobu, initialement célèbre pour ses illustrations de livres gravés, s'impose ici comme le peintre qui fixa les codes esthétiques de la représentation des élégantes de la période Genroku.\n\nUne jeune femme de la haute aristocratie urbaine est représentée marchant vers la droite, saisie au moment précis où elle effectue un mouvement de torsion du cou pour jeter un regard furtif par-dessus son épaule, une posture d'une grande grâce qui met en valeur la structure sinueuse de sa chevelure nouée. Elle revêt un somptueux kimono rouge vermillon orné de motifs brodés de fleurs de cerisier et de rinceaux, ceint d'un large obi noir dont le nœud lourd retombe à l'arrière.\n\nMoronobu supprime tout élément de décor ou paysage d'arrière-plan pour focaliser exclusivement la lumière et l'espace sur le mouvement fluide de la silhouette féminine. L'œuvre servit de modèle canonique absolu pour toutes les générations d'enlumineurs et de graveurs de la dynastie d'Edo, qui déclinèrent cette posture du regard par-dessus l'épaule dans des milliers d'estampes publicitaires dédiées à la mode vestimentaire des salons de thé."
+  },
+  {
+    id: "cascade-ono-kisokaido",
+    title: "Cascade d'Ono sur le Kisokaidō",
+    artist: "Katsushika Hokusai",
+    date: 1832,
+    movement: "ukiyo-e",
+    location: "Plusieurs exemplaires",
+    image: "/artworks/ukiyo-e/cascade-ono-kisokaido.jpg",
+    description: "Issue de la série illustrée des Cascades des différentes provinces, cette planche de Katsushika Hokusai déploie une réflexion géométrique rigoureuse sur la représentation des forces de la nature. La composition s'organise autour de la verticalité absolue de la cascade d'Ono, située le long de la route de montagne du Kisokaidō, dont le jet d'eau rectiligne traverse la feuille du haut vers le bas comme une lame métallique blanche et bleue.\n\nHokusai oppose la rigidité de cette colonne d'eau à la courbure organique d'un petit pont de bois suspendu au premier plan, sur lequel progresse un groupe de voyageurs et de pèlerins chrétiens serrés sous leurs chapeaux de paille. L'écume au bas de la chute est stylisée sous la forme d'une multitude de petites gouttelettes sphériques blanches qui semblent suspendues dans l'air, un dispositif graphique imitant les reliefs cannelés de la statuaire.\n\nL'artiste emploie une palette chromatique contrastée, juxtaposant le bleu de Prusse d'importation à des teintes jaunes et ochres pour dessiner les reliefs de la roche volcanique environnante. L'estampe fut saluée par les cercles intellectuels d'Edo pour sa capacité à concilier le dynamisme du paysage de montagne avec une décomposition abstraite des éléments naturels, préfigurant les recherches sur la ligne pure du sillage moderne occidental."
+  },
+  {
+    id: "pont-ohashi",
+    title: "Le pont Ōhashi à Atake sous une averse soudaine (des Cent vues d'Edo)",
+    artist: "Utagawa Hiroshige",
+    date: 1857,
+    movement: "ukiyo-e",
+    location: "Plusieurs exemplaires",
+    image: "/artworks/ukiyo-e/pont-ohashi.jpg",
+    description: "Ce chef-d'œuvre atmosphérique d'Utagawa Hiroshige représente le pont de bois Ōhashi franchissant le fleuve Sumida à Edo lors d'un orage d'été violent. La composition utilise un cadrage asymétrique et une perspective coupée, montrant une frise de passants miniatures de profil se hâtant de traverser la structure, abrités sous des parasols de bambou ou drapés dans des nattes de paille pour échapper aux intempéries.\n\nLe génie technique de l'œuvre réside dans la matérialisation de la pluie. Hiroshige a gravé de minces lignes hachurées parallèles très denses, croisées selon deux angles fins, qui traversent l'ensemble de l'espace graphique pour figurer l'intensité et la vitesse des gouttes d'eau. Le ciel supérieur subit un dégradé de noir de jais obtenu par le procédé du « bokashi », simulant la masse des nuages d'orage, tandis que la silhouette d'un radeau de bois flotte au milieu du fleuve assombri.\n\nL'estampe fut copiée à l'huile avec dévotion par Vincent van Gogh en 1887 sous le titre « Japonaiserie : Pont sous la pluie », l'artiste peignant de larges caractères hiératiques japonais le long des bordures rouges de sa toile pour en accentuer la dimension de cabinet de curiosités. La feuille d'Hiroshige demeure la référence universelle analysée pour l'étude de la traduction des phénomènes climatiques au sein des arts graphiques de la fin du siècle."
+  },
+  {
+    id: "shono-tokaido",
+    title: "Shōno (des Cinquante-trois stations du Tōkaidō)",
+    artist: "Utagawa Hiroshige",
+    date: 1833,
+    movement: "ukiyo-e",
+    location: "Plusieurs exemplaires",
+    image: "/artworks/ukiyo-e/shono-tokaido.jpg",
+    description: "Peinte à la suite du premier voyage officiel de l'artiste le long de la grande route côtière reliant Edo à la cour impériale de Kyoto, cette planche s'inscrit comme la plus célèbre de la série des Cinquante-trois stations du Tōkaidō. L'œuvre dépeint la station de Shōno lors d'une tempête de pluie soudaine, rompant avec les paysages statiques conventionnels pour introduire une dimension narrative et vécue d'une grande poésie urbaine.\n\nHiroshige organise la composition spatiale autour de l'inclinaison des formes : les brins de bambous de la colline d'arrière-plan plient sous la violence des rafales de vent de manière asymétrique, dessinant des lignes de force obliques horizontales. Au premier plan, des porteurs de palanquins (« kago ») et des voyageurs courent le long du sentier de terre battue pour chercher un abri, leurs corps inclinés vers l'avant soulignant l'effort physique face aux éléments déchaînés.\n\nL'imprimeur a mis en œuvre des dégradés subtils de gris et de vert pour suggérer la perte de mise au point des collines sous l'effet de l'écran de pluie, une technique de perspective atmosphérique novatrice pour l'époque. Le succès de cette série fut si colossal qu'il permit de consacrer Hiroshige comme le rival principal de Hokusai sur le marché lucratif des estampes paysagères d'Edo, installant durablement la route du Tōkaidō dans l'imaginaire des citadins."
+  },
+  {
+    id: "reve-femme-pecheur",
+    title: "Le Rêve de la femme du pêcheur",
+    artist: "Katsushika Hokusai",
+    date: 1814,
+    movement: "ukiyo-e",
+    location: "Plusieurs exemplaires",
+    image: "/artworks/ukiyo-e/reve-femme-pecheur.jpg",
+    description: "Publiée au sein du recueil illustré d'érotisme « Kinoe no Komatsu » (Jeunes pins au début de l'année), cette estampe de Katsushika Hokusai représente le monument emblématique du genre « shunga » (les images de printemps érotiques), s'inscrivant en dehors des circuits de censure officiels de l'administration d'Edo. L'œuvre met en scène une jeune plongeuse (« ama ») alanguie nue sur un tertre rocheux, enlacée par un couple de pieuvres, une grande créature sombre effectuant une cunnilingus tandis qu'un petit céphalopode caresse ses lèvres et sa poitrine.\n\nLa composition se caractérise par l'absence d'espaces vides sur la feuille, l'arrière-plan entourant le corps des modèles étant entièrement tapissé d'un texte calligraphié denses rédigé en écriture cursive. Ce texte retranscrit les longs dialogues érotiques et les murmures passionnés échangés entre la femme et la pieuvre géante, cette dernière exprimant sa fascination pour la douceur de la chair de la plongeuse tandis que la jeune femme sombre dans un état d'extase psychologique mêlé de langueur marine.\n\nL'œuvre s'inspire de récits populaires légendaires de l'époque d'Edo, notamment le mythe de la princesse Tamatori qui avait affronté le palais du roi dragon des mers pour récupérer un joyau précieux volé. Le dessin de Hokusai exerça une influence déterminante sur les courants surréalistes et modernistes occidentaux du XXe siècle, fascinés par cette fusion de la sexualité et de l'onirisme animalier, inspirant directement des variantes graphiques chez Auguste Rodin, Félicien Rops et Pablo Picasso."
+  }
+];

@@ -1,0 +1,94 @@
+import type { Artwork } from "@/components/ArtworkGrid";
+
+export const celticArtworks: Artwork[] = [
+  {
+    id: "chaudron-gundestrup",
+    title: "Chaudron de Gundestrup",
+    artist: "Inconnu",
+    date: -100,
+    movement: "celtic",
+    location: "Musée national du Danemark (Copenhague, Danemark)",
+    image: "/artworks/celtic/chaudron-gundestrup.jpg",
+    description: "Découvert en 1891 dans une tourbière du Jutland au Danemark, ce vase monumental en argent massif constitue le plus grand ensemble d'orfèvrerie de l'âge du fer européen. Le récipient fut retrouvé entièrement démonté, ses plaques décoratives ayant été déposées à plat sur le sol selon un protocole de dépôt rituel ou d'offrande votive couronné par les eaux de la tourbière. L'analyse stylistique révèle une origine complexe : si les motifs illustrent des divinités celtiques, la technique de fabrication est typique des artisans thraces établis le long du Danube, témoignant des vifs échanges culturels et mercenaires à travers l'Europe ancienne.\n\nLe chaudron se compose d'une plaque de fond circulaire surmontée de cinq plaques intérieures et de sept plaques extérieures richement ornées selon les techniques du martelage et du repoussé, rehaussées de fines dorures partielles et d'incrustations de verre. Le programme iconographique déploie une cosmogonie denses où figure le dieu cornu Cernunnos, représenté assis en position de tailleur, ceint d'un torque royal et tenant un serpent à tête de bélier, entouré d'animaux exotiques comme des lions et des éléphants que les graveurs n'avaient probablement jamais observés directement.\n\nLa plaque du fond du récipient illustre le sacrifice d'un immense taureau mythologique moribond, dominé par une figure humaine brandissant une épée, une scène que les historiens lient aux rituels de chasse ou à des mythes de régénération agraire. L'objet servit probablement de butin de guerre capturé par la tribu des Cimbres ou des Teutons lors de leurs incursions vers le sud, avant d'être acheminé et dissimulé dans le nord du Danemark."
+  },
+  {
+    id: "casque-agris",
+    title: "Casque d'Agris",
+    artist: "Inconnu",
+    date: -350,
+    movement: "celtic",
+    location: "Musée d'Angoulême (Angoulême, France)",
+    image: "/artworks/celtic/casque-agris.jpg",
+    description: "Exhumé en 1981 lors de fouilles archéologiques menées dans la grotte des Perrats à Agris, en Charente, ce casque cérémoniel représente l'un des sommets de l'art mobilier gaulois de la période de La Tène ancienne. Le site, utilisé de façon continue comme lieu de culte et de dépôts sacrés, abritait la structure fragmentée au fond d'un puits calcaire. L'objet est constitué d'une calotte de fer malléable entièrement recouverte par des bandes de bronze d'une grande finesse, qui servent de support à un habillage d'or pur et d'incrustations de corail rouge importé de Méditerranée.\n\nL'artisan celte a mis en œuvre une technique d'orfèvrerie superlative pour plaquer les feuilles d'or d'une pureté exceptionnelle (évaluée à près de 99%), les fixant à l'aide de petits rivets de bronze et de motifs repoussés imitant des palmettes, des volutes et des motifs de S entrelacés d'influence étrusque. Le protège-nuque articulé et les paragnathides (garde-joues) amovibles arborent un décor d'une grande densité où figure un petit monstre cornu dissimulé parmi les rinceaux floraux.\n\nCe casque d'apparat n'était pas conçu pour affronter les chocs des combats de mêlée, la minceur des décors d'or et de corail étant incompatible avec un usage militaire. Il constituait l'insigne de prestige suprême d'un prince ou d'un chef de clan gaulois de la tribu des Santons, utilisé exclusivement lors des assemblées religieuses ou des parades politiques, avant d'être offert aux divinités celtiques souterraines au sein de la cavité rocheuse."
+  },
+  {
+    id: "glauberg",
+    title: "Guerrier du Glauberg",
+    artist: "Inconnu",
+    date: -500,
+    movement: "celtic",
+    location: "Musée du Glauberg (Glauberg, Allemagne)",
+    image: "/artworks/celtic/glauberg.png",
+    description: "Découverte en 1996 à proximité d'un monumental tumulus princier en Hesse, cette statue en grès de taille humaine constitue l'unique représentation anthropomorphe complète d'un aristocrate celte de la période de Hallstatt tardive qui nous soit parvenue. La sculpture fonctionnait comme une stèle funéraire héroïsante, érigée au sommet ou aux abords de la tombe d'un chef de clan pour perpétuer sa mémoire et asseoir le prestige politique de sa lignée.\n\nLe guerrier est représenté vêtu d'une armure de cuir composite et tenant un bouclier composite oblong contre son corps. L'élément le plus saisissant de sa physionomie réside dans sa coiffe monumentale, composée de deux protubérances latérales incurvées appelées « coiffe en oreilles de feuille ». Cette parure, loin d'être une invention de sculpteur, correspondait à un véritable bonnet de textile ou de cuir rembourré, insigne de statut sacré ou de fonction druidique et militaire majeure au sein du monde celtique transalpin.\n\nL'analyse archéologique minutieuse des restes osseux trouvés au sein de la tombe princière adjacente a révélé que le défunt portait exactement les mêmes parures que celles sculptées sur la pierre : un torque en or massif à trois boules, des fibules de bronze et une épée de fer identique, confirmant que la stèle reproduisait fidèlement l'apparat réel du prince lors de ses funérailles."
+  },
+  {
+    id: "miroir-desborough",
+    title: "Miroir de Desborough",
+    artist: "Inconnu",
+    date: 50,
+    movement: "celtic",
+    location: "British Museum (Londres, Angleterre)",
+    image: "/artworks/celtic/miroir-desborough.jpg",
+    description: "Trouvé en 1908 lors de travaux d'extraction de minerai de fer dans le Northamptonshire, ce miroir de poignée en bronze illustre l'apogée de l'art celtique insulaire de La Tène tardive en Grande-Bretagne, une période caractérisée par le développement d'un style ornemental curviligne unique propre aux îles Britanniques.\n\nLa face avant du disque de bronze était finement polie pour réfléchir l'image de son utilisatrice, tandis que la face arrière déploie une composition gravée d'une complexité géométrique absolue. L'artisan a gravé au burin un réseau symétrique de motifs en forme de lyres, de spirales et de triple celtique, délimitant des zones remplies de hachures croisées qui créent un jeu de textures de surface contrasté sous l'effet de l'oxydation de la pierre.\n\nLa poignée en bronze fondu fut coulée séparément selon la technique de la cire perdue, adoptant une forme d'anneaux entrelacés qui rappellent les motifs des torques de parure. Cet objet intime appartenait au mobilier funéraire d'une femme de la haute aristocratie brittonique, les miroirs de bronze revêtant une fonction magique liée à la divination, à la capture de l'âme et aux rituels de passage au sein des croyances de la noblesse insulaire pré-romaine."
+  },
+  {
+    id: "bouclier-battersea",
+    title: "Bouclier de Battersea",
+    artist: "Inconnu",
+    date: -100,
+    movement: "celtic",
+    location: "British Museum (Londres, Angleterre)",
+    image: "/artworks/celtic/bouclier-battersea.jpg",
+    description: "Repêché dans le lit de la Tamise près du pont de Battersea à Londres en 1857, cet objet d'art n'est pas un bouclier militaire fonctionnel, mais un revêtement décoratif en bronze destiné à habiller une âme de bois aujourd'hui disparue. Sa structure étroite, la fragilité de ses plaques de bronze et l'absence totale d'impacts de flèches ou d'épées confirment qu'il s'agissait d'une pièce de parade ou d'une offrande votive offerte aux puissances du fleuve.\n\nLe décor de surface s'organise autour de trois grands disques circulaires en relief ornés de motifs curvilignes complexes en forme d'esses et de spirales d'une symétrie rigoureuse. L'artisan celte a inséré vingt-sept clous de verre rouge opaque, fixé au centre de rosaces de bronze ciselé selon une technique d'émaillerie primitive appelée « émail de surcroît », imitant les incrustations de corail méditerranéen.\n\nLe bouclier fut immergé de manière délibérée dans la Tamise, un protocole d'offrande fluviale récurrent chez les peuples celtes de Grande-Bretagne, qui considéraient les cours d'eau comme des portes de communication directes avec l'au-delà. Le monument témoigne du savoir-faire des bronziers de la tribu des Trinovantes ou des Catuvellaunis avant les campagnes militaires de Jules César."
+  },
+  {
+    id: "grand-torque-snettisham",
+    title: "Grand torque de Snettisham",
+    artist: "Inconnu",
+    date: -75,
+    movement: "celtic",
+    location: "British Museum (Londres, Angleterre)",
+    image: "/artworks/celtic/grand-torque-snettisham.jpg",
+    description: "Découvert en 1950 par un agriculteur qui labourait un champ dans le Norfolk, ce collier d'apparat royal constitue l'un des trésors d'orfèvrerie les plus spectaculaires de l'âge du fer britannique. L'objet pèse un peu plus d'un kilogramme, façonné à partir d'un alliage précieux d'or pur, d'argent et de traces de cuivre qui lui confèrent une luminosité de surface unique.\n\nLa prouesse technique de sa fabrication réside dans sa structure torsadée : le torque se compose de soixante-quatre fils d'or individuels de grande épaisseur, regroupés en huit torons distincts qui ont été tressés ensemble de manière régulière. Les deux extrémités du collier sont scellées par d'imposants manchons circulaires coulés à la cire perdue, ornés de reliefs de style curviligne combinant des motifs de spirales en relief et de grains d'orge gravés.\n\nL'un des manchons conserve à l'intérieur une petite pièce de monnaie en or d'origine gauloise, insérée accidentellement lors de la coulée du métal en fusion. Ce torque appartenait aux collections de la famille royale de la tribu des Icènes, la même nation qui se révoltera quelques décennies plus tard contre l'occupation romaine sous la direction de la célèbre reine guerrière Boudicca."
+  },
+  {
+    id: "bouclier-witham",
+    title: "Bouclier de Witham",
+    artist: "Inconnu",
+    date: -400,
+    movement: "celtic",
+    location: "British Museum (Londres, Angleterre)",
+    image: "/artworks/celtic/bouclier-witham.jpg",
+    description: "Découvert en 1826 lors du curage de la rivière Witham dans le Lincolnshire, ce grand bouclier de bronze rectangulaire aux extrémités incurvées représente l'un des jalons les plus anciens de l'art celtique insulaire de La Tène ancienne en Grande-Bretagne, témoignant de la circulation précoce des modèles esthétiques transalpins.\n\nLe revêtement métallique de bronze est structuré par une longue arête centrale en relief, ornée à ses extrémités de cabochons ronds accueillant à l'origine des incrustations de corail rouge d'importation. L'élément historique le plus fascinant réside dans la présence d'une ombre décolorée et fine sur la surface du bronze : l'analyse photographique a révélé la silhouette gravée d'un sanglier aux pattes démesurément étirées, un emblème zoomorphe de force militaire qui fut arraché ou effacé de la plaque avant l'immersion rituelle de l'objet.\n\nL'umbo central (le dôme de protection de la main) est sculpté de motifs d'oiseaux stylisés stylisés, combinant des lignes incisées au burin de silex acéré. L'objet fut déposé au fond de la rivière Witham lors d'une cérémonie rituelle de désarmement ou d'alliance de clans, une coutume guerrière qui permit de préserver la structure métallique de la corrosion durant plus de deux millénaires."
+  },
+  {
+    id: "casque-waterloo",
+    title: "Casque du Waterloo Bridge",
+    artist: "Inconnu",
+    date: -150,
+    movement: "celtic",
+    location: "British Museum (Londres, Angleterre)",
+    image: "/artworks/celtic/casque-waterloo.jpg",
+    description: "Repêché dans les sédiments de la Tamise lors des travaux de reconstruction du pont de Waterloo à Londres en 1868, ce couvre-chef en bronze est unique au monde. Il représente en effet l'unique casque de l'âge du fer trouvé sur l'ensemble du continent européen à être surmonté de deux véritables cornes coniques et acérées, fixées solidement au sommet de la calotte par des rivets internes.\n\nLa structure se compose de deux feuilles de bronze assemblées par rivetage central, ornées de bas-reliefs circulaires repoussés de style curviligne celte insulaire tardif. Les cornes de bronze, creuses à l'intérieur pour limiter le poids de l'ensemble, conféraient au guerrier ou au chaman qui le portait une silhouette animale théâtrale, évoquant la puissance mystique du taureau ou des divinités cornues celtiques comme Cernunnos.\n\nLe format étroit du casque et l'absence totale de renforts internes ou de traces de coups prouvent qu'il ne s'agissait pas d'une pièce d'équipement militaire destinée aux champs de bataille. Cet objet d'apparat rituel était réservé à l'usage exclusif d'un prêtre ou d'un aristocrate lors de cérémonies de cour, avant d'être précipité au fond du fleuve dans le cadre d'un protocole d'offrande religieuse."
+  },
+  {
+    id: "tete-msecke-zehrovice",
+    title: "Tête de Mšecké Žehrovice",
+    artist: "Inconnu",
+    date: -200,
+    movement: "celtic",
+    location: "Musée national de Prague (Prague, République tchèque)",
+    image: "/artworks/celtic/tete-msecke-zehrovice.jpg",
+    description: "Exhumée en 1943 par des ouvriers qui exploitaient une carrière de sable à Mšecké Žehrovice, au nord-ouest de Prague, cette sculpture fragmentaire en marne calcaire locale est devenue l'icône universelle du portrait celte d'Europe centrale. La tête appartenait à l'origine à une statue entière de guerrier qui fut délibérément brisée en plusieurs morceaux lors du sac ou de l'abandon d'un sanctuaire fortifié de la tribu des Boïens.\n\nLe visage de l'aristocrate déploie les attributs morphologiques caractéristiques codifiés de l'élite celtique : une large moustache sculptée en volutes spirales, des sourcils arqués se terminant en pointes géométriques, et des yeux en amande proéminents. Le cou de la figure est enserré par un monumental torque sculpté en relief, confirmant le statut royal ou sacerdotal élevé du personnage au sein de la hiérarchie locale.\n\nLa chevelure est coupée court à l'arrière et rasée sur les tempes selon une mode capillaire attestée par les auteurs grecs et romains de l'époque pour les combattants celtes. L'objet fut retrouvé dissimulé au fond d'une fosse d'offrandes aux côtés de fragments de poteries rituelles et d'ossements d'animaux sacrificiels, s'imposant comme la pièce maîtresse des collections protohistoriques du Musée national de Prague."
+  }
+];

@@ -1,0 +1,74 @@
+import type { Artwork } from "@/components/ArtworkGrid";
+
+export const pointillismArtworks: Artwork[] = [
+  {
+    id: "baignade-asnieres",
+    title: "Une baignade à Asnières",
+    artist: "Georges Seurat",
+    date: 1884,
+    movement: "pointillism",
+    location: "National Gallery (Londres, Angleterre)",
+    image: "/artworks/pointillism/baignade-asnieres.jpg",
+    description: "Le jury du Salon officiel de Paris ayant rejeté cette première grande composition de Georges Seurat en 1884, le peintre décida de s'associer avec d'autres artistes indépendants pour fonder le Groupe des Artistes Indépendants. Ce geste d'éclat jeta les bases de l'exposition publique de ses théories divisionnistes hors des circuits académiques.\n\nL'œuvre met en scène la classe ouvrière et de jeunes employés parisiens se détendant au bord de la Seine à Asnières, une banlieue industrielle en plein essor. Seurat construit son paysage à l'aide de grandes lignes horizontales rigoureuses et de formes épurées rappelant la statuaire classique de Piero della Francesca. Les cheminées d'usines crachant de la fumée à Clichy à l'arrière-plan s'insèrent de façon géométrique dans le ciel pâle.\n\nL'analyse de la surface peinte révèle que l'artiste n'utilisait pas encore son pointillage strict de manière homogène, mais appliquait de longs coups de pinceau croisés. Seurat retourna néanmoins travailler sur la toile quelques années plus tard, vers 1887, pour y ajouter des touches de petits points de couleurs pures juxtaposées sur le chapeau rouge du jeune garçon au centre et sur la pelouse, appliquant de façon empirique ses nouvelles théories sur le contraste simultané chimiques des couleurs de Chevreul."
+  },
+  {
+    id: "palais-papes-avignon",
+    title: "Le Palais des Papes, Avignon",
+    artist: "Paul Signac",
+    date: 1900,
+    movement: "pointillism",
+    location: "Musée d'Orsay (Paris, France)",
+    image: "/artworks/pointillism/palais-papes-avignon.jpg",
+    description: "Une série de voyages accomplis par Paul Signac le long des fleuves français au tournant du siècle l'amena à peindre la silhouette gothique monumentale d'Avignon. L'artiste choisit de rompre avec l'impressionnisme de terrain pour recomposer le paysage en atelier, s'appuyant sur ses notes et aquarelles préparatoires d'après nature.\n\nLe monument de pierre semble flotter et se dissoudre sous l'effet d'une lumière crépusculaire incandescente. Signac délaisse les petits points fins de la première période du mouvement pour employer de larges touches carrées et épaisses imitant les structures d'une mosaïque de verre. Le fleuve Rhône au premier plan inférieur capte les reflets artificiels et naturels de la scène par une juxtaposition de pigments bleus, jaunes et orange saturés.\n\nLa théorie du néo-impressionnisme atteint ici sa dimension décorative absolue, la couleur pure fonctionnant comme l'écho d'une partition musicale. La toile fut léguée à l'État français au XXe siècle avant de rejoindre les collections du musée d'Orsay, s'imposant comme la pièce maîtresse illustrant l'évolution du pointillisme vers la libération chromatique qui guidera les peintres du sillage fauve."
+  },
+  {
+    id: "recolte-pommes-eragny",
+    title: "La Récolte des pommes à Éragny",
+    artist: "Camille Pissarro",
+    date: 1888,
+    movement: "pointillism",
+    location: "Dallas Museum of Art (États-Unis)",
+    image: "/artworks/pointillism/recolte-pommes-eragny.jpg",
+    description: "La rencontre et l'amitié de Camille Pissarro avec les jeunes théoriciens Georges Seurat et Paul Signac en 1885 poussèrent le doyen de l'impressionnisme à modifier radicalement son sillage pictural. Durant une brève période d'expérimentation de quatre ans, il adopta la méthode scientifique du néo-impressionnisme, appliquant ses règles au sein de sa propriété d'Éragny-sur-Epte.\n\nQuatre paysannes s'activent au pied d'un pommier pour récolter les fruits, leurs silhouettes s'intégrant au sein d'un paysage champêtre saturé par une multitude de petits points de couleur pure réguliers. Pissarro applique la loi du contraste simultané des couleurs de manière chirurgicale, juxtaposant des points de rouge vermillon à des touches de vert émeraude pour faire vibrer la lumière solaire de cette fin de journée d'automne.\n\nCe travail de force et de patience sur la toile s'avéra épuisant pour l'artiste, qui constata que cette technique microscopique ralentissait considérablement sa vitesse d'exécution et l'empêchait de capter les mutations rapides de l'atmosphère. Pissarro abandonna le pointillisme dès 1890 pour revenir à une touche plus libre, et la toile fut vendue à des collectionneurs américains avant d'intégrer de manière définitive les galeries du Dallas Museum of Art."
+  },
+  {
+    id: "dimanche-apres-midi-grande-jatte",
+    title: "Un dimanche après-midi à l'Île de la Grande Jatte",
+    artist: "Georges Seurat",
+    date: 1886,
+    movement: "pointillism",
+    location: "Art Institute of Chicago (États-Unis)",
+    image: "/artworks/pointillism/dimanche-apres-midi-grande-jatte.jpg",
+    description: "La huitième et dernière exposition impressionniste de 1886 fut le théâtre d'un séisme critique majeur lors de la présentation de cette œuvre colossale de Georges Seurat, unanimement désignée par l'historiographie comme le grand manifeste fondateur du néo-impressionnisme. Le peintre y fige une quarantaine de promeneurs de la bourgeoisie et de la classe ouvrière parisienne s'adonnant aux loisirs dominicaux sur une île de la Seine.\n\nSeurat refuse le sillage de l'instantanéité impressionniste pour organiser une structure géométrique et hiératique parfaite d'esprit classique. Les silhouettes sont représentées de profil strict ou de face, rappelant les reliefs des frises antiques du Parthénon ou les peintures de l'Égypte ancienne. Au premier plan à droite, une élégante promène un singe capucin en laisse aux côtés d'un dandy en chapeau haut de forme, introduisant une discrète ironie sur les mœurs de la Belle Époque.\n\nL'artiste passa deux années complètes à travailler sur la toile, exécutant plus de trente études à l'huile sur de petits panneaux de bois d'après nature avant de poser ses millions de petits points de couleurs complémentaires sur la grande surface. Pour isoler visuellement sa scène, Seurat peignit une bordure pointillée directement sur la toile, flanquée d'un cadre de bois blanc unifié. Le tableau fut acheté par les conservateurs de l'Art Institute de Chicago au XXe siècle, devenant l'une des compositions les plus célèbres et analysées du musée."
+  },
+  {
+    id: "femmes-puits",
+    title: "Femmes au puits",
+    artist: "Paul Signac",
+    date: 1892,
+    movement: "pointillism",
+    location: "Musée d'Orsay (Paris, France)",
+    image: "/artworks/pointillism/femmes-puits.jpg",
+    description: "Le deuil provoqué par la mort précoce de son ami Georges Seurat en 1891 poussa Paul Signac à quitter Paris pour s'installer dans le port de Saint-Tropez, un havre méditerranéen dont la clarté solaire modifia profondément sa palette. C'est au sein de ce paysage méridional qu'il composa cette grande œuvre décorative, cherchant à appliquer les théories scientifiques de contrastes de couleurs de manière autonome.\n\nDeux femmes varoises sont représentées près d'un puits de pierre en bordure de mer, l'une d'elles portant une cruche de cuivre sur l'épaule tandis que son interlocutrice incline son corps vers le seau d'eau. Signac structure l'espace à l'aide d'un réseau de lignes sinueuses et d'arabesques formées par les collines et les sentiers, la transition des plans s'opérant par des dégradés réguliers de petits points de couleurs complémentaires.\n\nLe peintre utilise des accords chromatiques intenses, opposant le violet des ombres des vêtements au jaune soufre de la terre aride et au bleu turquoise de la mer. La toile fut exposée au Salon des Indépendants de 1893, saluée par Félix Fénéon pour sa puissance harmonique, avant d'être acquise par l'État français au XXe siècle pour l'exposer de façon permanente au musée d'Orsay."
+  },
+  {
+    id: "saint-tropez-signac",
+    title: "Le Port de Saint-Tropez",
+    artist: "Paul Signac",
+    date: 1893,
+    movement: "pointillism",
+    location: "Musée national de l'Art occidental (Tokyo, Japon)",
+    image: "/artworks/pointillism/saint-tropez-signac.jpg",
+    description: "La découverte et l'achat de sa maison « La Hune » à Saint-Tropez ont permis à Paul Signac de combiner sa passion pour la navigation maritime avec ses recherches graphiques divisionnistes. Cette grande vue du port varois témoigne de son sillage artistique libéré des contraintes d'observation de la banlieue parisienne, le peintre s'appuyant sur la géométrie des voiles pour sculpter la lumière.\n\nLa composition s'organise autour d'une frise de navires et de tartanes amarrées le long des quais, dont les mâts rectilignes coupent verticalement l'espace de la feuille. Signac met en œuvre une méthode de travail rigoureuse, posant des touches de petits points carrés de pigments purs qui s'alignent le long de courbes dynamiques pour figurer le miroitement et les reflets des voilures orangées dans les vagues vertes de l'eau du port.\n\nL'œuvre fit partie de la célèbre collection privée de l'industriel japonais Kojiro Matsukata, qui assembla des milliers de chefs-d'œuvre de l'art français au début du XXe siècle pour doter sa patrie d'un musée moderne. Séquestrée par le gouvernement français après la Seconde Guerre mondiale en tant que bien ennemi, la toile fut finalement restituée au Japon en 1959 dans le cadre des accords diplomatiques de réconciliation, devenant l'un des jalons du Musée national de l'Art occidental de Tokyo."
+  },
+  {
+    id: "cirque",
+    title: "Le Cirque",
+    artist: "Georges Seurat",
+    date: 1891,
+    movement: "pointillism",
+    location: "Musée d'Orsay (Paris, France)",
+    image: "/artworks/pointillism/cirque.jpg",
+    description: "Une disparition brutale et tragique figea le destin de cette œuvre monumentale : Georges Seurat mourut d'une diphtérie foudroyante à l'âge de trente et un ans en mars 1891, laissant la toile inachevée sur son chevalet d'atelier alors qu'elle était déjà exposée aux yeux du public lors du Salon des Indépendants.\n\nLa composition explore les théories esthétiques du scientifique Charles Henry concernant le dynamisme et la charge psychologique des lignes et des couleurs. Seurat applique ces préceptes de manière stricte, opposant la structure rigide et horizontale des gradins où s'entassent les spectateurs de la bourgeoisie et des classes populaires au mouvement ascendant et sinueux de la piste, où une écuyère accomplit une acrobatie sur un cheval au galop sous le fouet d'un monsieur Loyal de profil. Les lignes montantes et l'utilisation massive des points jaunes et bleus visaient à susciter un sentiment de gaieté dynamique.\n\nLe peintre a tracé un cadre pointillé d'un bleu nuit saturé directement sur la bordure de la toile, créant un contraste optique puissant avec la clarté incandescente de la scène de cirque. Le tableau fut acheté par le collectionneur américain John Quinn avant que l'État français ne fît jouer son droit de préemption pour réintégrer l'œuvre sur son territoire, s'imposant désormais comme l'une des attractions maîtresses du musée d'Orsay."
+  }
+];

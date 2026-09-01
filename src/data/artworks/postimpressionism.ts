@@ -1,0 +1,284 @@
+import type { Artwork } from "@/components/ArtworkGrid";
+
+export const postimpressionismArtworks: Artwork[] = [
+  {
+    id: "nuit-etoilee",
+    title: "La Nuit étoilée",
+    artist: "Vincent van Gogh",
+    date: 1889,
+    movement: "postimpressionism",
+    location: "Museum of Modern Art (New York, États-Unis)",
+    image: "/artworks/postimpressionism/nuit-etoilee.jpg",
+    description: "Van Gogh a composé cette œuvre magistrale depuis sa cellule de l'asile d'aliénés de Saint-Paul-de-Mausole à Saint-Rémy-de-Provence. Bien que peinte en plein jour dans son atelier du rez-de-chaussée, la scène transcrit les observations nocturnes obsessionnelles qu'il consignait dans ses lettres à son frère Théo. Le ciel occupe les deux tiers de l'espace, transfiguré en une mer de forces cosmiques où s'entrechoquent d'immenses volutes de lumière et onze étoiles d'or rayonnantes comme des soleils.\n\nUne tension plastique intense structure le premier plan. Un cyprès monumental s'élève sur le côté gauche, ses formes sinueuses s'élançant vers le ciel comme une flamme noire. Cet arbre, traditionnellement lié au sillage du deuil et de l'éternité, fait office de lien visuel entre la terre lourde et l'immensité céleste. Le village blotti au pied des Alpilles est une reconstruction imaginaire combinant les contours de la Provence avec les souvenirs des clochers pointus de sa Hollande natale.\n\nL'analyse de la matière picturale met en valeur la violence de la touche de l'artiste. Van Gogh appliquait les pigments purs directement au tube ou à l'aide de brosses d'une grande rigidité, créant des reliefs de matière qui confèrent un dynamisme texturé unique à la nuit. La toile intégra les collections du MoMA de New York au XXe siècle, s'imposant comme le manifeste d'un postimpressionnisme basculant vers l'expressionnisme moderne."
+  },
+  {
+    id: "femmes-tahiti",
+    title: "Femmes de Tahiti",
+    artist: "Paul Gauguin",
+    date: 1891,
+    movement: "postimpressionism",
+    location: "Musée d'Orsay (Paris, France)",
+    image: "/artworks/postimpressionism/femmes-tahiti.jpg",
+    description: "Le désir d'échapper à la déliquescence de la civilisation occidentale et à l'industrialisation parisienne a poussé Paul Gauguin à s'installer en Polynésie en 1891. Cette toile illustre ses premières recherches de terrain à Papeete pour fixer l'imagerie d'un paradis primitif mythologique, loin de la réalité coloniale contemporaine qu'il s'efforçait de masquer dans ses compositions.\n\nDeux femmes maorise sont assises à même le sable de la plage, leurs silhouettes massives et mélancoliques occupant l'espace central. Gauguin emploie la technique du synthétisme et du cloisonnisme, cernant les formes d'un trait noir net et simplifiant les reliefs au profit d'aplats de couleurs pures. Le contraste entre le paréo traditionnel à motifs de fleurs de la jeune femme de gauche et la robe de missionnaire rose et rigide de celle de droite matérialise l'intrusion de la culture occidentale dans l'espace insulaire.\n\nLa palette privilégie des tonalités chaudes d'ocre, de jaune safran et de rouge qui capturent la lumière du Pacifique. Le tableau fut transféré des collections nationales au musée d'Orsay, célébré par les historiens de l'art comme l'œuvre charnière qui libéra la couleur de sa fonction réaliste pour en faire le vecteur d'une émotion poétique pure."
+  },
+  {
+    id: "moulin-rouge",
+    title: "Au Moulin Rouge",
+    artist: "Henri de Toulouse-Lautrec",
+    date: 1892,
+    movement: "postimpressionism",
+    location: "Art Institute of Chicago (États-Unis)",
+    image: "/artworks/postimpressionism/moulin-rouge.jpg",
+    description: "Toulouse-Lautrec a immortalisé l'atmosphère nocturne et décadente du célèbre cabaret montmartrois au sein de cette œuvre d'une grande pénétration psychologique. L'artiste, qui possédait une table réservée à demeure au Moulin Rouge, se représentait lui-même comme un observateur de ce théâtre social, apparaissant à l'arrière-plan central aux côtés de son cousin le docteur Gabriel Tapié de Céleyran.\n\nLa construction spatiale s'avère particulièrement audacieuse, influencée par les cadrages asymétriques des estampes japonaises. Une balustrade en bois coupe le premier plan en diagonale, isolant une table où se réunissent les célébrités de la nuit parisienne, notamment la danseuse La Goulue se coiffant devant un miroir. Dans le coin inférieur droit, le visage de la courtisane May Milton surgit de manière abrupte, transfiguré par un éclairage vert électrique montant du sol qui lui donne un aspect spectral effrayant.\n\nL'artiste emploie une technique fluide, brossant l'essence diluée sur le carton pour donner un aspect de hachures nerveuses à la scène. La toile fut acquise par l'Art Institute of Chicago au XXe siècle, reconnue comme la chronique la plus lucide et sans concession sur la vie de bohème de la fin du siècle à Paris."
+  },
+  {
+    id: "eglise-auvers",
+    title: "L'Église d'Auvers-sur-Oise",
+    artist: "Vincent van Gogh",
+    date: 1890,
+    movement: "postimpressionism",
+    location: "Musée d'Orsay (Paris, France)",
+    image: "/artworks/postimpressionism/eglise-auvers.jpg",
+    description: "Les ultimes mois de l'existence de Vincent van Gogh à Auvers-sur-Oise, sous la garde médicale du docteur Gachet, ont donné naissance à cette œuvre d'une tension psychologique extrême. L'architecture de l'église gothique perd toute sa rigidité monumentale pour devenir une structure organique vivante dont les maçonneries semblent onduler et se tordre sous la pression des forces souterraines.\n\nLe peintre refuse la perspective géométrique classique pour imposer un espace dicté par l'émotion. L'édifice est pris en étau entre deux chemins de terre battue qui divergent au premier plan et un ciel d'un bleu outremer lourd et crépusculaire, si denses qu'il semble peser de tout son poids sur les toits de briques rouges. Une silhouette miniature de paysanne avance sur le sentier de gauche, soulignant par son anonymat l'isolement complet de l'édifice sacré.\n\nVan Gogh a transcrit cette vision à l'aide de lignes de force saccadées et d'empâtements de matière vigoureux, la couleur pure fonctionnant comme un outil expressionniste précoce. Saisie lors des dations successorales et installée au musée d'Orsay, la toile est analysée par les spécialistes comme le miroir plastique de la détresse spirituelle qui submergeait l'artiste quelques semaines avant sa fin tragique."
+  },
+  {
+    id: "talisman",
+    title: "Le Talisman, l'Aven au Bois d'Amour",
+    artist: "Paul Sérusier",
+    date: 1888,
+    movement: "postimpressionism",
+    location: "Musée d'Orsay (Paris, France)",
+    image: "/artworks/postimpressionism/talisman.jpg",
+    description: "Peint sur le couvercle d'une simple boîte de cigares en bois sous la dictée immédiate de Paul Gauguin au Bois d'Amour de Pont-Aven, ce petit panneau de Paul Sérusier représente l'acte de naissance conceptuel du groupe des Nabis. Gauguin incitait son jeune disciple à rejeter le réalisme oculaire par cette célèbre formule : « Comment voyez-vous cet arbre ? Il est vert ? Mettez donc le plus beau vert de votre palette ; et cette ombre, plutôt bleue ? Ne craignez pas de la peindre aussi bleue que possible ».\n\nSérusier traduisit ces directives en une composition semi-abstraite où les formes de la nature se dissolvent au profit d'aplats de couleurs pures et vibrantes. Le prunier, la rivière de l'Aven et le sentier forestier se muent en une juxtaposition de taches de jaune safran, de bleu cobalt et de rouge vermillon, abolissant de manière définitive les règles de la perspective centrale et du dessin classique.\n\nRapporté à Paris par Sérusier comme une relique sacrée, l'objet fut baptisé « Le Talisman » par ses compagnons d'atelier Maurice Denis, Pierre Bonnard et Édouard Vuillard, qui se proclamèrent les « Nabis » (les prophètes en langue hébraïque). Cette œuvre miniature ouvrit la voie aux recherches sur l'autonomie de la peinture moderne, Maurice Denis fixant sa définition historique : « Se rappeler qu'un tableau, avant d'être un cheval de bataille, une femme nue ou une quelconque anecdote, est essentiellement une surface plane recouverte de couleurs en un certain ordre assemblées »."
+  },
+  {
+    id: "montagne-sainte-victoire",
+    title: "La Montagne Sainte-Victoire",
+    artist: "Paul Cézanne",
+    date: 1904,
+    movement: "postimpressionism",
+    location: "Philadelphia Museum of Art (États-Unis)",
+    image: "/artworks/postimpressionism/montagne-sainte-victoire.jpg",
+    description: "Cézanne a consacré les dernières années de sa vie à une observation obsessionnelle de la montagne Sainte-Victoire à Aix-en-Provence, exécutant plus de quatre-vingts variantes à l'huile et à l'aquarelle d'après ce motif géométrique. Cette version tardive illustre l'aboutissement de sa méthode analytique, visant à « traiter la nature par le cylindre, la sphère et le cône ».\n\nLe peintre supprime les artifices traditionnels de la perspective atmosphérique pour construire l'espace par le seul biais de la couleur. La toile est tapissée d'un réseau régulier de petites touches rectangulaires et de facettes chromatiques juxtaposées, les tons bleus, verts et ocre de la plaine s'entremêlant avec ceux de la roche calcaire du sommet pour imposer une planéité structurelle rigoureuse.\n\nCette décomposition géométrique de la forme et de la lumière brisa de manière définitive le sillage de l'impressionnisme fugace pour privilégier une architecture intemporelle de la matière. La toile, conservée au Philadelphia Museum of Art, fut le choc esthétique majeur qui guida le travail de Georges Braque et de Pablo Picasso lors de leur séjour à l'Estaque, ouvrant directement la voie à l'émergence du cubisme en 1907."
+  },
+  {
+    id: "chambre-arles",
+    title: "La Chambre de Van Gogh à Arles",
+    artist: "Vincent van Gogh",
+    date: 1888,
+    movement: "postimpressionism",
+    location: "Musée d'Orsay (Paris, France)",
+    image: "/artworks/postimpressionism/chambre-arles.jpg",
+    description: "L'attente anxieuse de l'arrivée de Paul Gauguin au sein de la Maison Jaune d'Arles poussa Vincent van Gogh à peindre son espace intime quotidien. L'artiste conçut ce projet décoratif avec l'ambition d'exprimer un repos absolu et une sérénité psychologique par le seul pouvoir d'une palette d'aplats francs et contrastés, un choix de structure épuré inspiré des intérieurs des estampes japonaises.\n\nUne distorsion de perspective frappante caractérise la scène. Les lignes des murs de briques, du lit en bois jaune et des deux chaises convergent de manière asymétrique vers le fond, créant un sentiment d'étroitesse étouffante qui contredit l'ambition de sérénité recherchée. Les portraits de ses amis, le poète Eugène Boch et le zouave Milliet, accrochés au mur de droite au-dessus de la couche, fonctionnent comme des repères d'orientation affectifs.\n\nLe peintre dut réaliser trois versions distinctes de cette composition au cours de sa carrière, la toile originale ayant subi des altérations superficielles dues aux infiltrations d'eau lors d'une crue du Rhône qui submergea son atelier arlésien. La version du musée d'Orsay se distingue par la clarté de ses lignes de contour et la pureté de ses oppositions chromatiques entre le bleu des parois et le rouge de la couverture de lin."
+  },
+  {
+    id: "champ-ble-corbeaux",
+    title: "Champ de blé aux corbeaux",
+    artist: "Vincent van Gogh",
+    date: 1890,
+    movement: "postimpressionism",
+    location: "Musée Van Gogh (Amsterdam, Pays-Bas)",
+    image: "/artworks/postimpressionism/champ-ble-corbeaux.jpg",
+    description: "Une longue tradition historiographique romantique a érigé cette toile monumentale au rang d'ultime tableau et de testament pictural de Vincent van Gogh, peint quelques jours avant son suicide en juillet 1890. Bien que les recherches documentaires récentes aient démontré que d'autres paysages furent exécutés après cette planche, l'œuvre conserve une puissance expressive expressionniste inégalée.\n\nLa composition déploie une triple structure de chemins de terre battue qui coupent le champ de blé jaune safran, convergeant vers des directions opposées ou s'interrompant de manière abrupte sans issue visible, métaphore visuelle de la solitude de l'artiste. Au-dessus des épis tourmentés par le vent, s'élève un ciel d'un bleu nuit saturé et menaçant, traversé par un vol désordonné de corbeaux noirs peints à l'aide de simples traits en forme de chevrons.\n\nVan Gogh emploie une technique de brossage sauvage et convulsive, écrasant de lourdes couches de peinture pure directement sur le stuc de la toile. L'œuvre est conservée au Musée Van Gogh d'Amsterdam, célébrée comme le chef-d'œuvre illustrant la libération des forces subjectives de l'art occidental, où le paysage réel s'efface devant la projection des tourments psychologiques de l'homme."
+  },
+  {
+    id: "mangeurs-pommes-terre",
+    title: "Les Mangeurs de pommes de terre",
+    artist: "Vincent van Gogh",
+    date: 1885,
+    movement: "postimpressionism",
+    location: "Musée Van Gogh (Amsterdam, Pays-Bas)",
+    image: "/artworks/postimpressionism/mangeurs-pommes-terre.jpg",
+    description: "La période hollandaise passée au sein de la communauté ouvrière et agricole de Nuenen a donné naissance à cette œuvre maîtresse de la jeunesse de Vincent van Gogh. L'artiste s'est attaché à peindre une famille de paysans attablée de profil sous la clarté blême d'une unique lampe à pétrole, se partageant un plat modeste de pommes de terre au terme d'une journée de force.\n\nVan Gogh utilise une palette chromatique extrêmement sombre et terreuse, dominée par des tonalités de brun suie, de vert olive et de ochre brûlé, une sélection de pigments qui rappelait la couleur de la terre arable que ces travailleurs cultivaient de leurs propres mains. L'artiste accentue les traits du visage et les jointures des mains des modèles à l'aide de reliefs accentués pour signifier la rudesse de leur existence matérielle, s'éloignant des représentations paysannes lisses et consensuelles de la peinture de cour parisienne.\n\nLa toile fit l'objet d'un rejet critique de la part de ses compagnons d'atelier, notamment d'Anthon van Rappard, qui lui reprocha des erreurs anatomiques manifestes et la lourdeur des traits. Van Gogh défendit son tracé avec ferveur, affirmant qu'il souhaitait que son œuvre dégageât l'odeur du lard et de la fumée de bois, fixant la dignité sacrée du travail manuel, une pièce maîtresse désormais exposée au Musée Van Gogh d'Amsterdam."
+  },
+  {
+    id: "joueurs-cartes",
+    title: "Les Joueurs de cartes",
+    artist: "Paul Cézanne",
+    date: 1895,
+    movement: "postimpressionism",
+    location: "Musée d'Orsay (Paris, France)",
+    image: "/artworks/postimpressionism/joueurs-cartes.jpg",
+    description: "Cézanne a revisite le thème classique des scènes de taverne hérité du XVIIe siècle hollandais pour concevoir cette composition d'une grande rigueur monumentale et d'un calme intemporel. Le tableau met en scène deux paysans aixois (parmi lesquels le vieux jardinier de son domaine du Jas de Bouffan, le père Alexandre) concentrés sur leur jeu de part et d'autre d'une table de bistrot en bois.\n\nLa structure de la toile s'appuie sur une symétrie axiale rigoureuse, matérialisée par la présence d'une bouteille de vin en verre sombre posée au centre, dont le reflet lumineux coupe l'espace en deux sections distinctes. Cézanne oppose la silhouette rectiligne et le chapeau rigide du joueur de gauche aux lignes courbes et à la veste souple de son interlocuteur de droite, immobilisant les modèles dans une posture de réflexion intellectuelle qui s'apparente à une nature morte.\n\nLe peintre applique les pigments par petites touches carrées de couleurs modulées, unifiant le drapé des vêtements avec les tonalités ochres de la paroi murale d'arrière-plan. L'une des cinq versions de cette série fut acquise par la famille royale du Qatar au XXIe siècle pour une somme historique excédant deux cent cinquante millions de dollars, la version conservée au musée d'Orsay s'imposant comme la référence théorique fixant l'histoire du sillage cézannien."
+  },
+  {
+    id: "cypres",
+    title: "Les Cyprès",
+    artist: "Vincent van Gogh",
+    date: 1889,
+    movement: "postimpressionism",
+    location: "Metropolitan Museum of Art (New York, États-Unis)",
+    image: "/artworks/postimpressionism/cypres.jpg",
+    description: "Le paysage des Alpilles entourant l'asile de Saint-Rémy a inspiré à Vincent van Gogh cette étude paysagère d'une grande force convulsive. Captivé par la structure des cyprès provençaux, qu'il décrivait dans ses correspondances comme des monuments d'une proportion géométrique aussi parfaite qu'un obélisque égyptien, l'artiste leur consacra plusieurs toiles au cours de l'été 1889.\n\nDeux arbres sombres occupent le flanc droit de la composition, leurs formes corporelles s'élevant comme des vagues de flammes noires au milieu d'un champ de blé mûr agité par le vent du mistral. À l'arrière-plan, les collines des Alpilles ondulent sous un ciel traversé par de grands nuages blancs de plomb et de légères touches de bleu azur, le mouvement de la brosse épousant le tracé des reliefs végétaux pour saturer l'espace visuel d'une tension permanente.\n\nVan Gogh a travaillé la matière picturale en empâtements lourds, sculptant les plis du calcaire et les aiguilles des arbres directement dans la pâte fraîche à l'aide de la pointe de son couteau à palette. La toile fut acquise par le Metropolitan Museum de New York au XXe siècle, célébrée comme l'un des jalons les plus accomplis illustrant la communion de l'artiste avec la nature sauvage méditerranéenne."
+  },
+  {
+    id: "christ-jaune",
+    title: "Le Christ jaune",
+    artist: "Paul Gauguin",
+    date: 1889,
+    movement: "postimpressionism",
+    location: "Albright-Knox Art Gallery (Buffalo, États-Unis)",
+    image: "/artworks/postimpressionism/christ-jaune.jpg",
+    description: "La piété rurale et les rituels dévots des paysannes de Bretagne ont fourni à Paul Gauguin le support théorique pour réaliser le grand manifeste du synthétisme breton à Pont-Aven. La toile met en scène la Crucifixion chrétienne intégrée au milieu d'un paysage de collines rousses d'automne, trois femmes vêtues du costume traditionnel finistérien agenouillées au pied du calvaire de pierre.\n\nGauguin opère une rupture plastique radicale en peignant le corps de Jésus d'un jaune safran antinaturaliste et plat, s'inspirant directement des structures d'un Christ en bois sculpté du XVIIe siècle qu'il avait étudié d'après nature dans la petite chapelle de Trémalo. Les formes sont simplifiées au maximum, délimitées par de larges contours sombres d'esprit cloisonniste qui annulent la profondeur spatiale traditionnelle au profit d'un plan lisse décoratif.\n\nL'artiste s'est lui-même représenté en portrait tridimensionnel un an plus tard, en plaçant cette toile de fond de son propre « Autoportrait au Christ jaune », affirmant sa filiation spirituelle avec la figure du martyr incompris face aux attaques de la critique bourgeoise. L'œuvre fut achetée par la suite par l'Albright-Knox Art Gallery de Buffalo, reconnue par l'historiographie occidentale comme l'un des jalons ouvrant la voie au fauvisme."
+  },
+  {
+    id: "amandier-fleurs",
+    title: "Amandier en fleurs",
+    artist: "Vincent van Gogh",
+    date: 1890,
+    movement: "postimpressionism",
+    location: "Musée Van Gogh (Amsterdam, Pays-Bas)",
+    image: "/artworks/postimpressionism/amandier-fleurs.jpg",
+    description: "La naissance de son neveu et filleul Vincent Willem, fils de son frère Théo, inspira à Vincent van Gogh cette composition d'une grande clarté lumineuse. L'artiste choisit le motif des branches d'amandier, premier arbre à fleurir au cœur de l'hiver méridional, comme un symbole de renaissance et d'espoir familial, envoyant la toile achevée à Paris pour orner le berceau du nourrisson.\n\nLa construction graphique témoigne de l'influence décisive exercée par les estampes japonaises ukiyo-e d'Hiroshige sur le travail du peintre. Van Gogh adopte un cadrage partiel et plongeant en gros plan, supprimant toute ligne d'horizon ou repère terrestre pour faire flotter les branches noueuses directement sur un fond de ciel bleu turquoise uniforme, les corolles de fleurs blanches étant cernées d'un trait sombre d'une grande netteté linéaire.\n\nL'œuvre est caractérisée par une sérénité et une économie de matière uniques au sein de sa production fiévreuse de fin de vie, les pigments étant appliqués par couches fluides et lisses. La famille Van Gogh conserva précieusement cette toile au sein de ses collections privées successives sans jamais accepter de s'en séparer lors des ventes commerciales, l'objet s'installant désormais comme la pièce maîtresse la plus intime exposée au Musée Van Gogh d'Amsterdam."
+  },
+  {
+    id: "grandes-baigneuses",
+    title: "Les Grandes Baigneuses",
+    artist: "Paul Cézanne",
+    date: 1906,
+    movement: "postimpressionism",
+    location: "Philadelphia Museum of Art (États-Unis)",
+    image: "/artworks/postimpressionism/grandes-baigneuses.jpg",
+    description: "Cézanne a passé sept années complètes à travailler de manière intermittente sur cette toile monumentale au sein de son atelier des Lauves, s'imposant comme la composition la plus vaste et le testament artistique achevé de sa fin de vie. L'œuvre revisite le thème classique des nus académiques en plein air, mettant en scène un groupe de quatorze figures féminines s'adonnant à la baignade le long d'un rivage fluvial.\n\nL'artiste supprime tout érotisme ou naturalisme charnel pour privilégier une architecture géométrique d'esprit classique. Les corps simplifiés des baigneuses s'intègrent de façon organique au paysage, flanqués par les troncs sinueux de grands arbres qui s'inclinent de part et d'autre de la toile pour former une voûte en arche brisée évoquant la nef d'une cathédrale gothique. La palette emploie des nuances froides de bleu azur, de gris calcaire et de vert feutré.\n\nLe tableau fut exposé de manière posthume lors de la rétrospective du Salon d'Automne de 1907, un événement historique qui bouleversa la jeune génération d'avant-garde parisienne. Le peintre Henri Matisse s'appuya explicitement sur la structure rythmée de ces corps pour concevoir ses propres panneaux de « La Danse », tandis que Pablo Picasso s'en inspira directement pour structurer les anatomies anguleuses des « Demoiselles d'Avignon », scellant le sillage universel de Cézanne."
+  },
+  {
+    id: "meridienne",
+    title: "La Méridienne",
+    artist: "Vincent van Gogh",
+    date: 1890,
+    movement: "postimpressionism",
+    location: "Musée d'Orsay (Paris, France)",
+    image: "/artworks/postimpressionism/meridienne.jpg",
+    description: "Aussi connue historiquement sous le titre de « La Sieste », cette composition fut exécutée par Vincent van Gogh durant son internement volontaire à l'hospice de Saint-Rémy-de-Provence. L'œuvre s'inscrit au cœur d'une série d'hommages dévots rendus par le peintre à la mémoire de Jean-François Millet, dont il réinterprétait les gravures en noir et blanc en y injectant sa propre théorie chromatique de la couleur pure.\n\nUn couple de moissonneurs est représenté endormi à l'ombre d'une gigantesque meule de foin au premier plan inférieur, leurs corps affaissés traduisant une fatigue sainte au terme du travail agraire. Van Gogh structure sa scène autour d'une opposition puissante de couleurs complémentaires, juxtaposant le jaune safran incandescent des épis de blé moissonnés sous un ciel ardent avec le bleu outremer et violet des ombres portées et des sabots de bois laissés au sol.\n\nL'artiste emploie une touche linéaire d'une grande régularité, le tracé des brins de paille dessinant des vagues concentriques qui épousent les contours de la sieste. Transférée des collections nationales au musée d'Orsay, la toile demeure le modèle de référence analysé pour illustrer la capacité de Van Gogh à transfigurer le réalisme social de Millet en une symphonie lumineuse moderne propre au sillage postimpressionniste."
+  },
+  {
+    id: "arearea",
+    title: "Arearea (Joyeusetés)",
+    artist: "Paul Gauguin",
+    date: 1892,
+    movement: "postimpressionism",
+    location: "Musée d'Orsay (Paris, France)",
+    image: "/artworks/postimpressionism/arearea.jpg",
+    description: "Gauguin a sélectionné cette composition parmi ses productions polynésiennes pour figurer au centre de son exposition personnelle organisée à la galerie de Paul Durand-Ruel à Paris en 1893. Le tableau dépeint une scène idyllique unissant l'observation réelle des mœurs maorise à un imaginaire mythologique recréé en atelier, résumant son ambition de fixer l'esprit de l'Eden primitif.\n\nLe premier plan est occupé par deux femmes tahitiennes assises au pied d'un grand arbre, l'une d'elles jouant d'une flûte de bambou nasale traditionnelle tandis que son interlocutrice écoute la mélodie. Gauguin bouscule les codes réalistes en insérant au centre inférieur la silhouette d'un chien peint en aplat rouge vermillon pur, un choix chromatique arbitraire qui déclencha les moqueries de la critique parisienne de l'époque. À l'arrière-plan, des figures de femmes se prosternent de profil devant l'idole monumentale de la divinité lunaire Hina.\n\nLa palette emploie des contrastes vifs d'ocre jaune, de vert émeraude et de pourpre disposés en cloisonné, supprimant le modelé traditionnel au profit d'un rythme décoratif linéaire. L'écrivain et critique d'art Octave Mirbeau prit la défense de la toile dans la presse, saluant le génie poétique de cette symphonie colorée, avant que l'œuvre ne rejoigne les collections du musée d'Orsay à la suite de legs successoraux nationaux."
+  },
+  {
+    id: "tournesols",
+    title: "Les Tournesols",
+    artist: "Vincent van Gogh",
+    date: 1889,
+    movement: "postimpressionism",
+    location: "Musée Van Gogh (Amsterdam, Pays-Bas)",
+    image: "/artworks/postimpressionism/tournesols.jpg",
+    description: "Cette composition fait partie de la célèbre série de natures mortes exécutées par Vincent van Gogh à Arles pour décorer les parois de la chambre de son ami Paul Gauguin au sein de la Maison Jaune, conçue comme un insigne de bienvenue fraternelle avant le déclenchement de leurs violents conflits d'atelier. La scène déploie un bouquet de quinze tournesols insérés dans un vase de faïence brute posé sur une table.\n\nLe peintre réalise une prouesse chromatique unique dans l'histoire de l'art de la fin du siècle, construisant une symphonie presque monochrome basée sur le déclin exclusif des nuances de jaune. Van Gogh exploite les innovations de la chimie industrielle de l'époque en employant massivement du jaune de chrome et de l'ocre safran posés en empâtements lourds au couteau, le cœur des fleurs se transformant en reliefs de matière rugueuse qui captent physiquement la lumière solaire réelle.\n\nL'analyse chimique des pigments a révélé une sensibilité fine de ces encres à l'oxydation de l'air, le jaune de chrome d'origine tendant à brunir légèrement sous l'effet du temps, ce qui contraignit les conservateurs du musée d'Amsterdam au XXIe siècle à restreindre les déplacements internationaux de la toile. L'œuvre fut conservée par la famille du peintre avant son installation permanente au Musée Van Gogh, s'imposant comme le monument iconographique le plus célèbre lié à sa période arlésienne."
+  },
+  {
+    id: "ballon",
+    title: "Le Ballon",
+    artist: "Félix Vallotton",
+    date: 1899,
+    movement: "postimpressionism",
+    location: "Musée d'Orsay (Paris, France)",
+    image: "/artworks/postimpressionism/ballon.jpg",
+    description: "Félix Vallotton livre avec cette petite huile sur bois collé sur carton l'une des compositions les plus audacieuses et novatrices du mouvement nabi tardif. La scène dépeint un enfant coiffé d'un chapeau de paille blanc courant après un ballon rouge au cœur d'une allée publique de parc, adoptant une perspective plongeante asymétrique révolutionnaire pour l'époque.\n\nLe génie de la mise en scène repose sur le contraste radical des masses d'ombres et de lumière. La moitié inférieure de la feuille est occupée par une immense nappe d'ombre sombre et sinueuse jetée par de grands arbres invisibles, qui encadre et isole la petite zone sablonneuse et lumineuse du premier plan supérieur où s'élance la silhouette de l'enfant. Deux silhouettes de femmes en robes longues déambulent à l'arrière-plan, dessinées avec une grande économie de traits linéaires.\n\nL'artiste transpose les structures de ses gravures sur bois xylographiques au sein de l'espace de la peinture, supprimant le modelé anatomique traditionnel au profit d'une planéité décorative pure d'esprit japonisant. Le tableau fut intégré aux collections nationales du musée d'Orsay au XXe siècle, célébré par les historiens de l'art pour sa capacité à transformer un instant banal des loisirs bourgeois de la Belle Époque en une vision mystérieuse et suspendue suspendue dans le temps."
+  },
+  {
+    id: "autoportrait-oreille-bandee",
+    title: "Autoportrait à l'oreille bandée",
+    artist: "Vincent van Gogh",
+    date: 1889,
+    movement: "postimpressionism",
+    location: "Courtauld Gallery (Londres, Angleterre)",
+    image: "/artworks/postimpressionism/autoportrait-oreille-bandee.jpg",
+    description: "L'immédiat après-coup de la crise de démence tragique du 23 décembre 1888 à Arles — au cours de laquelle Vincent van Gogh se trancha une partie de l'oreille gauche avant de l'offrir à une employée de maison locale — a donné naissance à ce portrait d'introspection d'une dignité poignante. L'artiste se représente de trois-quarts face au sein de son atelier de la Maison Jaune, le flanc droit du visage étant dissimulé sous un volumineux pansement de lin blanc.\n\nLe peintre refuse le misérabilisme larmoyant pour réaffirmer son statut professionnel de créateur intellectuel, posant debout devant son chevalet qui supporte une toile en cours de création. À l'arrière-plan muraux de gauche, est épinglée une estampe japonaise authentique d'Utagawa Hiroshige, intitulée « Geishas dans un paysage », un choix iconographique fort matérialisant son ancrage spirituel au sein de la culture de l'ukiyo-e qu'il considérait comme le paradis esthétique salvateur de son art.\n\nVan Gogh emploie une palette de couleurs contrastées, juxtaposant le vert lourd de sa veste d'hiver au rouge vermillon uniforme du fond pour faire vibrer la lumière de la scène. La toile fut acquise au XXe siècle par le mécène Samuel Courtauld pour sa fondation londonienne, s'imposant désormais comme l'une des compositions les plus visitées de la Courould Gallery, témoignant du combat de l'artiste pour reconquérir sa clarté intellectuelle par le biais du travail graphique."
+  },
+  {
+    id: "d-ou-venons-nous",
+    title: "D'où venons-nous ? Que sommes-nous ? Où allons-nous ?",
+    artist: "Paul Gauguin",
+    date: 1897,
+    movement: "postimpressionism",
+    location: "Museum of Fine Arts (Boston, États-Unis)",
+    image: "/artworks/postimpressionism/d-ou-venons-nous.jpg",
+    description: "Profondément affligé par la maladie, la précarité financière complète et la mort tragique de sa fille chérie Aline, Paul Gauguin conçoit cette toile de près de quatre mètres de large au sein de sa cabane de Tahiti comme son testament philosophique et artistique absolu, ayant prévu de mettre fin à ses jours par une ingestion d'arsenic immédiatement après l'achèvement des travaux en décembre 1897.\n\nLa composition se structure comme une grande frise allégorique médiévale ou un relief antique, dont la lecture s'opère de la droite vers la gauche le long d'un paysage forestier saturé de tonalités de bleu turquoise et de vert émeraude profonds. Le récit s'organise en trois groupes thématiques répondant aux trois questions hiératiques du titre : la naissance matérialisée par un nourrisson endormi à droite, l'âge adulte personnifié par une silhouette androgyne centrale cueillant un fruit de la connaissance, et la finitude terrestre illustrée à gauche par une vieille femme incas ridée attendant la mort auprès d'un oiseau blanc magique.\n\nL'artiste peignit les deux angles supérieurs de la toile en jaune safran brillant, y apposant le titre du poème à gauche et sa signature officielle à droite pour simuler l'aspect d'une fresque murale fissurée sur un mur d'or fin. Gauguin survécut miraculeusement à sa tentative de suicide en montagne, la dose de poison trop lourde ayant déclenché des vomissements salvateurs, et la toile fut envoyée à Paris chez le marchand Ambroise Vollard avant d'intégrer de manière définitive les collections permanentes du Museum of Fine Arts de Boston."
+  },
+  {
+    id: "terrasse-cafe-soir",
+    title: "Terrasse du café le soir",
+    artist: "Vincent van Gogh",
+    date: 1888,
+    movement: "postimpressionism",
+    location: "Musée Kröller-Müller (Otterlo, Pays-Bas)",
+    image: "/artworks/postimpressionism/terrasse-cafe-soir.jpg",
+    description: "Une promenade nocturne sur la place du Forum d'Arles en septembre 1888 inspira à Vincent van Gogh cette chronique urbaine lumineuse, marquant la toute première apparition de ses fameux fonds étoilés au sein de sa production picturale provençale. L'artiste écrivit avec ferveur à sa sœur Wil que contempler la nuit sur place lui procurait une joie plastique immense, peignant la scène directement d'après nature à la lueur des bougies fixées sur le rebord de son chapeau de paille.\n\nLa composition s'appuie sur un contraste chromatique et thermique absolu entre les deux moitiés de la feuille. La terrasse du café explose en un jaune soufre et orange safran incandescents sous l'effet d'une grande lanterne de fer à gaz, illuminant les silhouettes miniatures des clients installés aux tables. En contrepoint, la perspective fuyante de la rue s'enfonce sous un ciel azur et bleu nuit saturé d'une constellation d'étoiles d'or en forme de petites corolles de fleurs blanches qui détruisent la grisaille conventionnelle de la nuit.\n\nLe peintre se félicitait dans ses correspondances d'avoir représenté une nuit étoilée sans avoir fait le moindre usage du pigment noir ou du gris neutre, prouvant de manière empirique que l'obscurité nocturne était tapissée de couleurs vibrantes. La toile fut acquise au XXe siècle par la collectionneuse Hélène Kröller-Müller pour son musée d'Otterlo aux Pays-Bas, s'imposant comme l'une des compositions les plus emblématiques de sa période de maturité arlésienne."
+  },
+  {
+    id: "docteur-gachet",
+    title: "Portrait du docteur Gachet",
+    artist: "Vincent van Gogh",
+    date: 1890,
+    movement: "postimpressionism",
+    location: "Collection privée",
+    image: "/artworks/postimpressionism/docteur-gachet.jpeg",
+    description: "L'arrivée de Vincent van Gogh à Auvers-sur-Oise en mai 1890 organisa la rencontre fortuite de l'artiste avec le docteur Paul Gachet, un médecin psychiatre spécialisé dans la mélancolie civile et grand protecteur des peintres d'avant-garde. Lors de leur premier dîner, Van Gogh écrivit à son frère Théo qu'il avait reconnu en Gachet un frère spirituel souffrant des mêmes troubles psychologiques et de la même « détresse nerveuse » que lui-même.\n\nLe médecin est représenté assis de profil à une table de briques rouges, la tête appuyée sur son poing fermé dans la posture classique allégorique de la mélancolie intellectuelle héritée de la gravure de Dürer. Il flanque deux volumes de romans contemporains des frères Goncourt et une tige de digitale pourpre (la plante médicinale à la base des traitements cardiaques de l'époque), se détachant avec lassitude sur un arrière-plan de collines traitées en de grandes vagues de lignes bleues et violettes concentriques.\n\nLe tableau détient une histoire financière et matérielle transatlantique légendaire. Confisqué par le régime nazi en 1937 dans les musées allemands comme bar d'« Art dégénéré » et vendu pour obtenir des devises, il fut acheté aux enchères chez Christie's à New York en 1990 par le magnat de l'industrie du papier japonais Ryoei Saito pour la somme record de 82,5 millions de dollars. Saito déclencha un scandale patrimonial mondial en déclarant qu'il ferait sceller la toile au sein de son cercueil pour être incinéré avec elle à sa mort afin d'éviter les taxes successorales de sa famille ; l'œuvre fut heureusement préservée en secret par des fonds d'investissement privés internationaux après son décès en 1996."
+  },
+  {
+    id: "nuit-etoilee-rhone",
+    title: "La Nuit étoilée (sur le Rhône)",
+    artist: "Vincent van Gogh",
+    date: 1888,
+    movement: "postimpressionism",
+    location: "Musée d'Orsay (Paris, France)",
+    image: "/artworks/postimpressionism/nuit-etoilee-rhone.jpg",
+    description: "Cette vue nocturne fut exécutée par Vincent van Gogh le long des quais du Rhône à Arles, à seulement quelques minutes de marche de la Maison Jaune de la place Lamartine, s'inscrira comme sa recherche la plus virtuose sur la cohabitation des lumières naturelles et artificielles au sein du sillage postimpressionniste. L'artiste peignit la scène directement sur le motif à la fin de septembre 1888.\n\nLe génie technique de l'œuvre repose sur le double jeu des reflets lumineux qui traversent la surface scintillante et verte des eaux du fleuve. Les réverbères à gaz installés sur les quais d'Arles projettent de longues traînées d'encre jaune d'or et de ochre chaud qui s'étirent verticalement vers le premier plan, venant interagir de manière graphique avec la clarté froide et azur des constellations de la Grande Ourse qui tapissent le ciel bleu nuit supérieur. Un couple d'amants bourgeois déambule de profil dans le coin inférieur droit, ancrant la scène dans une poésie citadine.\n\nLe peintre a disposé ses touches de brosse à l'aide de petits segments rectangulaires réguliers, le relief de la matière picturale accentuant l'effet de miroitement de la clarté solaire nocturne sur les vagues. Présentée au Salon des Indépendants de Paris en 1889 par l'entremise de son frère Théo, la toile fut intégrée aux galeries de l'État français au XXe siècle avant d'être installée de façon permanente au musée d'Orsay, célébrée comme l'icône de la nuit romantique moderne."
+  },
+  {
+    id: "portrait-joseph-roulin",
+    title: "Portrait de Joseph Roulin",
+    artist: "Vincent van Gogh",
+    date: 1888,
+    movement: "postimpressionism",
+    location: "Museum of Fine Arts (Boston, États-Unis)",
+    image: "/artworks/postimpressionism/portrait-joseph-roulin.jpg",
+    description: "La solitude sociale et l'isolement intellectuel de Vincent van Gogh lors de son installation à Arles furent rompus grâce à l'amitié indissociable de Joseph Roulin, un employé des chemins de fer affecté au tri postal de la gare locale. Roulin, républicain socialiste et partisan farouche des libertés civiles d'esprit proudhonien, devint le modèle favori de l'artiste jurassien, qui peignit plus de six portraits distincts de sa figure robuste au cours de l'hiver.\n\nLe facteur est représenté assis de trois-quarts face, revêtu de son uniforme officiel de laine bleu nuit boutonné d'or, sa casquette héraldique portant l'inscription calligraphiée « POSTES » structurant sa silhouette. Van Gogh magnifie la barbe touffue et rousse de son ami, qu'il comparait dans ses correspondances à la structure des visages de sages antiques de Socrate ou des portraits de marins russes de Léon Tolstoï. Le personnage se détache de manière vigoureuse sur un fond mural d'une incroyable densité ornementale de motifs de pavots et de rinceaux floraux sinueux.\n\nL'artiste emploie des contours nets d'esprit synthétiste, éliminant les ombres académiques pour faire vibrer la saturation des pigments primaires de sa palette. La version originale de cette série fut acquise par les conservateurs du Museum of Fine Arts de Boston au XXe siècle, s'imposant comme le document de référence illustrant la dévotion fraternelle et la solidarité populaire qui unissaient les deux marginaux de la crau arlésienne."
+  },
+  {
+    id: "iris",
+    title: "Iris",
+    artist: "Vincent van Gogh",
+    date: 1889,
+    movement: "postimpressionism",
+    location: "J. Paul Getty Museum (Los Angeles, États-Unis)",
+    image: "/artworks/postimpressionism/iris.jpg",
+    description: "L'internement volontaire de Vincent van Gogh à l'asile de Saint-Paul-de-Mausole en mai 1889 a donné naissance à cette étude végétale d'une grande force graphique, exécutée au cours de sa toute première semaine de présence dans les jardins de l'hospice de briques. L'artiste considérait le travail de la peinture d'après nature comme la seule thérapie médicale capable de juguler ses crises d'épilepsie et ses hallucinations psychologiques lourdes, qualifiant la toile de « paratonnerre de ma maladie ».\n\nLa composition se caractérise par une absence totale de ligne d'horizon, le cadrage resserré subissant l'influence des perspectives coupées des estampes japonaises de fleurs de l'ukiyo-e de l'école Rinpa. Le peintre isole une touffe d'iris sauvages, dont les corolles d'un bleu azur et violet saturé s'élancent au milieu d'un réseau dense de feuilles vertes acérées comme des lames de rasoir. Un unique iris blanc immaculé surgit de manière asymétrique sur le flanc gauche, brisant la régularité chromatique pour signifier la solitude spirituelle du créateur.\n\nL'œuvre fut envoyée par son frère Théo au Salon des Indépendants en septembre 1889, le critique d'art Félix Fénéon ayant salué la précision microscopique du tracé et la puissance des hachures de couleur. Le tableau connut une notoriété médiatique planétaire en 1987 lors de sa vente aux enchères chez Sotheby's à New York, acheté par l'homme d'affaires australien Alan Bond pour la somme historique de cinquante-trois millions de dollars, avant d'être acquis de manière permanente par le J. Paul Getty Museum de Los Angeles."
+  },
+  {
+    id: "maison-jaune",
+    title: "La Maison jaune",
+    artist: "Vincent van Gogh",
+    date: 1888,
+    movement: "postimpressionism",
+    location: "Musée Van Gogh (Amsterdam, Pays-Bas)",
+    image: "/artworks/postimpressionism/maison-jaune.jpg",
+    description: "Aussi intitulée de la main de l'artiste « La Rue », cette chronique urbaine de la place Lamartine à Arles immortalise le bâtiment de maçonnerie dont le peintre louait l'aile droite dès le printemps 1888. L'édifice constituait l'ancre matérielle de son grand rêve utopique : fonder l'« Atelier du Midi », une communauté fraternelle d'artistes d'avant-garde mettant en commun leurs ressources financières et leurs recherches graphiques pour s'affranchir du diktat des marchands d'art de Paris.\n\nLa structure de la toile s'articule autour du contraste thermique puissant entre le jaune de chrome saturé de la façade du bâtiment et le bleu outremer pur d'un ciel méridional sans nuages. Van Gogh intègre les détails de la modernité urbaine locale, montrant les travaux de raccordement des conduites de gaz le long du trottoir de briques, un train de marchandises traversant le viaduc ferroviaire à l'arrière-plan droit et les silhouettes miniatures des passants attablés au café de son amie madame Ginoux.\n\nL'aile gauche du bâtiment abritait une épicerie bourgeoise, le peintre occupant les chambres hautes de l'aile droite dont les volets peints en vert frais indiquent l'emplacement de son intimité. La structure matérielle de la Maison Jaune fut détruite de manière tragique le 25 juin 1944 lors d'un raid de bombardement aérien allié visant la destruction des ponts sur le Rhône, les maçonneries s'étant effondrées sous l'impact des bombes, l'œuvre originale exposée à Amsterdam demeurant le seul témoignage visuel de ce foyer de l'art moderne."
+  },
+  {
+    id: "autoportrait-van-gogh",
+    title: "Portrait de l'artiste",
+    artist: "Vincent van Gogh",
+    date: 1889,
+    movement: "postimpressionism",
+    location: "Musée d'Orsay (Paris, France)",
+    image: "/artworks/postimpressionism/autoportrait-van-gogh.jpg",
+    description: "Vincent van Gogh a exécuté ce portrait officiel à l'asile de Saint-Rémy-de-Provence au lendemain d'une crise nerveuse majeure de deux mois qui l'avait laissé brisé et incapable de peindre. L'œuvre constitue l'un des morceaux d'introspection psychologique les plus célèbres de l'histoire de l'art occidental, l'artiste écrivant à Théo qu'il s'efforçait de fixer une image saine et rigoureuse de sa clarté intellectuelle retrouvée.\n\nLa composition est habitée par une tension graphique absolue. La silhouette rigide et immobile du peintre, vêtu de sa veste de travail d'un bleu-vert sombre, se détache de face sur un arrière-plan mural entièrement tapissé d'un réseau dense de lignes ondulées et de volutes concentriques de pigments turquoises. Ces arabesques en mouvement, qui rappellent les structures des vagues de « La Nuit étoilée », semblent résonner à la manière d'une onde acoustique qui enserre le crâne du modèle, matérialisant visuellement les tensions de sa psyché.\n\nLe traitement des traits du visage, caractérisé par des sourcils froncés en pointes géométriques rudes et un regard fixe d'une grande sévérité, accroche la lumière zénithale d'une fin de journée. Le peintre fit don de cette toile à son ami le docteur Paul Gachet en signe de gratitude filiale, avant que l'œuvre ne soit intégrée aux collections de l'État français après la guerre pour devenir le joyau de référence exposé au musée d'Orsay."
+  },
+  {
+    id: "quand-te-maries-tu",
+    title: "Quand te maries-tu ? (Nafea faa ipoipo ?)",
+    artist: "Paul Gauguin",
+    date: 1892,
+    movement: "postimpressionism",
+    location: "Château de Riehen (Bâle, Suisse)",
+    image: "/artworks/postimpressionism/quand-te-maries-tu.jpg",
+    description: "Ce panneau de bois de la première période polynésienne de Paul Gauguin met en scène deux jeunes femmes tahitiennes installées au milieu d'un paysage pastoral saturé d'or, de vert émeraude et de rouge vermillon purs. La construction de la scène illustre les principes du synthétisme, éliminant la perspective géométrique au profit d'une superposition de plans colorés horizontaux délimités par des contours noirs nets.\n\nLe premier plan est occupé par une jeune maorise vêtue du paréo traditionnel indigène, s'appuyant sur son bras gauche, une fleur de tiare blanche piquée dans sa coiffure noire indiquant de manière codifiée selon les mœurs locales qu'elle est disponible pour un hymen. Juste derrière elle, s'élève la silhouette plus rigide d'une femme plus âgée vêtue d'une robe de missionnaire rose plissée de style occidental de la cour chrétienne, son bras droit esquissant un geste officiel d'autorité ou de protection héraldique.\n\nLe tableau fut l'objet d'une transaction financière monumentale sur le marché de l'art international en février 2015. Conservée durant des décennies au sein du musée d'art de Bâle grâce au sillage de la collection de la fondation de Rudolf Staechelin, la toile originale fut vendue en secret à un consortium d'acheteurs d'État de l'émirat du Qatar pour la somme historique estimée à près de trois cents millions de dollars, fixant à cette date le record mondial absolu du tableau le plus cher de l'histoire moderne."
+  }
+];

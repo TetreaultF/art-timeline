@@ -1,0 +1,164 @@
+import type { Artwork } from "@/components/ArtworkGrid";
+
+export const buddhistArtworks: Artwork[] = [
+  {
+    id: "bouddha-gandhara",
+    title: "Bouddha debout du Gandhara",
+    artist: "Inconnu",
+    date: 150,
+    movement: "buddhist",
+    location: "Musée national de Tokyo (Japon)",
+    image: "/artworks/buddhist/bouddha-gandhara.png",
+    description: "Cette statue en schiste gris sculptée dans l'ancienne région du Gandhara (située à la frontière du Pakistan et de l'Afghanistan actuels) représente l'un des jalons majeurs de l'art gréco-bouddhique. Avant l'émergence de ce courant artistique aux alentours du Ier siècle de notre ère, le Bouddha historique n'était jamais représenté sous des traits humains, les communautés bouddhistes primitives utilisant des symboles aniconiques comme l'empreinte de ses pas, un trône vide ou la roue de la Loi.\n\nLa rencontre culturelle entre les traditions locales et les colons grecs installés dans la région à la suite des conquêtes d'Alexandre le Grand modifia radicalement cette approche. L'œuvre adopte le traitement réaliste de la statuaire hellénistique : le Bouddha possède les traits du visage du dieu grec Apollon, une chevelure ondulée ramenée en chignon (« ushnisha ») et un drapé lourd rappelant la toge romaine ou le chiton grec, dont les plis asymétriques masquent la rigidité du corps.\n\nLa statue fut découverte lors de fouilles archéologiques menées au XIXe siècle dans les ruines de monastères du nord du Pakistan, avant d'être envoyée au Japon dans le cadre d'échanges d'objets religieux. Elle conserve une auréole large et lisse derrière la tête, un attribut solaire emprunté au culte impérial romain et perse, qui servira plus tard de modèle pour l'ensemble de l'iconographie sacrée bouddhique à travers la Chine, la Corée et le Japon."
+  },
+  {
+    id: "bouddhas-bamiyan",
+    title: "Bouddhas de Bamiyan",
+    artist: "Inconnu",
+    date: 550,
+    movement: "buddhist",
+    location: "Vallée de Bamiyan (Afghanistan)",
+    image: "/artworks/buddhist/bouddhas-bamiyan.jpg",
+    description: "Sculptées au VIe siècle à même les falaises de grès qui bordent la vallée de Bamiyan en Afghanistan, ces deux statues de Bouddhas debout, hautes respectivement de cinquante-cinq et trente-huit mètres, incarnaient le gigantisme de l'art bouddhique au cœur de la route de la soie. Le site servait de centre de pèlerinage majeur où des milliers de moines résidaient dans des cellules d'ermitage creusées dans la roche autour des niches monumentales.\n\nLes bâtisseurs combinèrent la taille directe de la roche avec des techniques de maçonnerie plus légères. Les corps des statues furent ébauchés dans le grès, puis recouverts d'un enduit de boue, de paille et de stuc maintenu par des chevilles en bois pour modeler les plis subtils des vêtements. Les analyses archéologiques ont démontré que le plus grand Bouddha était initialement peint en rouge carmin et le plus petit en nuances de bleu et de jaune, offrant un repère visuel éclatant pour les caravanes de marchands qui traversaient les montagnes de l'Hindou Kouch.\n\nLe site fit l'objet d'une destruction tragique en mars 2001, orchestrée par le gouvernement taliban de l'époque. Malgré les protestations de l'UNESCO et de l'ensemble de la communauté internationale, les statues furent déclarées « idoles contraires à la loi islamique » et détruites à l'aide de dynamite et de tirs d'artillerie lourde après plusieurs semaines d'efforts. De nos jours, les niches vides de la falaise sont préservées comme un mémorial de cette perte culturelle, et des technologies de projection de lumière en trois dimensions ont été utilisées temporairement pour faire réapparaître les silhouettes des Bouddhas disparus."
+  },
+  {
+    id: "reliquaire-bimaran",
+    title: "Reliquaire de Bimaran",
+    artist: "Inconnu",
+    date: 50,
+    movement: "buddhist",
+    location: "British Museum (Londres, Angleterre)",
+    image: "/artworks/buddhist/reliquaire-bimaran.jpg",
+    description: "Exhumé par l'archéologue et aventurier britannique Charles Masson dans les années 1830 au sein d'un stūpa à Bimaran, près de Jalalabad en Afghanistan, ce petit récipient cylindrique en or massif ne mesure que sept centimètres de haut. L'objet servait à abriter des reliques sacrées, probablement des fragments d'ossements ou des cendres d'un saint homme bouddhiste, constituant l'un des plus anciens témoignages de l'orfèvrerie de l'Empire kouchan.\n\nLa surface du reliquaire est ornée d'une frise en relief réalisée selon la technique du repoussé, représentant le Bouddha entouré par les divinités hindoues Brahma et Indra en posture d'adoration, abrités sous des arcs en forme de niches architecturales influencées par l'art gréco-romain. La base et le couvercle de la boîte sont incrustés de rubis de Badakhshan d'une grande rareté, insérés selon la méthode du cloisonné géométrique.\n\nLa datation précise de l'objet fut établie grâce à la découverte de quatre monnaies en bronze du roi indo-scythe Azès II au sein de la même boîte de grès qui protégeait le reliquaire d'or. Cette découverte prouve que dès le milieu du Ier siècle de notre ère, l'iconographie humaine du Bouddha était pleinement fixée et honorée par les souverains de la région, contredisant la théorie d'une apparition tardive du portrait bouddhique sous l'influence exclusive du IIe siècle romain."
+  },
+  {
+    id: "fresques-ajanta",
+    title: "Fresques des grottes d'Ajanta",
+    artist: "Inconnu",
+    date: 450,
+    movement: "buddhist",
+    location: "Grottes d'Ajanta (Maharashtra, Inde)",
+    image: "/artworks/buddhist/fresques-ajanta.jpg",
+    description: "Creusées dans la paroi rocheuse d'une gorge en forme de fer à cheval au cœur de l'État du Maharashtra, les vingt-neuf grottes d'Ajanta abritent le plus important ensemble de peintures murales antiques de l'Inde. Réalisées sous le patronage de la dynastie des Vakataka et de l'Empire Gupta, ces fresques déploient un programme narratif denses décrivant les « Jataka », les récits des vies antérieures du Bouddha sous des formes humaines ou animales avant son Éveil final.\n\nLes peintres utilisaient une technique de détrempe sur enduit de terre séchée mêlée de bouse de vache, de argile et de poils d'animaux, lissée sur la roche de basalte avant l'application de pigments naturels stables (ocre rouge, ocre jaune, terre verte et lapis-lazuli). L'une des compositions les plus célèbres, située dans la grotte 1, représente le bodhisattva Padmapani tenant une fleur de lotus bleu dans sa main droite, son regard baissé exprimant une mélancolie compatissante face aux souffrances du monde terrestre.\n\nLe site fut abandonné brutalement au VIe siècle de notre ère à la suite du déclin du bouddhisme en Inde et de l'essor des temples hindous, restant dissimulé par une végétation tropicale dense durant près de treize siècles. Sa redécouverte fortuite survint en avril 1819, lorsqu'un officier de cavalerie de l'armée britannique, John Smith, escalada la gorge lors d'une partie de chasse au tigre et remarqua l'arche d'entrée sculptée de la grotte 10 dépassant des lianes, gravant son nom et la date de sa découverte directement sur le corps peint d'une figure de bodhisattva."
+  },
+  {
+    id: "tete-bouddha-met",
+    title: "Tête de Bouddha (Hadda)",
+    artist: "Inconnu",
+    date: 500,
+    movement: "buddhist",
+    location: "Metropolitan Museum of Art (New York, États-Unis)",
+    image: "/artworks/buddhist/tete-bouddha-met.jpg",
+    description: "Cette tête sculptée provient du site archéologique de Hadda, une ancienne cité monastique du Gandhara située près du col de Khyber en Afghanistan. Contrairement aux pièces sculptées dans le schiste dur, cette œuvre a été façonnée en stuc, un mélange de chaux, de plâtre et de sable fin qui offrait aux artisans locaux une grande liberté plastique pour modeler les expressions et la fluidité des lignes du visage avant le séchage de la matière.\n\nLa sculpture conserve de fines traces de polychromie d'origine, notamment des lignes d'encre noire pour souligner le contour des yeux en amande et des pigments d'ocre rouge marquant les lèvres entrouvertes et la base du cou. Le traitement des traits du visage, caractérisé par un front large, des sourcils arqués et un demi-sourire distant, traduit la recherche du « shanti », l'état de paix intérieure et de sérénité absolue propre aux réalisations du bouddhisme mahayana.\n\nLe site de Hadda fut dévasté de manière systématique au cours des guerres civiles d'Afghanistan à la fin du XXe siècle, les monastères et les musées locaux ayant été pillés et détruits par des tirs de roquettes. Cette tête fut acquise par le Metropolitan Museum of Art auprès de collections privées avant ces destructions massives, s'imposant désormais comme l'un des rares témoignages préservés de la virtuosité technique des stucateurs de l'école d'Hadda."
+  },
+  {
+    id: "borobudur",
+    title: "Borobudur",
+    artist: "Inconnu (Dynastie Shailendra)",
+    date: 825,
+    movement: "buddhist",
+    location: "Magelang (Java, Indonésie)",
+    image: "/artworks/buddhist/borobudur.jpg",
+    description: "Érigé au cœur de la plaine de Kedu sur l'île de Java sous le règne de la dynastie Shailendra, Borobudur est le plus grand monument bouddhique au monde. La structure est conçue comme un immense mandala tridimensionnel en pierre de basalte grise, matérialisant la cosmologie bouddhique à travers neuf plateformes superposées (six carrées à la base et trois circulaires au sommet), que les pèlerins parcouraient de manière ascensionnelle en suivant un chemin de procession de plus de cinq kilomètres.\n\nLe monument abrite cinq cent quatre statues du Bouddha et plus de deux mille six cents panneaux de bas-reliefs sculptés qui détaillent la vie de Gautama et les textes sacrés du Mahayana. Les trois terrasses supérieures sont couronnées par soixante-douze stūpas ajourés en forme de cloches de pierre, chacun recélant une statue de Bouddha assis en méditation dont les mains exécutent différents mudras. L'ensemble est surmonté d'un stūpa central monumental entièrement clos, symbole de l'état de Nirvana inaccessible aux sens.\n\nL'édifice fut enseveli sous des couches épaisses de cendres volcaniques émises par le mont Merapi voisin et recouvert par la jungle tropicale après le dérapage démographique de la population vers l'est de l'île au XIe siècle. Sa redécouverte officielle fut organisée en 1814 par le gouverneur britannique de Java, Thomas Stamford Raffles, qui dépêcha une équipe de deux cents ouvriers pour défricher la colline de terre et dégager les structures de pierre après avoir entendu des rumeurs indigènes sur l'existence d'une grande montagne sculptée cachée dans les bois."
+  },
+  {
+    id: "prajnaparamita",
+    title: "Prajnaparamita de Java",
+    artist: "Inconnu",
+    date: 1275,
+    movement: "buddhist",
+    location: "Musée national d'Indonésie (Jakarta)",
+    image: "/artworks/buddhist/prajnaparamita.jpg",
+    description: "Considérée comme le chef-d'œuvre de l'art de la sculpture sur pierre de l'époque du royaume de Singhasari à Java est, cette statue représente la déesse Prajnaparamita, personnification féminine de la sagesse transcendantale et de la perfection des textes ésotériques. La divinité est figurée assise en position de lotus complet sur un piédestal orné d'un lotus d'or (« padmasana »), les mains exécutant le geste d'enseignement du « Dharmachakra mudra » devant la poitrine.\n\nL'artisan javanais a réalisé une prouesse technique dans le rendu des détails vestimentaires et des parures de joaillerie, sculptant de fines lignes géométriques pour imiter la texture des tissus en batik précieux de la cour royale. Derrière la tête de la déesse, une grande auréole de pierre lisse intègre des motifs de flammes stylisées et se trouve surmontée d'une fleur de lotus supportant un manuscrit sur feuilles de palmier (« lontar »), symbole du texte sacré de la sagesse.\n\nUne tradition historique tenace identifie le visage idéalisé de la déesse comme le portrait posthume de la reine Ken Dedes, figure fondatrice de la dynastie de Singhasari réputée pour sa beauté et son érudition. Emportée aux Pays-Bas en 1820 durant la période coloniale hollandaise pour être intégrée aux collections du musée d'Ethnologie de Leyde, la sculpture fut officiellement restituée au gouvernement indonésien en 1978, devenant l'icône de la préservation du patrimoine national indonésien."
+  },
+  {
+    id: "bouddha-sarnath",
+    title: "Bouddha prêchant de Sarnath",
+    artist: "Inconnu",
+    date: 475,
+    movement: "buddhist",
+    location: "Musée de Sarnath (Inde)",
+    image: "/artworks/buddhist/bouddha-sarnath.png",
+    description: "Sculptée au Ve siècle sous le règne de l'Empire Gupta, cette statue en grès de Chunar beige représente le Bouddha historique assis lors de son premier sermon public prononcé dans le parc aux cerfs de Sarnath, après avoir atteint l'Éveil à Bodhgayâ. L'œuvre incarne le classicisme esthétique de l'art Gupta, caractérisé par l'élimination de tous les détails superflus au profit d'une harmonie géométrique épurée des formes corporelles.\n\nLe Bouddha croise les doigts pour former le geste du « Dharmachakra mudra », traduisant l'action de mettre en mouvement la roue de la Loi bouddhique. Le piédestal inférieur de la statue accueille un bas-relief représentant les cinq disciples primitifs du maître agenouillés de part et d'autre d'une roue de la Loi, accompagnés d'une silhouette de femme et d'un enfant figurant les donateurs qui ont financé la réalisation de la sculpture.\n\nDerrière la tête du Bouddha se déploie une auréole gigantesque ornée d'entrelacs de plantes, de motifs géométriques et de deux figures d'anges volants (« gandharvas ») tenant des guirlandes florales. Le contraste puissant entre la richesse ornementale de ce disque arrière et la nudité abstraite du vêtement monastique lisse (« sanghati ») fait de cette statue l'une des réalisations les plus célèbres de l'histoire de l'art indien, copiée par la suite à travers toute l'Asie du Sud-Est."
+  },
+  {
+    id: "grand-stupa-sanchi",
+    title: "Grand stūpa de Sânchî",
+    artist: "Inconnu",
+    date: -150,
+    movement: "buddhist",
+    location: "Sanchi (Inde)",
+    image: "/artworks/buddhist/grand-stupa-sanchi.jpg",
+    description: "Initié au IIIe siècle avant notre ère par l'empereur Maurya Ashoka et agrandi par la suite sous la dynastie Shunga, le Grand stūpa de Sânchî est le plus ancien monument en pierre préservé de l'Inde. La structure consiste en un dôme hémisphérique massif en briques et en grès, construit au-dessus des reliques sacrées du Bouddha, surmonté d'une balustrade carrée (« harmika ») et d'un triple parasol en pierre représentant les joyaux de la foi.\n\nL'intérêt artistique majeur du site réside dans ses quatre « toranas », des portails monumentaux en pierre érigés aux quatre points cardinaux au Ier siècle avant notre ère. Ces structures sont entièrement recouvertes de reliefs narratifs d'une grande densité, détaillant des miracles accomplis par le Bouddha et des scènes de la cour impériale. Fidèle aux conventions de l'art bouddhique ancien, le visage de Gautama n'est jamais représenté directement : sa présence est suggérée par des symboles métaphoriques comme un parasol vide, un cheval sans cavalier ou la roue de la Loi.\n\nLe monument fut abandonné après le déclin du bouddhisme au XIIe siècle et resta préservé des destructions iconoclastes en raison de son isolement géographique dans les plaines du Madhya Pradesh. Il fut redécouvert en 1818 par le général britannique Taylor. Les premiers archéologues occidentaux tentèrent malheureusement de percer le dôme de pierre pour chercher le trésor des reliques, causant un effondrement partiel de la structure avant que sir John Marshall n'entreprenne une campagne de restauration scientifique rigoureuse au début du XXe siècle."
+  },
+  {
+    id: "bayon",
+    title: "Bayon",
+    artist: "Inconnu",
+    date: 1200,
+    movement: "buddhist",
+    location: "Angkor Thom (Siem Reap, Cambodge)",
+    image: "/artworks/buddhist/bayon.jpg",
+    description: "Érigé au centre géométrique de la nouvelle capitale impériale d'Angkor Thom par le roi khmer Jayavarman VII, le temple du Bayon marque la transition officielle de la cour d'Angkor de l'hindouisme shivaïte vers le bouddhisme mahayana. L'édifice se caractérise par une architecture baroque saturée et labyrinthique, comprenant cinquante-quatre tours massives de pierre grise ornées de visages sculptés sur leurs quatre faces.\n\nCes visages géants, mesurant plus de deux mètres de haut et affichant un demi-sourire impassible, représentent le bodhisattva de la compassion, Avalokiteshvara (Lokeshvara). Les historiens de l'art s'accordent à y voir un double portrait fusionnant les traits du saint bouddhique avec le visage idéalisé du roi Jayavarman VII lui-même, matérialisant le concept de « Devaraja » (le roi-dieu) réinterprété sous l'angle du bouddhisme d'État.\n\nLes galeries extérieures du temple sont tapissées de plus d'un kilomètre de bas-reliefs détaillant avec un grand réalisme des scènes de la vie quotidienne des Khmers au XIIIe siècle (marchés en plein air, combats de coqs, accouchements) ainsi que des récits de guerres navales et terrestres menées contre le royaume voisin du Champa. Le site souffrit des campagnes de vandalisme menées par les souverains hindous ultérieurs, qui martelèrent les motifs du Bouddha assis pour les transformer en lingams de Shiva, compliquant l'analyse théologique des décors originaux."
+  },
+  {
+    id: "grand-bouddha-leshan",
+    title: "Grand Bouddha de Leshan",
+    artist: "Inconnu",
+    date: 803,
+    movement: "buddhist",
+    location: "Leshan (Chine)",
+    image: "/artworks/buddhist/grand-bouddha-leshan.jpg",
+    description: "Taillé directement dans la falaise du mont Lingyun sous la dynastie Tang, le Grand Bouddha de Leshan est la plus haute statue de pierre pré-moderne du monde, culminant à soixante-onze mètres de haut. La sculpture représente le Bouddha Maitreya, la figure messianique du bouddhisme qui doit apparaître dans l'avenir, représenté assis sur un trône, les mains posées sur ses genoux monumentaux au-dessus des eaux de la rivière.\n\nL'érection du monument fut initiée en l'an 713 par un moine bouddhiste nommé Hai Tong. Ce dernier souhaitait implanter la figure du Bouddha à la confluence des rivières Min, Qingyi et Dadu, un emplacement réputé extrêmement dangereux pour les navires marchands en raison de courants violents qui causaient de nombreux naufrages annuels. Hai Tong passa des décennies à collecter des fonds publics pour financer le chantier ; la légende prétend que lorsque des fonctionnaires locaux tentèrent de confisquer le trésor collecté, le moine s'arracha les yeux pour prouver sa piété et sa détermination chrétienne.\n\nLes tonnes de gravats de grès extraites de la falaise durant la taille de la statue furent rejetées directement dans le lit de la rivière en contrebas. Cette modification hydraulique empirique permit de combler les fosses souterraines et de modifier le cours des courants marins, rendant la navigation parfaitement sûre pour les marins. L'architecte intégra également un système caché de canalisations intérieures creusées derrière les oreilles et les cheveux de la statue pour drainer les eaux de pluie et limiter l'érosion du grès par le climat humide du Sichuan."
+  },
+  {
+    id: "grottes-longmen",
+    title: "Grottes de Longmen",
+    artist: "Inconnu",
+    date: 675,
+    movement: "buddhist",
+    location: "Luoyang (Henan, Chine)",
+    image: "/artworks/buddhist/grottes-longmen.jpg",
+    description: "S'étendant sur plus d'un kilomètre le long des deux rives de la rivière Yi près de l'ancienne capitale de Luoyang, le complexe rupestre de Longmen réunit plus de deux mille grottes artificielles abritant près de cent mille statues de calcaire. Le point d'orgue du site réside dans le sanctuaire à ciel ouvert de Fengxian, commandé sous la dynastie Tang par l'empereur Gaozong et son épouse, la future impératrice régnante Wu Zetian.\n\nLe groupe principal est dominé par la statue colossale du Bouddha Vairocana, haute de dix-sept mètres, flanquée de ses disciples Ananda et Kasyapa, de bodhisattvas et de divinités gardiennes armées terrassant des démons. Les traits du visage du Bouddha Vairocana, caractérisés par des lignes douces et des yeux mi-clos, furent sculptés selon une tradition de la cour pour reproduire fidèlement les traits physiques de l'impératrice Wu Zetian elle-même, qui utilisa ce projet religieux pour légitimer son accession unique au trône impérial chinois.\n\nLe site souffrit de pillages massifs au début du XXe siècle, à l'époque des seigneurs de la guerre, où des collectionneurs d'art occidentaux et asiatiques achetèrent des têtes et des membres de statues découpés à la scie par des pilleurs locaux. Plusieurs reliefs majeurs de Longmen, comme la fresque de la procession impériale, sont aujourd'hui conservés au Metropolitan Museum de New York ou au musée Nelson-Atkins de Kansas City, privant le complexe rupestre d'une partie de son intégrité d'origine."
+  },
+  {
+    id: "bouddha-nara",
+    title: "Grand Bouddha de Nara",
+    artist: "Inconnu",
+    date: 752,
+    movement: "buddhist",
+    location: "Temple Tōdai-ji (Nara, Japon)",
+    image: "/artworks/buddhist/bouddha-nara.jpg",
+    description: "Abrité au cœur du Daibutsu-den du temple Tōdai-ji à Nara, ce Bouddha monumental en bronze, connu sous le nom de Daibutsu, représente le Bouddha cosmique Vairocana (Birushana Nyorai). L'érection de cette statue haute de près de quinze mètres fut ordonnée par l'empereur Shōmu en l'an 743 pour servir de centre de protection spirituelle de l'archipel face aux épidémies de variole et aux révoltes politiques qui menaçaient la cour impériale de la période de Nara.\n\nLa coulée de bronze exigea l'utilisation de près de quatre cents tonnes de cuivre, de huit tonnes de plomb et de plusieurs centaines de kilogrammes d'or et de mercure pour réaliser la dorure superficielle, épuisant les réserves de métaux du Japon et manquant de mener l'économie impériale à la faillite complète. La cérémonie d'ouverture officielle des yeux, tenue en 752 sous la direction d'un moine indien nommé Bodhisena, réunit des milliers d'ambassadeurs venus de toute l'Asie centrale et de la Chine des Tang, qui utilisèrent un pinceau géant relié par des fils de soie pour dessiner les pupilles du Bouddha.\n\nLe monument et la charpente en bois qui le protège subirent plusieurs incendies destructeurs provoqués par les guerres civiles entre clans de samouraïs au cours des siècles, notamment lors du sac du temple en 1180. La tête et les bras de la statue actuelle furent recoulés à l'époque d'Edo à la fin du XVIIe siècle, ce qui explique les légères différences de patine et de style entre le corps d'origine et le visage actuel du Bouddha."
+  },
+  {
+    id: "fresques-dunhuang",
+    title: "Fresques des grottes de Mogao",
+    artist: "Inconnu",
+    date: 700,
+    movement: "buddhist",
+    location: "Dunhuang (Chine)",
+    image: "/artworks/buddhist/fresques-dunhuang.jpg",
+    description: "Situées à une oasis stratégique du désert de Gobi au carrefour des deux branches principales de la route de la soie, les grottes de Mogao à Dunhuang réunissent près de cinq cents sanctuaires rupestres creusés dans une falaise de sédiments meubles sur une période s'étalant du IVe au XIVe siècle. Les parois des grottes sont recouvertes de quarante-cinq mille mètres carrés de peintures murales décrivant des épisodes des textes sacrés bouddhiques et des scènes de commerce international impliquant des marchands sogdiens, turcs et tibétains.\n\nLes artistes de Dunhuang développèrent une iconographie syncrétique unique, combinant les apports de l'art indien des Gupta avec les traditions linéaires de l'art chinois de la dynastie Tang. Les fresques de la grotte 220, exécutées au VIIe siècle, montrent des représentations d'orchestres de musique occidentale et de danses rituelles dynamiques, reflétant l'effervescence culturelle de cette porte d'entrée de l'Empire chinois.\n\nLe site est également célèbre pour la découverte fortuite de la « Grotte de la Bibliothèque » (grotte 17) en l'an 1900 par un moine taoïste nommé Wang Yuanlu. Cette cellule close dissimulait des dizaines de milliers de manuscrits médiévaux précieux rédigés en chinois, tibétain, sanskrit et vieux-turc, dont le célèbre « Sūtra du Diamant » daté de 868, le plus ancien livre imprimé complet préservé au monde. La plupart de ces documents furent acquis à bas prix par les explorateurs occidentaux Aurel Stein et Paul Pelliot, avant d'être dispersés au British Museum et à la Bibliothèque nationale de France."
+  },
+  {
+    id: "temple-mahabodhi",
+    title: "Temple de Mahabodhi",
+    artist: "Inconnu",
+    date: 550,
+    movement: "buddhist",
+    location: "Bodhgayâ (Inde)",
+    image: "/artworks/buddhist/temple-mahabodhi.jpg",
+    description: "Reconstruit au VIe siècle sous la dynastie des Gupta sur les fondations d'un premier sanctuaire élevé par l'empereur Ashoka, le temple de Mahabodhi marque l'emplacement le plus saint du monde bouddhique : le lieu exact où le prince Siddhartha Gautama atteignit l'Éveil spirituel sous un arbre pipal pour devenir le Bouddha. L'édifice se distingue par sa structure en briques recouvertes de stuc sculpté, surmontée d'une haute tour pyramidale (« shikhara ») s'élevant à plus de cinquante-cinq mètres de haut.\n\nÀ l'arrière-plan immédiat du temple s'élève l'arbre de la Bodhi actuel, un descendant direct par bouturage de l'arbre historique original. La passerelle de pierre sculptée qui entoure l'autel de briques intègre des reliefs de médaillons celtiques et des motifs de fleurs de lotus datant de la période Shunga, marquant le chemin de procession suivi par le maître durant les semaines qui suivirent son illumination.\n\nLe site fut abandonné au XIIIe siècle après la destruction des grands centres monastiques de Nalanda par les armées de Khilji, s'enfonçant sous les sables et la boue accumulés par les crues de la rivière Phalgu. Le monument fit l'objet d'une campagne de reconstruction complète à la fin du XIXe siècle, dirigée par l'archéologue britannique Alexander Cunningham et des érudits birmans, qui restaurèrent la haute tour pyramidale en s'appuyant sur de petites maquettes en pierre trouvées parmi les ruines du complexe archéologique."
+  },
+  {
+    id: "takht-i-bahi",
+    title: "Monastère de Takht-i-Bahi",
+    artist: "Inconnu",
+    date: 200,
+    movement: "buddhist",
+    location: "Mardan (Khyber Pakhtunkhwa, Pakistan)",
+    image: "/artworks/buddhist/takht-i-bahi.jpg",
+    description: "Perché sur une crête rocheuse escarpée dans le nord du Pakistan, le complexe de Takht-i-Bahi (« le trône de la source ») représente l'ensemble monastique bouddhiste le mieux préservé de l'ancienne région du Gandhara. Érigé au début du Ier siècle sous le règne du royaume indo-parthe de Gondopharès, le site fut épargné par les destructions en raison de son isolement topographique, échappant aux invasions dévastatrices des Huns blancs au VIe siècle.\n\nL'architecture en maçonnerie de schiste gris local s'organise autour d'une cour centrale des stūpas, entourée de dizaines de niches chapelles hautes qui abritaient des statues de Bouddha debout, et reliée à un réfectoire, une salle d'assemblée et un réseau de cellules d'habitation pour les moines. Les cellules souterraines de méditation, creusées sous les structures pour offrir de la fraîcheur durant les mois d'été, témoignent de l'adaptation des protocoles rituels aux rigueurs climatiques de la région.\n\nLes premières fouilles archéologiques systématiques menées par les services britanniques au XIXe siècle mirent au jour une collection monumentale de bas-reliefs en schiste et de statues en stuc, qui furent transférées au musée de Peshawar. Le site fut inscrit au patrimoine mondial de l'UNESCO en 1980, s'imposant comme la référence scientifique principale pour l'étude de l'organisation spatiale et quotidienne de la vie monastique au sein de l'Inde ancienne."
+  }
+];

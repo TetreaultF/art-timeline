@@ -1,0 +1,164 @@
+import type { Artwork } from "@/components/ArtworkGrid";
+
+export const romanArtworks: Artwork[] = [
+  {
+    id: "colisee",
+    title: "Colisée de Rome",
+    artist: "Inconnu",
+    date: 80,
+    movement: "roman",
+    location: "Rome (Italie)",
+    image: "/artworks/roman/colisee.jpg",
+    description: "Inauguré par l'empereur Titus en l'an 80 de notre ère sous le nom d'amphithéâtre Flavien, ce monument colossal fut financé grâce au pillage systématique du Temple de Jérusalem lors de la première guerre judéo-romaine. Le chantier, qui mobilisa des milliers d'esclaves juifs déportés, visait à asseoir la légitimité de la nouvelle dynastie flavienne en offrant au peuple romain un espace de divertissement public sans précédent, érigé sur le site même du lac artificiel de la haineuse « Maison Dorée » (« Domus Aurea ») de l'empereur Néron.\n\nL'édifice représente un chef-d'œuvre d'ingénierie structurelle fondé sur l'utilisation du béton romain (« opus caementicium ») et d'un réseau complexe de voûtes en berceau et d'arches en plein cintre. La façade extérieure déploie une superposition rigoureuse des ordres architecturaux classiques : dorique (toscan) au rez-de-chaussée, ionique au premier étage, et corinthien au second. Sous l'arène de bois recouverte de sable, les ingénieurs aménagèrent l'hypogée, un réseau de galeries souterraines équipé de monte-charges et de trappes mécaniques pour faire surgir instantanément les bêtes sauvages et les gladiateurs devant les cinquante mille spectateurs.\n\nLe monument doit son appellation médiévale de « Colisée » à la proximité immédiate d'une statue colossale en bronze de trente-cinq mètres de haut représentant Néron en dieu solaire, érigée à l'entrée du site. Lors des fêtes d'inauguration, qui s'étalèrent sur plus de cent jours, plus de neuf mille animaux sauvages furent mis à mort dans l'arène. Le site fut préservé d'un démantèlement complet au XVIIIe siècle lorsque le pape Benoît XIV le déclara terre sacrée en mémoire des martyrs chrétiens qui y auraient péri, y installant un chemin de croix pour stopper l'extraction industrielle du travertin par les entrepreneurs locaux."
+  },
+  {
+    id: "pantheon",
+    title: "Panthéon",
+    artist: "Inconnu",
+    date: 126,
+    movement: "roman",
+    location: "Rome (Italie)",
+    image: "/artworks/roman/pantheon.jpg",
+    description: "Reconstruit sous le règne de l'empereur Hadrien pour remplacer le temple initial érigé par Agrippa qui avait péri dans un incendie, le Panthéon chrétien est le monument romain antique le mieux préservé au monde. L'édifice bouscule les structures traditionnelles en unissant un porche d'entrée rectiligne classique à colonnes monolithes de granit importées d'Égypte à une immense nef circulaire fermée par la plus grande coupole en béton non armé de la planète, mesurant quarante-trois mètres de diamètre.\n\nLa prouesse technique de la voûte repose sur une sélection différentielle des matériaux au sein du béton : les ingénieurs utilisèrent du travertin lourd pour les fondations du tambour, passant progressivement à du tuf léger pour les niveaux intermédiaires, puis à de la pierre ponce volcanique poreuse près du sommet. Le dôme est percé en son centre par un oculus ouvert sur le ciel de neuf mètres de diamètre, unique source de clarté de la pièce. Lors des jours de pluie, l'eau s'écoule à travers un réseau discret de vingt-deux petits orifices de drainage aménagés dans le sol de marbre incurvé.\n\nHadrien fit graver l'inscription d'origine en lettres de bronze sur le fronton extérieur en hommage au fondateur initial : « M·AGRIPPA·L·F·COS·TERTIVM·FECIT » (« Marcus Agrippa, fils de Lucius, consul pour la troisième fois, l'a fait »), masquant son propre rôle d'architecte par modestie politique. Le monument survécut aux pillages médiévaux grâce à sa conversion précoce en église chrétienne en l'an 609 par le pape Boniface IV. Au XVIIe siècle, le pape Urbain VIII Barberini fit néanmoins démonter les lourdes poutres de bronze du porche d'entrée pour fabriquer les canons du château Saint-Ange et fondre le baldaquin de la basilique Saint-Pierre."
+  },
+  {
+    id: "pont-du-gard",
+    title: "Pont du Gard",
+    artist: "Inconnu",
+    date: 50,
+    movement: "roman",
+    location: "Vers-Pont-du-Gard (France)",
+    image: "/artworks/roman/pont-du-gard.jpg",
+    description: "S'élevant au-dessus du cours du Gardon en Occitanie, ce pont-aqueduc à trois niveaux d'arches constitue la section la plus spectaculaire d'un aqueduc de cinquante kilomètres de long qui alimentait en eau les fontaines, les thermes publics et les demeures patriciennes de la colonie romaine de Nîmes (« Nemausus »). L'ouvrage matérialise la maîtrise technique romaine de l'eau et de la topographie, le tracé de la canalisation présentant une pente moyenne d'un fragment de vingt-cinq centimètres par kilomètre seulement.\n\nLes bâtisseurs gallo-romains ont assemblé les blocs de calcaire coquillier local, pesant pour certains jusqu'à six tonnes, sans l'utilisation de mortier ou de ciment, la stabilité de la structure reposant exclusivement sur la précision de la taille des pierres et la force de compression des arches en plein cintre. Les maçonneries conservent de petites excroissances rocheuses délibérées qui servaient de points d'ancrage pour fixer les échafaudages en bois mobiles lors du chantier.\n\nLa canalisation supérieure était entièrement close par des dalles de pierre pour éviter l'évaporation et la contamination de l'eau par la poussière, l'intérieur étant recouvert d'un enduit de briques pilées et de chaux étanche. Le pont-aqueduc survécut à la chute de l'Empire en raison de sa réaffectation utilitaire comme pont routier à péage géré par les seigneurs locaux et les évêques d'Uzès, qui veillèrent à l'entretien des arches basses tout en laissant le canal supérieur s'entartrer au cours des siècles."
+  },
+  {
+    id: "maison-carree",
+    title: "Maison Carrée",
+    artist: "Inconnu",
+    date: 4,
+    movement: "roman",
+    location: "Nîmes (France)",
+    image: "/artworks/roman/maison-carree.png",
+    description: "Élevée au cœur du forum romain de Nîmes, la Maison Carrée est le temple du culte impérial auguste le mieux préservé de l'ancien Empire romain. Le monument fut dédié par le gendre d'Auguste, Marcus Vipsanius Agrippa, à la mémoire de ses deux fils, les princes de jeunesse Caius et Lucius César, adoptés par l'empereur comme héritiers présomptifs avant leur mort précoce sur les fronts militaires.\n\nL'édifice est un exemple de l'ordre corinthien, présentant un plan pseudopériptère sur un haut podium de pierre blanche accessible par un unique escalier frontal, une convention architecturale d'esprit étrusco-romain qui privilégie la monumentalité de la façade. Les colonnes de la nef (« cella ») sont à moitié engagées dans les maçonneries des murs de briques, et la corniche déploie une frise continue de rinceaux d'acanthe d'une grande finesse ciselée exécutée par des sculpteurs importés de Rome.\n\nL'identité des dédicataires fut reconstituée au XIXe siècle par l'érudit nîmois Jean-Français Séguier grâce à une méthode d'analyse archéologique inédite. Séguier étudia l'emplacement des trous de fixation et des clous de bronze arrachés de la frise de la façade, parvenant à lire par transparence le texte hiératique d'origine gravé dans la pierre. Le temple doit sa préservation miraculeuse à sa réutilisation continue à travers les âges, ayant servi d'hôtel de ville médiéval, de maison d'habitation privée, d'église paroissiale et d'écurie révolutionnaire."
+  },
+  {
+    id: "auguste-prima-porta",
+    title: "Auguste de Prima Porta",
+    artist: "Inconnu",
+    date: 20,
+    movement: "roman",
+    location: "Musées du Vatican (Vatican)",
+    image: "/artworks/roman/auguste-prima-porta.png",
+    description: "Découverte en 1863 au sein des ruines de la villa de Livie (l'épouse d'Auguste) à Prima Porta, près de Rome, cette statue en marbre blanc représente le premier empereur de Rome en chef de guerre cuirassé (« loricatus »). L'œuvre s'éloigne du naturalisme sévère de la tradition républicaine pour adopter les canons esthétiques d'idéalisation classique du Ve siècle grec, s'inspirant directement des proportions géométriques du Doryphore de Polyclète pour figurer un souverain intemporel exempte de vieillissement.\n\nLa cuirasse sculptée en haut-relief constitue un document de propagande politique et militaire majeur du siècle d'Auguste. La scène centrale illustre un roi parthe restituant les insignes militaires et les aigles romaines pillées aux armées de Crassus lors de la défaite de Carrhes, un exploit diplomatique présenté ici sous la protection des divinités du ciel (Caelus), de la terre (Tellus) et des dieux solaires Apollon et Diane. Au bas de la silhouette, un petit Cupidon monté sur un dauphin rappelle la filiation mythologique de la famille Julia avec la déesse Vénus.\n\nLes analyses de laboratoire menées sur le marbre ont mis en évidence la présence de pigments colorés incrustés dans les reliefs de la pierre, confirmant que la statue originale était entièrement peinte de teintes vives. La veste d'Auguste était teintée de rouge pourpre royal, sa cuirasse affichait des touches d'or et de bleu, conférant au monument un aspect coloré qui s'écarte du mythe de la blancheur du marbre antique."
+  },
+  {
+    id: "fresques-villa-mysteres",
+    title: "Fresques de la villa des Mystères",
+    artist: "Inconnu",
+    date: -60,
+    movement: "roman",
+    location: "Pompéi (Italie)",
+    image: "/artworks/roman/fresques-villa-mysteres.jpg",
+    description: "Située à l'extérieur des remparts de Pompéi, la Villa des Mystères abrite, au sein de son grand triclinium de réception, le plus important ensemble de peintures murales du deuxième style pompéien qui nous soit parvenu. La fresque déploie une mégalographie, une scène narrative continue à figures de grandeur nature (environ vingt-neuf personnages), qui s'organise autour d'un grand fond rouge vif saturé, resté célèbre dans l'histoire de l'art sous le nom de « rouge pompéien ».\n\nLa frise picturale illustre les différentes étapes d'un rite d'initiation secret réservé aux femmes, lié au culte mystique de Dionysos (Bacchus), une religion d'importation grecque persécutée par les décrets du Sénat romain. On y distingue une jeune mariée ou initiée subissant une flagellation rituelle sur les genoux d'une divinité ailée, une bacchante dansant nue au milieu de satyres jouant de la flûte, et le dieu Dionysos représenté ivre et alanguie sur les genoux d'Ariane.\n\nLes peintres utilisaient une technique d'encaustique et de lissage au savon de Carthage pour donner à la surface peinte un aspect lustré et brillant qui résistait à l'humidité des murs de maçonnerie. Le site fut enseveli le 24 août 79 de notre ère sous les cendres Differential du volcan Vésuve, ce qui permit de figer les couleurs et les expressions psychologiques des initiées à l'abri de l'air et de la lumière solaire durant dix-huit siècles."
+  },
+  {
+    id: "statue-marc-aurele",
+    title: "Statue équestre de Marc Aurèle",
+    artist: "Inconnu",
+    date: 176,
+    movement: "roman",
+    location: "Musées du Capitole (Rome, Italie)",
+    image: "/artworks/roman/statue-marc-aurele.jpg",
+    description: "Érigée originellement sur le forum romain ou à proximité du palais du Latran, cette statue équestre monumentale en bronze doré représente l'empereur philosophe Marc Aurèle dirigeant l'Empire au IIe siècle de notre ère. Le souverain est représenté vêtu de la simple tunique patricienne sans armure lourde, étendant son bras droit vers l'avant dans un geste officiel de clémence (« clementia ») destiné à pacifier les tribus germaniques soumises.\n\nIl s'agit de l'unique statue équestre en bronze de grande dimension d'un empereur païen à avoir survécu de manière miraculeuse aux fontes massives du Moyen Âge, période au cours de laquelle l'Église catholique recyclait systématiquement le métal précieux des idoles antiques pour fabriquer des armes ou des cloches d'églises. Le monument fut préservé en raison d'une erreur d'interprétation des clercs médiévaux, qui confondaient les traits de Marc Aurèle avec ceux de l'empereur Constantin Ier, le premier souverain romain converti au christianisme.\n\nEn 1538, le pape Paul III confia le transfert de la statue équestre vers la place du Capitole au sculpteur Michel-Ange, qui dessina le célèbre socle ovale de marbre et le pavement géométrique de la place pour implanter le monument au centre de l'espace urbain. La statue originale en bronze, endommagée par la pollution urbaine moderne et les infiltrations de saltique, fut transférée au sous-sol du Palais des Conservateurs en 1981 à la suite d'une restauration, remplacée sur la place par une réplique conforme."
+  },
+  {
+    id: "colosse-constantin",
+    title: "Colosse de Constantin",
+    artist: "Inconnu",
+    date: 315,
+    movement: "roman",
+    location: "Palais des Conservateurs, Musées du Capitole (Rome, Italie)",
+    image: "/artworks/roman/colosse-constantin.jpg",
+    description: "Exhumés en 1486 dans les ruines de la basilique de Maxence et Constantin sur le forum romain, ces fragments monumentaux en marbre de Carrare appartenaient à une statue acrolithe géante de l'empereur Constantin Ier, haute à l'origine de plus de douze mètres. La structure était composite : la tête, les bras et les jambes étaient sculptés dans le marbre blanc précieux, tandis que le torse masqué était constitué d'une armature de bois recouverte de plaques de bronze doré imitant le drapé impérial.\n\nL'œuvre marque la rupture stylistique définitive du Bas-Empire romain avec l'esthétique classique de trois-quarts. Le portrait de Constantin adopte un style frontal rigide, caractérisé par une mâchoire carrée et des yeux disproportionnés exorbités vers le ciel, qui n'expriment plus les émotions psychologiques humaines du modèle mais traduisent sa fonction mystique de souverain de droit divin en contact direct avec l'au-delà.\n\nParmi les fragments exposés dans la cour du palais figure le pied droit monumental long de deux mètres et l'index de la main levée dirigé vers le haut. Au début des années 2020, une équipe de scientifiques internationaux réalisa une reconstruction numérique en trois dimensions complète du colosse à partir des reliefs des pièces de marbre, permettant d'ériger une réplique conforme grandeur nature de la statue trônant au sein des jardins de la Villa Caffarelli."
+  },
+  {
+    id: "ara-pacis",
+    title: "Ara Pacis",
+    artist: "Inconnu",
+    date: -9,
+    movement: "roman",
+    location: "Musée de l'Ara Pacis (Rome, Italie)",
+    image: "/artworks/roman/ara-pacis.jpg",
+    description: "Consacré par le Sénat romain en l'an 9 avant notre ère pour célébrer le retour triomphal de l'empereur Auguste après ses campagnes de pacification en Gaule et en Espagne, l'Autel de la Paix (« Ara Pacis Augustae ») constitue le monument de référence du sillage officiel auguste. La structure se compose d'un autel de marbre de Carrare enserré par une enceinte rectangulaire entièrement sculptée de reliefs de premier ordre.\n\nLes frises extérieures déploient deux programmes iconographiques superposés : le registre inférieur accueille une profusion de rinceaux d'acanthe géométriques où se dissimulent de petits animaux (grenouilles, lézards, cygnes), symboles de la renaissance de la nature sous l'effet de la paix, tandis que le registre supérieur illustre la procession solennelle de dédicace de l'autel. On y reconnaît le profil d'Auguste, de son ministre Agrippa et des membres de la famille impériale saisis de profil selon une influence inspirée des marbres du Parthénon grec.\n\nLes fragments de l'autel furent retrouvés enfouis sous les fondations du palais Peretti au XVIe siècle, bloqués sous la nappe phréatique urbaine. L'exhumation scientifique complète ne fut organisée qu'en 1938 sous l'impulsion du dictateur fasciste Benito Mussolini, qui ordonna l'utilisation d'une technologie d'ingénierie révolutionnaire consistant à congeler le sous-sol aqueux à l'aide de tubes de carbone liquide pour pouvoir extraire les dalles de marbre sans effondrer les bâtiments modernes, réinstallant le monument au sein d'un pavillon au bord du Tibre."
+  },
+  {
+    id: "colonne-trajane",
+    title: "Colonne Trajane",
+    artist: "Attribué à Apollodore de Damas",
+    date: 113,
+    movement: "roman",
+    location: "Forum de Trajan (Rome, Italie)",
+    image: "/artworks/roman/colonne-trajane.jpg",
+    description: "Érigée au centre du forum de Trajan à Rome sous la direction de l'architecte Apollodore de Damas, cette colonne triomphale monumentale de trente mètres de haut célèbre les victoires militaires de l'empereur Trajan contre les tribus daces (dans la Roumanie actuelle) au cours de deux campagnes sanglantes. Le monument fait également office de tombeau royal, la base de marbre abritant une cellule close destinée à conserver l'urne d'or contenant les cendres du souverain.\n\nLe fût de la colonne est entouré par une frise continue en bas-relief hélicoïdal longue de deux cents mètres, qui s'enroule à vingt-trois reprises autour du cylindre de pierre calcaire, décrivant avec une précision de reportage militaire plus de deux mille cinq cents personnages miniatures. Les reliefs détaillent les manœuvres logistiques des légions romaines : la construction de ponts flottants sur le Danube, l'érection de forts de maçonnerie, les tactiques de combat en « tortue » et les harangues de l'empereur, offrant une source documentaire irremplaçable sur les structures de l'armée impériale.\n\nPour assurer la visibilité des reliefs depuis le sol, les sculpteurs ont utilisé une perspective graduée, la hauteur de la frise s'élargissant du bas vers le haut (passant de quatre-vingt-dix centimètres à un mètre vingt) pour compenser l'effet d'éloignement de l'œil de l'observateur. La statue en bronze de Trajan qui surmontait le monument au sommet fut enlevée au cours du Moyen Âge, remplacée au XVIe siècle par une effigie en bronze de saint Pierre ordonnée par le pape Sixte V."
+  },
+  {
+    id: "mosaique-alexandre",
+    title: "Mosaïque d'Alexandre",
+    artist: "Inconnu (D'après Philoxénos d'Érétrie)",
+    date: -100,
+    movement: "roman",
+    location: "Musée archéologique national de Naples (Italie)",
+    image: "/artworks/roman/mosaique-alexandre.jpg",
+    description: "Exhumée en 1831 lors des chantiers de dégagement de la « Maison du Faune » à Pompéi, cette mosaïque de sol géante mesure plus de cinq mètres de long sur deux mètres de large, s'imposant comme le chef-d'œuvre absolu de l'art du pavement romain (« opus vermiculatum »). L'œuvre illustre la bataille d'Issos, mettant en scène le face-à-face graphique tragique entre le jeune conquérant macédonien Alexandre le Grand chargeant à cheval sans casque et le roi de Perse Darius III, dont l'expression de panique se lit de profil du haut de son char de guerre.\n\nLes artisans ont assemblé plus de quatre millions de minuscules tesselles de marbre et de argile colorée fines d'un fragment de millimètre pour composer la scène. L'œuvre reproduit fidèlement, par le biais d'un dispositif de quatre couleurs fondamentales (noir, blanc, jaune et rouge), une grande peinture grecque perdue du IVe siècle avant notre ère réalisée par Philoxénos d'Érétrie pour le compte du roi Cassandre, illustrant le transfert des modèles esthétiques méditerranéens vers les salons de la bourgeoisie campanienne.\n\nLe génie de l'œuvre réside dans la gestion dramatique des raccourcis et des reflets de lumière, visibles dans le relief du bouclier posé au sol au centre, qui réfléchit le visage terrifié d'un soldat perse mourant piétiné par les chevaux. La pièce fut transférée de Pompéi au musée de Naples au XIXe siècle pour la soustraire aux intempéries, sa structure matérielle lourde exigeant un cadre de fer de soutien pour éviter les fissures du mortier médiéval."
+  },
+  {
+    id: "arc-constantin",
+    title: "Arc de Constantin",
+    artist: "Inconnu",
+    date: 315,
+    movement: "roman",
+    location: "Rome (Italie)",
+    image: "/artworks/roman/arc-constantin.jpg",
+    description: "Érigé à proximité du Colisée pour commémorer la victoire de l'empereur Constantin Ier sur son rival Maxence lors de la bataille du pont Milvius en 312, cet arc de triomphe monumental à trois baies est le plus grand monument de ce type préservé à Rome. L'œuvre matérialise la technique de la réutilisation de matériaux anciens (« spolia ») au sein de l'espace monumental du Bas-Empire.\n\nLes architectes ont combiné des maçonneries contemporaines du IVe siècle avec des reliefs sculptés pillés dans les monuments officiels des grands empereurs du IIe siècle (Hadrien, Trajan et Marc Aurèle). Ainsi, les tondi circulaires illustrent les chasses d'Hadrien, et les grands panneaux du attique dépeignent les vertus militaires de Marc Aurèle, les traits des visages des anciens souverains ayant été retaillés au burin pour adopter le profil de Constantin, s'accordant avec une filiation héroïque imaginaire.\n\nCe choix d'assemblage hétérogène fut longtemps interprété par les historiens de l'art du XIXe siècle comme la preuve d'un déclin esthétique et d'une pauvreté technique des ateliers de sculpture sous Constantin, incapables de réaliser des reliefs de qualité classique. Les recherches contemporaines y voient plutôt un geste politique délibéré et poignant, visant à inscrire la légitimité du premier empereur chrétien dans le sillage de l'Âge d'or des Antonins."
+  },
+  {
+    id: "brutus-capitolin",
+    title: "Brutus capitolin",
+    artist: "Inconnu",
+    date: -300,
+    movement: "roman",
+    location: "Musées du Capitole (Rome, Italie)",
+    image: "/artworks/roman/brutus-capitolin.jpg",
+    description: "Offert à la ville de Rome au XVIe siècle par le cardinal Rodolfo Pio da Carpi, ce buste en bronze de l'époque républicaine est l'une des rares pièces originales de la grande statuaire métallique romaine antique préservées des fontes médiévales. L'œuvre fut traditionnellement identifiée par les humanistes de la Renaissance comme le portrait de Lucius Junius Brutus, le fondateur mythique de la République romaine qui renversa le roi Tarquin le Superbe en 509 avant notre ère.\n\nL'œuvre incarne les codes esthétiques du « réalisme romain » républicain, caractérisé par un refus complet de l'idéalisation grecque au profit d'un naturalisme sévère et moralisateur. Les traits du visage déploient des rides profondes sur le front, des sourcils froncés et des lèvres pincées fixes qui traduisent la « gravitas » et la « virtus », les vertus civiques d'austérité et de détermination exigées des magistrats de la cité. Les yeux conservent des incrustations d'ivoire peint et de pâte de verre noire.\n\nLe buste en bronze fut confisqué par les armées de la République française en 1797 lors de la signature du traité de Tolentino et transféré à Paris en triomphe, défilant dans les rues lors de la fête de la Liberté avant d'être exposé au musée du Louvre. L'image de Brutus devint l'icône de référence de la propagande jacobine des révolutionnaires français, qui vénéraient en ce portrait le tyranicide suprême, avant que la pièce ne soit restituée aux Musées du Capitole en 1815."
+  },
+  {
+    id: "gemma-augustea",
+    title: "Gemma Augustea",
+    artist: "Attribué à Dioscouridès",
+    date: 12,
+    movement: "roman",
+    location: "Kunsthistorisches Museum (Vienne, Autriche)",
+    image: "/artworks/roman/gemma-augustea.jpg",
+    description: "Ce camée d'apparat en onyx à deux couches (une couche blanche translucide supérieure se détachant sur un fond sombre) mesure près de vingt-trois centimètres de large, s'imposant comme l'un des sommets de la glyptique antique attribué à Dioscouridès, le graveur de gemmes favori de la famille impériale.\n\nLa composition est divisée en deux registres horizontaux illustrant la théologie politique du principat auguste. Le registre supérieur dépeint l'empereur Auguste assis en majesté sous les traits de Jupiter, surmonté du signe du Capricorne (son astre de naissance), recevant la couronne civique des mains de l'allégorie de l'Oekoumène (le monde habité) tandis que son successeur Tibère descend d'un char de guerre. Le registre inférieur montre des soldats romains brutaux érigeant un trophée militaire et traînant des prisonniers barbares de profil dans la boue.\n\nL'objet servait de bar d'apparat intime au sein de la cour impériale, circulant exclusivement parmi les membres de la dynastie julio-claudienne pour légitimer la transmission héréditaire du pouvoir. Le camée fut intégré au trésor des rois de France chrétiens au Moyen Âge avant d'être pillé lors des guerres de religion au XVIe siècle. Racheté par l'empereur Rodolphe II de Habsbourg pour sa collection de curiosités à Prague, l'objet rejoignit de manière définitive les galeries du Kunsthistorisches Museum de Vienne."
+  },
+  {
+    id: "grand-camee",
+    title: "Grand Camée de France",
+    artist: "Inconnu",
+    date: 23,
+    movement: "roman",
+    location: "Bibliothèque nationale de France (Paris)",
+    image: "/artworks/roman/grand-camee.jpg",
+    description: "Conservé au Cabinet des Médailles de la Bibliothèque nationale de France, ce morceau de sardonyx à cinq couches superposées est le plus grand camée antique préservé de l'Antiquité romaine, mesurant plus de trente centimètres de haut. L'œuvre déploie une composition complexe divisée en trois registres superposés, rassemblant vingt-quatre figures gravées pour asseoir la légitimité politique de la dynastie des Julio-Claudiens sous le règne de Tibère.\n\nLe registre central montre l'empereur Tibère assis sur un trône de cour aux côtés de sa mère Livie, donnant ses directives militaires au jeune prince Germanicus revêtu de son armure. Le registre supérieur, le monde céleste, figure les membres décédés et divinisés de la famille princière, notamment l'empereur Auguste survolant la scène sur le dos d'un aigle solaire divin, qui veille sur sa lignée. Le registre inférieur montre des captifs germains et parthes affaissés en posture de soumission civile.\n\nL'objet fit partie du trésor de la Sainte-Chapelle de Paris après avoir été offert par l'empereur byzantin Baudouin II au roi saint Louis au XIIIe siècle. Les clercs du Moyen Âge, incapables de décoder l'iconographie romaine, avaient réinterprété de manière mystique la scène de gravure comme une illustration du triomphe historique de la sainte famille de Joseph en Égypte, protégeant ainsi ce monument païen des destructions religieuses."
+  },
+  {
+    id: "quatre-tetrarques",
+    title: "Statue des quatre tétrarques",
+    artist: "Inconnu",
+    date: 300,
+    movement: "roman",
+    location: "Basilique Saint-Marc (Venise, Italie)",
+    image: "/artworks/roman/quatre-tetrarques.jpg",
+    description: "Peint et sculpté au sein d'un unique bloc de porphyre rouge (une roche magmatique d'une dureté extrême extraite exclusivement des carrières impériales du Mons Porphyrites en Égypte), ce groupe sculptural illustre la réforme politique de la Tétrarchie mise au point par l'empereur Dioclétien pour stabiliser l'Empire romain déstabilisé par les crises du IIIe siècle. L'œuvre montre les quatre co-empereurs (deux Augustes et deux Césars) associés par couples de face, s'embrassant par l'épaule et tenant le pommeau de leurs épées en signe d'unité politique indissociable.\n\nLe style de la sculpture marque le rejet volontaire du naturalisme classique au profit d'un anti-individualisme abstrait. Les quatre visages affichent des traits de visage identiques et figés, dépourvus d'expressions personnelles, les couronnes ceintes de perles fines et les armures de cuir étant reproduites de manière géométrique uniforme. Cette absence de portrait visait à signifier que le pouvoir impérial n'était plus lié à l'identité physique d'un homme, mais résidait dans la fonction souveraine collective indivisible.\n\nLe monument décorait initialement le Philadelphion, une place publique monumentale de Constantinople. Lors du sac de la capitale byzantine par la quatrième croisade en 1204, les marins vénitiens coupèrent le groupe sculpté de sa structure d'origine pour le transporter par navire jusqu'à Venise, l'encastrant sur l'angle de la façade sud de la basilique Saint-Marc. Fait marquant de l'histoire archéologique récente : le fragment manquant du pied droit de l'un des tétrarques, resté au sol lors du pillage médiéval, fut retrouvé intact par des chercheurs lors de fouilles menées à Istanbul en 1965, confirmant de manière définitive l'origine topographique de la pierre."
+  }
+];
