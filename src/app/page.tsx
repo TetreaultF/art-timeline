@@ -11,9 +11,8 @@ export default function Home() {
         </h1>
 
         <p style={{ fontSize: 18, color: "#bbb", lineHeight: 1.5 }}>
-          Explore les mouvements artistiques de 40 000 av. J.-C. à aujourd'hui.
-          Navigue horizontalement dans le temps, découvre les périodes et clique
-          sur chaque mouvement pour apprendre davantage sur celui-ci et ses œuvres phares.
+          Explore les mouvements artistiques de la Préhistoire à aujourd'hui.
+          Navigue dans le temps et clique sur chaque mouvement pour apprendre davantage sur celui-ci et ses œuvres principales.
         </p>
       </section>
 
