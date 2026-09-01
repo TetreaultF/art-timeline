@@ -84,7 +84,7 @@ export default async function MovementPage({
             whiteSpace: "pre-line",
           }}
         >
-          {movement.description}
+          {movement.fullDescription}
         </div>
 
         {/* ARTWORK GRID */}
