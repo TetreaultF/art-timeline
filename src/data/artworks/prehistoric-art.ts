@@ -128,7 +128,7 @@ export const prehistoricArt: Artwork[] = [
     "date": -2400,
     movement: "prehistoric-art",
     location: "Wiltshire (Angleterre)",
-    image: "/artworks/prehistoric-art/stonehenge.JPG",
+    image: "/artworks/prehistoric-art/stonehenge.jpg",
     description: "Érigé en plusieurs phases s'étalant sur plus d'un millénaire, Stonehenge est le monument mégalithique le plus célèbre et architecturalement sophistiqué de la planète, marquant l'apogée des cultures du Néolithique et de l'Âge du Bronze en Europe du Nord.\n\nLe site est composé d'un agencement circulaire d'immenses monolithes de grès (appelés sarsens) surmontés de linteaux horizontaux formant des trilithes, entourant un anneau intérieur de pierres plus petites appelées pierres bleues. L'ensemble est entouré d'un réseau complexe de fossés, de tumulus et d'une avenue processionnelle.\n\nLa prouesse logistique et d'ingénierie est monumentale : les pierres bleues (pesant jusqu'à 4 tonnes) ont été transportées depuis les collines de Preseli au Pays de Galles, situées à plus de 200 kilomètres du site. Les grands sarsens, pesant jusqu'à 30 tonnes, ont été taillés avec des assemblages à mortaise et tenon (comme en menuiserie) pour fixer solidement les linteaux au sommet des piliers.\n\nL'alignement astronomique de Stonehenge est parfait : l'axe principal du monument est rigoureusement orienté vers le lever du soleil lors du solstice d'été et son coucher lors du solstice d'hiver. Un 'fun fact' acoustique récent a révélé que la disposition des pierres créait une chambre de résonance amplifiant les voix et les sons produits à l'intérieur du cercle tout en les isolant du monde extérieur, renforçant son rôle de temple rituel exclusif."
   },
   {
