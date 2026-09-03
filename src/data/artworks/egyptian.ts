@@ -28,7 +28,7 @@ export const egyptianArtworks: Artwork[] = [
     date: -2500,
     movement: "egyptian",
     location: "Gizeh (Égypte)",
-    image: "/artworks/egyptian/sphinx-gizeh.jpg",
+    image: "/artworks/egyptian/sphinx-gizeh.JPG",
     description: "Taillé directement dans un affleurement de calcaire de la plaine de Gizeh, le Sphinx associe une morphologie de lion couché au visage du pharaon Khéphren (ou de son père Khéops), matérialisant ainsi la fusion du pouvoir royal et de la force animale.\n\nLe monument fait corps avec le complexe funéraire environnant, agissant comme le gardien symbolique des nécropoles de la IVe dynastie. Le traitement du visage porte les attributs caractéristiques de la royauté égyptienne, notamment le némès, bien que la barbe postiche et l'uraeus (le cobra frontal) aient été brisés au cours des siècles.\n\nLa structure a souffert de l'érosion différentielle des couches géologiques du calcaire, les sections plus tendres du torse s'étant dégradées plus rapidement que la tête. Des traces de pigments retrouvées sur le némès et le visage indiquent que la sculpture était initialement peinte de couleurs vives, principalement de rouge ocre.\n\nAu Nouvel Empire, le site fut réinterprété par le souverain Thoutmôsis IV comme une incarnation du dieu solaire Harmakhis. Ce dernier fit ériger entre les pattes de la créature la « Stèle du Songe », un texte documentant la promesse divine de son accession au trône s'il dégageait le corps du monument, alors enseveli par les sables du désert."
   },
   {
