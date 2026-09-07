@@ -7,7 +7,7 @@ export const contemporaryArtArtworks: Artwork[] = [
     artist: "Louise Bourgeois",
     date: 1999,
     movement: "contemporary-art",
-    location: "Musée Guggenheim (Bilbao, Espagne)",
+    location: "Plusieurs exemplaires",
     image: "/artworks/contemporary-art/maman.jpg",
     description: "Cette sculpture monumentale en bronze, acier inoxydable et marbre s'élève à plus de neuf mètres de hauteur, représentant une gigantesque araignée portant sous son abdomen une poche contenant trente-deux œufs de marbre blanc. Conçue pour l'inauguration de la Tate Modern avant d'être fondue en plusieurs exemplaires installés à travers le monde, l'œuvre saisit d'emblée le spectateur par son échelle vertigineuse et sa présence théâtrale imposante.\n\nMalgré l'aspect menaçant et arachnéen de ses pattes filiformes élancées qui créent une voûte sous laquelle le public peut déambuler, la sculpture est un hommage intime et bienveillant à la mère de l'artiste, restauratrice de tapisseries anciennes à Paris. Bourgeois convoque la figure de l'araignée non pas comme un prédateur cruel, mais comme une créatrice industrieuse, patiente, protectrice et réparatrice, capable de tisser son propre refuge à partir de son corps.\n\nL'œuvre matérialise la dualité entre la vulnérabilité extrême et la force protectrice inhérente à la maternité. En transformant un monstre issu de l'inconscient en une icône de résilience et de soin familial, l'artiste réconcilie la sculpture monumentale avec une autobiographie psychanalytique poignante, devenue l'un des piliers visuels de l'art du tournant du siècle."
   },

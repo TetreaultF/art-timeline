@@ -118,7 +118,7 @@ export const gothicArtworks: Artwork[] = [
     date: 1305,
     movement: "gothic",
     location: "Padoue (Italie)",
-    image: "/artworks/byzantine/chapelle-scrovegni.jpg",
+    image: "/artworks/gothic/chapelle-scrovegni.jpg",
     description: "Commandé par le riche usurier padouan Enrico Scrovegni pour expier les péchés de son père Reginaldo (condamné à l'enfer par le poète Dante dans sa Divine Comédie pour crime d'usure), ce cycle de fresques peintes par Giotto di Bondone représente la transition picturale définitive entre le hiératisme byzantin oriental et les débuts du naturalisme de la pré-Renaissance italienne.\n\nGiotto tapisse l'ensemble des parois de la chapelle d'un immense ciel d'azur outremer soutenu par trente-huit scènes narratives décrivant les vies de la Vierge et du Christ. Le peintre introduit de manière révolutionnaire la tridimensionnalité des corps, la gestion de la perspective spatiale et l'expression des sentiments humains, visibles dans la célèbre scène du « Déploration sur le Christ mort », où les visages des anges et des saintes femmes sont tordus par des cris de douleur réels.\n\nPour asseoir la rédemption morale de sa famille, Enrico Scrovegni se reprit lui-même en portrait directement au cœur de la grande fresque du Jugement dernier peinte au-dessus de la porte d'entrée. Il apparaît agenouillé, offrant la maquette en pierre de sa chapelle aux trois Marie, un dispositif d'ex-voto qui permit de préserver le monument des séditions politiques locales et de l'inscrire durablement dans l'histoire universelle de l'art occidental."
   },
   {

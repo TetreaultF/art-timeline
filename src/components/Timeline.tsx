@@ -20,28 +20,28 @@ function clamp(n: number, min: number, max: number) {
 }
 
 function toPercent(year: number) {
-  const earlyWeight = 0.05;   // - -3000
-  const midWeight = 0.15;     // -3000 - 1500
+  const prehistoryWeight = 0.05;   // - -3000
+  const antiquityWeight = 0.15;     // -3000 - 1500
   const modernWeight = 0.10;  // 1500 - 1880
-  const recentWeight = 0.15;  // 1880 -
+  const contemporaryWeight = 0.15;  // 1880 -
 
   if (year <= SPLIT_YEAR_1) {
     const t = (year - MIN_YEAR) / (SPLIT_YEAR_1 - MIN_YEAR);
-    return t * earlyWeight * 100;
+    return t * prehistoryWeight * 100;
   }
 
   if (year <= SPLIT_YEAR_2) {
     const t = (year - SPLIT_YEAR_1) / (SPLIT_YEAR_2 - SPLIT_YEAR_1);
     return (
-      earlyWeight * 100 +
-      t * midWeight * 100
+      prehistoryWeight * 100 +
+      t * antiquityWeight * 100
     );
   }
 
   if (year <= SPLIT_YEAR_3) {
     const t = (year - SPLIT_YEAR_2) / (SPLIT_YEAR_3 - SPLIT_YEAR_2);
     return (
-      (earlyWeight + midWeight) * 100 +
+      (prehistoryWeight + antiquityWeight) * 100 +
       t * modernWeight * 100
     );
   }
@@ -49,8 +49,8 @@ function toPercent(year: number) {
   const t = (year - SPLIT_YEAR_3) / (MAX_YEAR - SPLIT_YEAR_3);
 
   return (
-    (earlyWeight + midWeight + modernWeight) * 100 +
-    t * recentWeight * 100
+    (prehistoryWeight + antiquityWeight + modernWeight) * 100 +
+    t * contemporaryWeight * 100
   );
 }
 
@@ -76,6 +76,13 @@ export default function Timeline() {
   const [tooltip, setTooltip] = useState<any>(null);
 
   useEffect(() => {
+    movements.forEach((m) => {
+      if (m.image) {
+        const img = new Image();
+        img.src = m.image;
+      }
+    });
+
     const el = containerRef.current;
     if (!el) return;
 
@@ -283,6 +290,7 @@ export default function Timeline() {
           >
             {tooltip.image && (
               <img
+                key={tooltip.image}
                 src={tooltip.image}
                 alt={tooltip.name}
                 style={{

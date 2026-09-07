@@ -128,7 +128,7 @@ export const romanesqueArtworks: Artwork[] = [
     date: 1097,
     movement: "romanesque",
     location: "British Library (Londres, Angleterre)",
-    image: "/artworks/bible-stavelot.png",
+    image: "/artworks/romanesque/bible-stavelot.png",
     description: "Produite au sein du scriptorium monastique de l'abbaye bénédictine de Stavelot, dans la région de Liège, cette bible monumentale en deux volumes sur vélin de grand format représente le chef-d'œuvre de l'enluminure de l'école mosane. L'ouvrage fut rédigé et calligraphié par le moine Goderannus sur une période de quatre ans complets de travail ininterrompu, la décoration des lettrines historiées ayant été confiée au peintre Ernesto.\n\nL'intérêt artistique majeur réside dans la grande miniature de frontispice représentant le Christ en majesté assis sur un trône de brocart, une scène d'influence byzantine caractérisée par l'utilisation de couleurs pures juxtaposées et de fils d'or torsadés gravés dans le métal précieux. Les initiales ornées intègrent des scènes de l'Ancien Testament au milieu d'un réseau dense d'entrelacs zoomorphes d'animaux fantastiques et de monstres d'une grande finesse technique.\n\nLe manuscrit servait de livre d'apparat liturgique exposé sur le pupitre du réfectoire des moines lors des fêtes solennelles de la communauté de Stavelot. Confisqué lors des sécularisations des biens monastiques consécutives aux guerres de la Révolution française dans les Pays-Bas autrichiens, le précieux codex passa entre les mains de plusieurs collectionneurs britanniques avant d'être acquis par la British Library de Londres, s'imposant comme le document de référence pour analyser la métallurgie et la peinture de la vallée de la Meuse."
   },
   {
