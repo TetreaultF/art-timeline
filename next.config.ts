@@ -3,7 +3,6 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
     output: "export",
     basePath: "/art-timeline",
-    assetPrefix: "/art-timeline/",
     images: {
         unoptimized: true,
     },
