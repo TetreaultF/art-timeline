@@ -1,9 +1,14 @@
 import { notFound } from "next/navigation";
-import Image from "next/image";
 import Link from "next/link";
 import ArtworkViewer from "@/components/ArtworkViewer";
 
 import { artworks } from "@/data/artworks/artworks";
+
+export function generateStaticParams() {
+  return artworks.map((artwork) => ({
+    id: artwork.id,
+  }));
+}
 
 export default async function ArtworkPage({
   params,

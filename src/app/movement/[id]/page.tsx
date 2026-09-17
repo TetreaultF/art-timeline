@@ -7,6 +7,12 @@ import { artworks } from "@/data/artworks/artworks";
 import Link from "next/link";
 import ArtworkGrid from "@/components/ArtworkGrid";
 
+export function generateStaticParams() {
+  return movements.map((movement) => ({
+    id: movement.id,
+  }));
+}
+
 export default async function MovementPage({
   params,
 }: {
