@@ -1,15 +1,13 @@
-import type { Artwork } from "@/components/ArtworkGrid";
-
-export const baroqueArtworks: Artwork[] = [
+[
   {
-    id: "la-laitiere",
-    title: "La Laitière",
-    artist: "Johannes Vermeer",
-    date: 1658,
-    movement: "baroque",
-    location: "Rijksmuseum (Amsterdam, Pays-Bas)",
-    image: "/artworks/baroque/la-laitiere.jpg",
-    description: "Derrière la tranquillité de cette scène domestique se cache l'une des œuvres les plus minutieusement exécutées de Johannes Vermeer. Le tableau met en scène une humble servante entièrement absorbée par une tâche quotidienne : verser du lait dans un plat en terre cuite pour préparer un pudding de pain perdu, une recette traditionnelle destinée à recycler le pain rassis. Pour obtenir ce rendu unique des surfaces, le peintre a utilisé une technique méticuleuse appelée le « pointillé », consistant à appliquer de minuscules gouttes de peinture blanche et jaune sur le pain et les objets pour simuler la réfraction de la lumière du jour à travers la vitre.\n\nL'analyse aux rayons X a révélé que Vermeer avait initialement peint deux éléments importants à l'arrière-plan qu'il a finalement décidé de recouvrir pour épurer sa composition : une grande carte du monde accrochée au mur de briques et un grand panier à linge au sol. À la place, il a choisi de laisser le mur nu, se contenant de peindre les moindres fissures du plâtre, les clous rouillés enfoncés dans la paroi et un carreau de faïence de Delft représentant Cupidon tout au bas de la plinthe.\n\nCe chef-d'œuvre a fait l'objet d'une transaction financière historique lors de son acquisition par l'État néerlandais en 1908 pour le Rijksmuseum. La vente de la collection Six, dont faisait partie la toile, provoqua un débat national intense au Parlement. Pour éviter que le tableau ne soit acheté par de riches collectionneurs américains comme J.P. Morgan, l'assemblée nationale vota une subvention publique exceptionnelle pour bloquer l'exportation de la pièce, garantissant ainsi son maintien sur le territoire des Pays-Bas."
+    "id": "la-laitiere",
+    "title": "La Laitière",
+    "artist": "Johannes Vermeer",
+    "date": 1658,
+    "movement": "baroque",
+    "location": "Rijksmuseum (Amsterdam, Pays-Bas)",
+    "image": "/artworks/baroque/la-laitiere.jpg",
+    "description": "Derrière la tranquillité de cette scène domestique se cache l'une des œuvres les plus minutieusement exécutées de Johannes Vermeer. Le tableau met en scène une humble servante entièrement absorbée par une tâche quotidienne : verser du lait dans un plat en terre cuite pour préparer un pudding de pain perdu, une recette traditionnelle destinée à recycler le pain rassis. Pour obtenir ce rendu unique des surfaces, le peintre a utilisé une technique méticuleuse appelée le « pointillé », consistant à appliquer de minuscules gouttes de peinture blanche et jaune sur le pain et les objets pour simuler la réfraction de la lumière du jour à travers la vitre.\n\nL'analyse aux rayons X a révélé que Vermeer avait initialement peint deux éléments importants à l'arrière-plan qu'il a finalement décidé de recouvrir pour épurer sa composition : une grande carte du monde accrochée au mur de briques et un grand panier à linge au sol. À la place, il a choisi de laisser le mur nu, se contenant de peindre les moindres fissures du plâtre, les clous rouillés enfoncés dans la paroi et un carreau de faïence de Delft représentant Cupidon tout au bas de la plinthe.\n\nCe chef-d'œuvre a fait l'objet d'une transaction financière historique lors de son acquisition par l'État néerlandais en 1908 pour le Rijksmuseum. La vente de la collection Six, dont faisait partie la toile, provoqua un débat national intense au Parlement. Pour éviter que le tableau ne soit acheté par de riches collectionneurs américains comme J.P. Morgan, l'assemblée nationale vota une subvention publique exceptionnelle pour bloquer l'exportation de la pièce, garantissant ainsi son maintien sur le territoire des Pays-Bas."
   },
   {
     id: "extase-ste-therese",
@@ -381,4 +379,4 @@ export const baroqueArtworks: Artwork[] = [
     image: "/artworks/baroque/autoportrait-beret-rembrandt.jpg",
     description: "Réalisé à l'âge de cinquante-trois ans, cet autoportrait de Rembrandt constitue l'un des morceaux d'introspection les plus poignants de l'histoire de la peinture occidentale. L'artiste se peint au lendemain d'une faillite financière dévastatrice qui l'a contraint à vendre sa grande maison d'Amsterdam, ses collections d'œuvres d'art antiques et ses presses de gravure pour épurer ses dettes, le reléguant dans un quartier populaire périphérique.\n\nRembrandt refuse toute idéalisation de ses traits, utilisant une touche épaisse et tourmentée pour sculpter les rides de son front, le relâchement de ses joues et la fatigue de ses yeux qui fixent le spectateur avec une fierté intacte. Ses mains sont simplement ébauchées à l'aide de grands coups de brosse rapides, attirant toute l'attention et la lumière sur la vérité psychologique du visage.\n\nLa toile témoigne du triomphe de sa technique tardive, basée sur l'utilisation du couteau à palette et des doigts pour étaler les pigments d'ocre et de blanc de plomb directement dans la matière fraîche. Ce style rugueux et expressif, incompris par ses contemporains qui le jugeaient inachevé, fait de cet autoportrait l'une des pièces majeures de la collection nationale américaine à Washington."
   }
-];
+]
