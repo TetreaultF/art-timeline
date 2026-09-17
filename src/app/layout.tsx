@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Histoire de l'art",
   description: "Exploration de l'art au fil du temps",
+  icons : { icon: "/art-timeline/favicon.png", },
 };
 
 export default function RootLayout({
