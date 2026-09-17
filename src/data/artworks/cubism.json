@@ -1,0 +1,112 @@
+[
+  {
+    "id": "femme-qui-pleure",
+    "title": "La Femme qui pleure",
+    "artist": "Pablo Picasso",
+    "date": 1937,
+    "movement": "cubism",
+    "location": "Tate Modern (Londres, Angleterre)",
+    "image": "/artworks/cubism/femme-qui-pleure.jpg",
+    "description": "Peinte à l'automne 1937, cette toile s'inscrira comme le point culminant et le prolongement thématique immédiat des recherches de Picasso pour son chef-d'œuvre monumental « Guernica ». L'œuvre met en scène Dora Maar, photographe surréaliste et compagne de l'artiste à cette période, dont les traits du visage sont brisés en facettes anguleuses et nettes, subissant une décomposition géométrique violente pour incarner la douleur humaine universelle provoquée par la guerre civile espagnole.\n\nPicasso refuse d'utiliser les codes traditionnels de la pitié artistique pour privilégier un langage chromatique agressif, juxtaposant des teintes criardes de vert acide, de jaune strident, de bleu outremer et de rouge pour souligner les crispations de la chair. La jeune femme mord frénétiquement un mouchoir de toile blanc froissé qu'elle tient entre ses mains, ses yeux affectant la forme de l'orifice de larmes brisées ou de pointes de lances métalliques.\n\nDora Maar confia plus tard dans ses mémoires son amertume quant à cette série de portraits, affirmant que Picasso l'avait enfermée dans une iconographie obsessionnelle de victime en larmes pour satisfaire sa propre vision dramatique de sa personnalité, alors qu'elle était avant tout une intellectuelle et une artiste engagée au sein de l'avant-garde parisienne. Le tableau fut acquis par le collectionneur britannique Roland Penrose, avant de rejoindre les collections permanentes de la Tate Modern après avoir survécu à un vol mystérieux à la fin des années 1960."
+  },
+  {
+    "id": "portrait-picasso-juan-gris",
+    "title": "Portrait de Pablo Picasso",
+    "artist": "Juan Gris",
+    "date": 1912,
+    "movement": "cubism",
+    "location": "Art Institute of Chicago (États-Unis)",
+    "image": "/artworks/cubism/portrait-picasso-juan-gris.jpg",
+    "description": "Présenté au Salon des Indépendants de 1912, ce portrait constitue l'un des premiers hommages picturaux d'envergure rendu à Pablo Picasso par son jeune compatriote madrilène Juan Gris, alors établi comme lui au mythique atelier du Bateau-Lavoir à Montmartre. L'œuvre s'impose comme un jalon majeur du cubisme analytique de la première période, caractérisé par une décomposition de la figure en structures cristallines régulières.\n\nGris organise la silhouette de son aîné selon une diagonale descendante rigoureuse, fractionnant le visage, le veston et la palette du peintre en une multitude de plans géométriques interconnectés. Contrairement aux compositions presque monochromes et illisibles réalisées par Picasso et Georges Braque à la même époque, Gris maintient une lisibilité fine des traits du modèle, utilisant une palette subtile de tons froids de gris, de bleus et de bruns métalliques.\n\nLe peintre a disposé le lettrage de sa signature de manière discrète au bas de la toile, affirmant son rôle de théoricien du mouvement. Le tableau fit l'objet d'un intérêt intellectuel immédiat auprès du poète Guillaume Apollinaire, qui salua la rigueur mathématique du jeune artiste, avant que la toile ne traverse l'Atlantique au cours des décennies pour intégrer les collections permanentes de l'Art Institute of Chicago."
+  },
+  {
+    "id": "guernica",
+    "title": "Guernica",
+    "artist": "Pablo Picasso",
+    "date": 1937,
+    "movement": "cubism",
+    "location": "Musée national centre d'art Reina Sofía (Madrid, Espagne)",
+    "image": "/artworks/cubism/guernica.jpg",
+    "description": "Commandée par le gouvernement de la Seconde République espagnole pour orner le pavillon national lors de l'Exposition internationale de Paris en 1937, cette fresque monumentale de près de huit mètres de large fut inspirée par le bombardement tragique de la ville basque de Guernica le 26 avril 1937 par la légion Condor nazie. Picasso, bouleversé par les photographies de la catastrophe publiées dans le journal « Ce Soir », abandonna ses projets initiaux pour réaliser cette œuvre de dénonciation politique en seulement quelques semaines.\n\nL'artiste fit le choix radical de bannir la couleur au profit d'une palette exclusive de noir, de blanc et de nuances de gris, un parti pris graphique qui évoque le caractère dramatique des images de presse d'époque et accentue le dénuement de la scène. La composition entremêle des silhouettes d'humains et d'animaux saisis en plein hurlement : une mère pleurant son enfant mort sous le regard impassible d'un taureau héraldique, un guerrier gisant au sol l'épée brisée au milieu des flammes, et un cheval blessé à la langue acérée comme une pointe de flèche.\n\nLors de l'occupation allemande de Paris au cours de la Seconde Guerre mondiale, des officiers de la Gestapo perquisitionnèrent l'atelier de Picasso de la rue des Grands-Augustins. Remarquant une reproduction photographique de « Guernica » posée près d'un chevalet, un agent allemand demanda au peintre avec dédain : « C'est vous qui avez fait cela ? », ce à quoi Picasso répliqua par sa célèbre formule cinglante : « Non, c'est vous ! ». Conformément aux dernières volontés de l'artiste, qui refusait que la toile ne s'installe en Espagne avant le rétablissement complet des libertés démocratiques, le tableau fut conservé de longues décennies au MoMA de New York, avant d'être transféré à Madrid en 1981 après la chute du régime franquiste."
+  },
+  {
+    "id": "violon-palette-braque",
+    "title": "Violon et palette",
+    "artist": "Georges Braque",
+    "date": 1909,
+    "movement": "cubism",
+    "location": "Solomon R. Guggenheim Museum (New York, États-Unis)",
+    "image": "/artworks/cubism/violon-palette-braque.jpg",
+    "description": "Cette composition de Georges Braque s'inscrit comme l'une des œuvres fondatrices de la transition vers le cubisme analytique, issue d'une période de collaboration si intense entre l'artiste français et Pablo Picasso que les deux peintres décrivaient eux-mêmes leur relation comme celle de deux cordées d'alpinistes gravissant une montagne sacrée. La toile fragmente les formes familières d'un violon, de partitions de musique et d'une palette de peintre en une série de plans verticaux imbriqués qui détruisent l'espace tridimensionnel traditionnel.\n\nBraque introduit au sommet de la toile une innovation graphique remarquable qui marquera l'histoire du mouvement : il peint un véritable clou réaliste en trompe-l'œil, qui projette une ombre portée nette sur la paroi supérieure du mur. Ce détail figuratif classique fonctionne comme un repère visuel destiné à souligner, par contraste, la déconstruction abstraite des objets musicaux situés en dessous, invitant le spectateur à interroger la nature même de l'illusion picturale.\n\nL'œuvre utilise une palette chromatique extrêmement réduite, restreinte aux tonalités sourdes d'ocre, de bruns et de verts terreux, un choix délibéré des peintres cubistes pour éviter que l'intensité des couleurs ne vienne perturber l'analyse rigoureuse des volumes géométriques dans l'espace. Le tableau fut acquis par le collectionneur allemand Wilhelm Uhde, avant d'intégrer les collections du musée Solomon R. Guggenheim à New York."
+  },
+  {
+    "id": "acrobate-boule",
+    "title": "L'Acrobate à la boule",
+    "artist": "Pablo Picasso",
+    "date": 1905,
+    "movement": "cubism",
+    "location": "Pushkin Museum (Moscou, Russie)",
+    "image": "/artworks/cubism/acrobate-boule.jpg",
+    "description": "Acquis au début du XXe siècle par le richissime collectionneur d'avant-garde russe Ivan Morozov, ce chef-d'œuvre de la période rose de Pablo Picasso marque les prémices des recherches géométriques qui mèneront à l'émergence du mouvement cubiste. La scène dépeint un groupe de saltimbanques nomades s'exerçant dans une plaine dénudée, opposant de manière radicale deux silhouettes antithétiques.\n\nAu premier plan, un athlète massif, représentant la figure du hercule de foire, est assis de dos sur un cube de pierre grise d'une grande rigidité géométrique, sa stature lourde structure l'espace droit de la toile. En contrepoint, une jeune gymnaste gracile maintient son équilibre sur une sphère parfaite, adoptant une posture sinueuse et légère qui défie les lois de la pesanteur. Ce face-à-face graphique entre le cube et la sphère préfigure la réduction systématique des formes naturelles à des volumes fondamentaux.\n\nLors de la révolution bolchevique de 1917, la collection privée de Morozov fut nationalisée de force par décret léniniste, et la toile fut déclarée « bien public du peuple », avant d'être transférée au musée des Beaux-Arts Pouchkine à Moscou. L'œuvre est considérée par les historiens de l'art comme le témoignage le plus raffiné de la mélancolie des gens du voyage qui habitait l'univers artistique de Picasso avant sa rupture plastique de 1907."
+  },
+  {
+    "id": "nature-morte-chaise-cannee",
+    "title": "Nature morte à la chaise cannée",
+    "artist": "Pablo Picasso",
+    "date": 1912,
+    "movement": "cubism",
+    "location": "Musée national Picasso (Paris, France)",
+    "image": "/artworks/cubism/nature-morte-chaise-cannee.jpg",
+    "description": "Ce tableau de format ovale de Pablo Picasso représente une rupture conceptuelle majeure dans l'histoire de l'art occidental, s'imposant comme le tout premier collage de l'histoire de la peinture moderne. Lassé des limites de la déconstruction purement picturale du cubisme analytique, l'artiste décida d'insérer un fragment d'objet de la réalité industrielle directement au cœur de la toile peinte.\n\nPicasso colla sur la toile un morceau de toile cirée imprimée en usine, imitant de façon réaliste le cannage traditionnel d'une chaise bourgeoise. Autour de cet élément préfabriqué, il peignit les contours fragmentés d'un verre, d'une pipe et d'une tranche de citron, surmontés du lettrage partiel « JOU », un jeu de mots visuel évoquant à la fois le journal quotidien et l'action du jeu. Pour parfaire la structure de l'objet, il ceignit l'ensemble de la composition ovale à l'aide d'une véritable corde de chanvre marine en guise de cadre.\n\nCette intrusion d'un matériau trivial et de récupération au sein de l'espace sacré de la peinture de cour bouscula de manière définitive la définition séculaire de l'œuvre d'art, ouvrant la voie aux techniques du ready-made et de l'assemblage qui domineront tout le XXe siècle. Conservée précieusement par l'artiste dans sa collection privée tout au long de sa vie, l'œuvre intégra les collections de l'État français à sa mort à la suite de l'accord sur les dations successorales."
+  },
+  {
+    "id": "vieux-guitariste-aveugle",
+    "title": "Le Vieux Guitariste aveugle",
+    "artist": "Pablo Picasso",
+    "date": 1903,
+    "movement": "cubism",
+    "location": "Art Institute of Chicago (États-Unis)",
+    "image": "/artworks/cubism/vieux-guitariste-aveugle.jpg",
+    "description": "Réalisé à Barcelone au lendemain du suicide tragique de son ami proche Carlos Casagemas, ce tableau s'inscrit comme l'une des compositions les plus emblématiques de la période bleue de Pablo Picasso. L'œuvre dépeint un vieux musicien de rue sans ressources, aveugle et vêtu de guenilles usées, replié sur lui-même dans une posture longiligne et distordue qui met au défi les proportions anatomiques classiques.\n\nL'artiste lorrain emploie une palette chromatique presque monochrome, dominée par des tonalités d'azur sourd, de bleu nuit et de gris cadavériques, un choix qui accentue l'expression de détresse morale et de solitude sociale du modèle. Seule la grande guitare en bois brun échappe à cette tonalité froide, s'imposant comme le seul refuge spirituel du vieil homme face à la misère urbaine.\n\nLes examens radiographiques menés par les laboratoires du musée de Chicago ont mis en évidence la présence de trois silhouettes fantomatiques différentes dissimulées sous les couches de peinture bleue, notamment le visage d'une mère allaitant son enfant au milieu d'un paysage pastoral. Cette superposition matérielle prouve que le jeune Picasso, alors en situation de grande précarité financière, réutilisait fréquemment ses anciennes toiles déjà peintes pour économiser l'achat de châssis neufs."
+  },
+  {
+    "id": "maisons-estaque",
+    "title": "Maisons à l'Estaque",
+    "artist": "Georges Braque",
+    "date": 1908,
+    "movement": "cubism",
+    "location": "Musée des beaux-arts de Berne (Suisse)",
+    "image": "/artworks/cubism/maisons-estaque.jpg",
+    "description": "Peint sur les traces de Paul Cézanne dans le village côtier de l'Estaque près de Marseille, ce paysage de Georges Braque est considéré par l'historiographie officielle comme l'acte de naissance du mouvement cubiste. L'artiste français y élimine de manière systématique les règles de la perspective centrale héritées de la Renaissance, réduisant l'architecture des maisons et les formes des arbres à des volumes géométriques fondamentaux qui semblent s'avancer vers le premier plan.\n\nLorsque Braque soumit cette toile ainsi que plusieurs autres paysages de la même série au jury du Salon d'Automne de Paris en 1908, les œuvres furent rejetées de façon catégorique par les membres de l'académie. Le célèbre peintre Henri Matisse, alors membre du jury, justifia le refus des toiles en décrivant les compositions comme une suite d'assemblages bizarres de « petits cubes », une formule méprisante qui marqua les esprits de l'époque.\n\nLe critique d'art Louis Vauxcelles reprit cette expression quelques semaines plus tard dans son compte-rendu officiel des expositions pour le journal « Gil Blas », employant pour la première fois le mot « cubisme » pour qualifier le style de Braque. L'œuvre s'impose comme le jalon d'une nouvelle conception spatiale où la lumière ne sert plus à moduler les reliefs, mais fonctionne de manière arbitraire pour structurer les facettes de la pierre."
+  },
+  {
+    "id": "nu-descendant-escalier",
+    "title": "Nu descendant un escalier (N° 2)",
+    "artist": "Marcel Duchamp",
+    "date": 1912,
+    "movement": "cubism",
+    "location": "Philadelphia Museum of Art (États-Unis)",
+    "image": "/artworks/cubism/nu-descendant-escalier.jpg",
+    "description": "Cette composition de Marcel Duchamp provoqua un séisme artistique et critique majeur lors de sa présentation publique. Destinée au Salon des Indépendants de Paris en 1912, la toile fut rejetée par ses propres confrères du comité cubiste, menés par les frères Duchamp-Villon, qui exigèrent du jeune peintre qu'il modifiât le titre ou retirât sa proposition, jugeant son approche du mouvement trop littéraire et éloignée de la pureté géométrique du cubisme analytique orthodoxe.\n\nDuchamp refusa toute concession morale et décida de retirer sa toile immédiatement, l'envoyant l'année suivante à l'Armory Show de New York en 1913. L'œuvre y devint le scandale officiel de la manifestation américaine, la presse new-yorkaise qualifiant ironiquement la composition d'« explosion dans une fabrique de tuiles ». Le tableau fusionne la déconstruction des plans cubistes avec l'analyse de la vitesse propre au futurisme italien, s'inspirant des expériences chronophotographiques d'Étienne-Jules Marey pour décomposer la trajectoire mécanique d'une silhouette de dos.\n\nL'œuvre s'éloigne définitivement de la représentation de la chair humaine sensuelle pour figurer un corps-machine abstrait aux lignes de force acérées. Ce rejet de la part des cercles cubistes parisiens constitua le point de rupture intellectuel qui poussa Marcel Duchamp à abandonner définitivement la peinture traditionnelle au profit des concepts de ready-made et de l'art conceptuel, modifiant la trajectoire universelle des arts visuels."
+  },
+  {
+    "id": "demoiselles-avignon",
+    "title": "Les Demoiselles d'Avignon",
+    "artist": "Pablo Picasso",
+    "date": 1907,
+    "movement": "cubism",
+    "location": "Museum of Modern Art (New York, États-Unis)",
+    "image": "/artworks/cubism/demoiselles-avignon.jpg",
+    "description": "Initialement intitulée « Le Bordel d'Avignon », cette œuvre monumentale de Pablo Picasso est universellement reconnue comme la toile de rupture définitive qui ouvrit la voie à l'art moderne du XXe siècle. La scène représente cinq prostituées de la rue d'Avinyó à Barcelone, dont les corps dénudés subissent un traitement anguleux et acéré qui détruit de manière définitive les lois de la perspective centrale et des proportions anatomiques classiques fixées depuis la Renaissance.\n\nLa création de la toile résulte d'un choc esthétique vécu par Picasso lors de ses visites au musée d'Ethnographie du Trocadéro à Paris, où la découverte des masques africains et des sculptures ibériques de l'âge du fer lui inspira une nouvelle conception de la figure humaine. Les deux femmes situées sur la droite portent des visages transformés en masques rituels féroces, caractérisés par des nez en forme de hache et des yeux asymétriques. L'artiste intègre une nature morte au premier plan, dont les tranches de melon acérées font écho aux lignes brisées des corps.\n\nLa présentation de la toile au sein de l'atelier du Bateau-Lavoir provoqua l'effroi et l'incompréhension de ses plus proches alliés. Georges Braque déclara que contempler cette œuvre équivalait à vouloir « boire du pétrole pour s'enflammer les boyaux », tandis que le collectionneur Léo Stein la qualifia de monstruosité illisible. Conservée cachée et roulée dans l'atelier du peintre durant près de quinze ans en raison des réactions hostiles, l'œuvre fut finalement acquise par le couturier Jacques Doucet, avant d'être achetée par le Museum of Modern Art de New York en 1937."
+  },
+  {
+    "id": "portrait-dora-maar",
+    "title": "Portrait de Dora Maar",
+    "artist": "Pablo Picasso",
+    "date": 1937,
+    "movement": "cubism",
+    "location": "Musée national Picasso (Paris, France)",
+    "image": "/artworks/cubism/portrait-dora-maar.jpg",
+    "description": "Exécuté en 1937, ce portrait officiel de Dora Maar incarne la maîtrise formelle du cubisme tardif de Pablo Picasso, caractérisé par l'utilisation de perspectives multiples appliquées à la figure humaine. L'artiste lorrain combine simultanément sur un même plan un profil affiné du visage avec un traitement de face des yeux sombres, une convention graphique qui permet de restituer la structure globale du modèle en s'affranchissant des limites imposées par un point de vue photographique unique.\n\nLa jeune femme est représentée assise au sein d'un fauteuil de bois noir lourd, une posture qui contribue à enfermer sa silhouette dans un espace architectural restreint et étouffant. Picasso emploie des contrastes chromatiques vifs, opposant le bleu de la blouse et les ongles peints de rouge carmin à un arrière-plan structuré par des lignes géométriques rouges et noires qui évoquent la tension psychologique précédant le déclenchement de la Seconde Guerre mondiale.\n\nL'œuvre témoigne de la fascination esthétique et intellectuelle réciproque entre les deux artistes, Dora Maar ayant été la seule à documenter par la photographie toutes les étapes de la création de « Guernica » au sein de l'atelier des Grands-Augustins. Le tableau fut intégré aux collections nationales françaises à la suite des dations de la famille Picasso, s'imposant comme l'un des visages les plus célèbres du musée national Picasso à Paris."
+  }
+]

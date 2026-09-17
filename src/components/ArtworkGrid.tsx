@@ -78,7 +78,6 @@ export default function ArtworkGrid({
                 }}
               />
 
-              {/* OVERLAY */}
               <div
                 style={{
                   position: "absolute",

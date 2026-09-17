@@ -145,7 +145,6 @@ export default function ArtworkViewer({
           cursor: drag.current.active ? "grabbing" : "grab",
         }}
       >
-        {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           ref={imgRef}
           src={src}

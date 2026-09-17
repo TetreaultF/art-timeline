@@ -1,11 +1,11 @@
-import { egyptianArtworks } from "./egyptian";
-import { mesopotamiaArtworks } from "./mesopotamia";
-import { precolumbianArtworks } from "./precolumbian";
-import { greekArtworks } from "./greek";
-import { celticArtworks } from "./celtic";
-import { etruscanArtworks } from "./etruscan";
-import { romanArtworks } from "./roman";
-import { buddhistArtworks } from "./buddhist";
+import egyptianArtworks from "./egyptian.json";
+import mesopotamiaArtworks from "./mesopotamia.json";
+import precolumbianArtworks from "./precolumbian.json";
+import greekArtworks from "./greek.json";
+import celticArtworks from "./celtic.json";
+import etruscanArtworks from "./etruscan.json";
+import romanArtworks from "./roman.json";
+import buddhistArtworks from "./buddhist.json";
 
 export const antiquityArtworks = [
   ...egyptianArtworks,

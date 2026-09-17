@@ -1,0 +1,102 @@
+[
+  {
+    "id": "les-bergers-d-arcadie",
+    "title": "Les Bergers d'Arcadie (Et in Arcadia ego)",
+    "artist": "Nicolas Poussin",
+    "date": 1638,
+    "movement": "classicism",
+    "location": "Musée du Louvre (Paris, France)",
+    "image": "/artworks/classicism/les-bergers-d-arcadie.jpg",
+    "description": "Peint à Rome par Nicolas Poussin, ce tableau s'impose comme le manifeste du classicisme philosophique français, illustrant le concept de la pastorale antique réinterprétée sous l'angle de la « vanité ». Trois bergers et une femme noble drapée à l'antique découvrent un tombeau de pierre isolé au milieu d'une nature idéale. Le plus jeune d'entre eux déchiffre du doigt l'inscription latine gravée dans le marbre : « ET IN ARCADIA EGO » (« Même en Arcadie, j'existe »), un message par lequel la Mort rappelle aux humains que la finitude s'impose même au sein des paradis terrestres les plus parfaits.\n\nLa construction géométrique de la scène est d'une rigueur absolue. Poussin a organisé les postures des bergers de manière à former une structure pyramidale, leurs bâtons de marche traçant des lignes de force qui guident le regard de l'observateur directement vers l'inscription. L'artiste refusait les envolées baroques au profit d'un équilibre souverain où chaque geste traduit un état de réflexion intellectuelle, la figure féminine de droite personnifiant la Raison stoïcienne face à la mélancolie des bergers.\n\nL'histoire occulte de la toile alimenta de nombreuses théories du complot à travers les siècles. Le tableau fut acheté en secret par le roi Louis XIV auprès des héritiers du peintre, le souverain insistant pour que l'œuvre soit dissimulée dans ses appartements privés de Versailles à l'abri des regards de la cour. Au XXe siècle, des auteurs britanniques affirmèrent que le paysage montagneux peint par Poussin ne représentait pas l'Arcadie grecque, mais reproduisait fidèlement les contours de la colline de Rennes-le-Château dans le sud de la France, transformant le tombeau des bergers en un repère crypté menant au trésor caché des Templiers ou au secret du Saint-Graal."
+  },
+  {
+    "id": "colonnade-du-louvre",
+    "title": "Colonnade du Louvre",
+    "artist": "Claude Perrault, Louis Le Vau, Charles Le Brun",
+    "date": 1670,
+    "movement": "classicism",
+    "location": "Paris (France)",
+    "image": "/artworks/classicism/colonnade-du-louvre.jpg",
+    "description": "Formant la façade est du Palais du Louvre, cette colonnade monumentale marque le triomphe de l'architecture classique française sur le modèle baroque italien. Le projet architectural résulte d'un concours public d'envergure nationale, initié par Louis XIV et son ministre Jean-Baptiste Colbert pour achever la cour Carrée du palais royal. La façade se compose d'un long alignement de colonnes jumelées d'ordre corinthien, s'élevant au-dessus d'un rez-de-chaussée nu et massif, le tout couronné par un fronton central triangulaire d'une grande sobriété.\n\nL'érection de cette colonnade fut une décision politique majeure visant à rejeter les projets proposés par le plus grand architecte de l'Europe baroque, Le Bernin. Invité à Paris à grands frais en 1665, l'artiste italien avait dessiné une façade aux lignes courbes et surchargées qui déplut profondément au roi et à Colbert, ces derniers jugeant le style italien trop théâtral et étranger à l'identité française. Le Bernin quitta la France furieux, et le chantier fut confié à un conseil de trois experts, dont le médecin et scientifique Claude Perrault, qui imposa la sévérité et la rigueur géométrique des ordres grecs.\n\nLa construction exigea des prouesses d'ingénierie inédites pour l'époque. Pour installer les immenses monolithes de pierre qui forment le fronton central sans s'appuyer sur des piliers intermédiaires visibles, Perrault mit au point un système de tirants de fer cachés au sein de la maçonnerie, inventant le concept de la « maçonnerie armée ». La façade devint le modèle officiel qui fixa les canons de l'architecture impériale et républicaine en France durant deux siècles, copié par la suite pour l'édification de nombreux monuments publics à travers le monde."
+  },
+  {
+    "id": "portrait-louis-xiv",
+    "title": "Portrait de Louis XIV en costume de sacre",
+    "artist": "Hyacinthe Rigaud",
+    "date": 1701,
+    "movement": "classicism",
+    "location": "Musée du Louvre (Paris, France)",
+    "image": "/artworks/classicism/portrait-louis-xiv.jpg",
+    "description": "Hyacinthe Rigaud a réalisé avec cette toile l'icône absolue de la monarchie absolue de droit divin. Louis XIV est représenté à l'âge de soixante-deux ans, revêtu de ses attributs régaliens : le lourd manteau de sacre en velours bleu brodé de fleurs d'or et doublé d'hermine, l'épée de Joyeuse fixée au flanc, tenant le sceptre à l'envers comme une canne de marche auprès de la couronne royale posée sur un coussin. Le souverain prend une pose de danseur théâtrale, encadré par une immense draperie de soie pourpre qui structure l'espace de la cour.\n\nLe tableau ne devait pas initialement demeurer en France. Le roi avait commandé ce portrait à Rigaud pour l'offrir en cadeau diplomatique à son petit-fils, le roi Philippe V d'Espagne, afin de sceller l'alliance entre les deux branches de la famille des Bourbons. Cependant, l'œuvre connut un tel succès auprès de Louis XIV et des courtisans lors de sa présentation à Versailles que le Roi-Soleil décida de conserver la toile originale pour ses propres collections, ordonnant à l'atelier de Rigaud de réaliser des copies pour l'envoi à Madrid.\n\nLe peintre a introduit un artifice corporel frappant pour masquer le vieillissement du monarque, qui souffrait alors de goutte et avait perdu ses dents. Si les traits du visage traduisent la sévérité de l'âge, les jambes du roi sont représentées élancées, galbées et vêtues de bas de soie blancs de jeunesse, un hommage direct à son passé de danseur étoile au sein des ballets de la cour. Le tableau servait de substitut physique officiel du souverain lorsque ce dernier était absent : les courtisans avaient interdiction de tourner le dos à la toile et devaient saluer l'image royale avec les mêmes courbettes que face au roi en personne."
+  },
+  {
+    "id": "portrait-richelieu",
+    "title": "Portrait du cardinal de Richelieu",
+    "artist": "Philippe de Champaigne",
+    "date": 1640,
+    "movement": "classicism",
+    "location": "Musée du Louvre (Paris, France)",
+    "image": "/artworks/classicism/portrait-richelieu.jpg",
+    "description": "Peintre officiel de la cour et proche de l'entourage de Marie de Médicis, Philippe de Champaigne signe ici le portrait officiel le plus célèbre du principal ministre d'État de Louis XIII, le cardinal de Richelieu. Le prélat est représenté debout, en pied, revêtu de sa longue robe de moire rouge écarlate et portant l'ordre du Saint-Esprit sur la poitrine, se détachant avec autorité sur un fond neutre encadré par une draperie sombre.\n\nChampaigne s'est attaché à exprimer la puissance politique et l'ascétisme intellectuel de l'homme d'État à travers une économie de moyens graphiques propre au classicisme français. Le visage de Richelieu, caractérisé par des traits fins, des lèvres pincées et un regard perçant, traduit une détermination froide, tandis que sa main droite retient les plis de sa robe pourpre dans un geste d'une grande distinction aristocratique.\n\nL'artiste lorrain réalisa de nombreuses variantes de ce portrait pour les différentes administrations du royaume. L'une des versions les plus singulières fut peinte sous la forme d'un triple portrait montrant le visage du cardinal de face et sous deux profils distincts, une œuvre utilitaire envoyée à Rome pour servir de modèle tridimensionnel au sculpteur Francesco Mochi pour tailler un buste en marbre, reprenant le protocole technique mis au point par Van Dyck pour le roi Charles Ier."
+  },
+  {
+    "id": "port-de-mer-soleil-couchant",
+    "title": "Port de mer au soleil couchant",
+    "artist": "Claude Lorrain (Le Lorrain)",
+    "date": 1639,
+    "movement": "classicism",
+    "location": "Musée du Louvre (Paris, France)",
+    "image": "/artworks/classicism/port-de-mer-soleil-couchant.jpg",
+    "description": "Claude Gellée, dit Le Lorrain, a révolutionné le genre du paysage classique en plaçant la lumière solaire au centre même de sa recherche picturale. La scène dépeint un port de mer idéal et imaginaire, encadré par des palais à l'architecture classique grandiose d'inspiration romaine et génoise. L'axe de fuite géométrique de la toile converge directement vers le disque du soleil couchant, dont les rayons rasants traversent une fine brume météorologique pour venir se refléter sur la surface de l'eau en une multitude de traînées dorées.\n\nLe Lorrain refusait de peindre des vues documentaires réelles : ses paysages sont des constructions poétiques idéalisées, recomposées en atelier à partir de croquis exécutés d'après nature dans la campagne romaine. Pour peupler son port, l'artiste intègre de petites silhouettes de marins et de marchands s'affairant autour de barques de transport, des personnages secondaires que le peintre confiait souvent à des collaborateurs d'atelier afin de se concentrer exclusivement sur la vibration lumineuse du ciel.\n\nPour se prémunir des faussaires et des copistes qui profitaient de son immense succès commercial sur le marché de l'art romain, Claude Lorrain consigna les croquis précis de toutes ses toiles vendues au sein d'un recueil manuscrit intitulé le « Liber Veritatis » (« Le Livre de la Vérité »). Ce catalogue illustré, tenu à jour par l'artiste durant des décennies, permet de tracer l'origine historique de ce tableau, acheté directement auprès du peintre par le roi Louis XIV pour orner sa chambre au château de Versailles."
+  },
+  {
+    "id": "hotel-des-invalides",
+    "title": "Hôtel des Invalides",
+    "artist": "Jules Hardouin-Mansart",
+    "date": 1706,
+    "movement": "classicism",
+    "location": "Paris (France)",
+    "image": "/artworks/classicism/hotel-des-invalides.jpg",
+    "description": "Ordonné par Louis XIV en 1670 pour loger les soldats mutilés et les vétérans âgés de ses armées, le complexe de l'Hôtel des Invalides représente le chef-d'œuvre de l'architecture religieuse du classicisme français. Si les bâtiments de casernement furent conçus par Libéral Bruand, l'église royale et sa coupole monumentale constituent l'œuvre maîtresse de Jules Hardouin-Mansart, l'architecte favori du Roi-Soleil.\n\nMansart a conçu une façade à deux ordres superposés d'une grande rigueur géométrique, surmontée d'une haute coupole élancée qui s'élève à plus de cent sept mètres de haut. Le dôme de bois est recouvert d'un riche habillage de plomb orné de trophées militaires et de frises entièrement recouvertes à la feuille d'or, conçu pour servir de repère visuel majeur dans le ciel de la rive gauche parisienne, matérialisant la piété et la puissance du monarque.\n\nLe monument subit une réaffectation historique majeure au XIXe siècle sous le règne de Louis-Philippe Ier. À la suite du « retour des cendres » en 1840, le corps de l'empereur Napoléon Ier fut transféré de l'île de Sainte-Hélène pour être installé de manière permanente au cœur de l'église des Invalides. L'architecte Louis Visconti fit creuser une immense crypte circulaire ouverte directement sous la coupole de Mansart pour y déposer le monumental sarcophage de quartzite rouge de Finlande qui abrite la sépulture impériale."
+  },
+  {
+    "id": "enlevement-sabines-poussin",
+    "title": "L'Enlèvement des Sabines",
+    "artist": "Nicolas Poussin",
+    "date": 1637,
+    "movement": "classicism",
+    "location": "Musée du Louvre (Paris, France)",
+    "image": "/artworks/classicism/enlevement-sabines-poussin.jpg",
+    "description": "Inspiré par les récits de l'histoire romaine antique rapportés par Plutarque et Tite-Live, Nicolas Poussin orchestre ici une scène de fureur et de tumulte selon une structure spatiale d'une géométrie implacable. Le tableau représente le moment où le fondateur de Rome, Romulus, donne le signal de l'enlèvement des femmes sabines en levant les pans de son manteau pourpre du haut d'une tribune architecturale, déclenchant la charge des soldats romains au milieu de la foule.\n\nPoussin refusait le chaos dramatique propre au baroque italien. Pour construire cette scène de panique collective sans perdre la clarté du récit classique, l'artiste mit au point un protocole technique unique : il installa une petite boîte théâtrale en bois au sein de son atelier romain, y plaçant de petites figurines en cire modelées à l'échelle qu'il habillait de chiffons mouillés pour étudier le mouvement des drapés et la projection des ombres avant de poser le moindre trait sur la toile.\n\nLes corps des soldats et des femmes sabines sont figés dans des postures sculpturales rigides, qui rappellent les reliefs des sarcophages antiques ou les statues de la Rome impériale. Cette intellectualisation du mouvement, où chaque groupe de personnages fonctionne comme un micro-récit autonome équilibré par des lignes de fuite architecturales, fit de cette œuvre la référence théorique absolue pour l'enseignement du dessin d'histoire au sein de l'Académie royale de Paris."
+  },
+  {
+    "id": "ex-voto-1662",
+    "title": "Ex-voto de 1662",
+    "artist": "Philippe de Champaigne",
+    "date": 1662,
+    "movement": "classicism",
+    "location": "Musée du Louvre (Paris, France)",
+    "image": "/artworks/classicism/ex-voto-1662.jpg",
+    "description": "Cet ex-voto constitue l'œuvre la plus intime et spirituelle de Philippe de Champaigne, s'inscrivant en dehors de ses productions officielles de cour. Le tableau met en scène deux religieuses du couvent janséniste de Port-Royal des Champs : la mère Agnès Arnauld et la propre fille de l'artiste, sœur Catherine de Sainte-Suzanne. Cette dernière, paralysée des jambes depuis des mois à la suite d'une maladie nerveuse lourde, est représentée en pleine guérison miraculeuse à l'issue d'une neuvaine de prières collectives.\n\nL'œuvre incarne l'austérité et la rigueur morale du courant janséniste chrétien face aux fastes de la cour royale de Versailles. Champaigne emploie une palette chromatique extrêmement sobre, dominée par les tons sourds des bures en laine blanche et des voiles noirs des religieuses, se détachant sur le décor géométrique nu d'une cellule de couvent. Une lumière divine rasante descend du coin supérieur gauche, venant éclairer le visage serein de la jeune femme rétablie.\n\nLe peintre fit inscrire un long texte en latin directement sur la paroi murale de la scène, détaillant la nature de la paralysie, la ferveur des prières et la date exacte du miracle survenu le 7 janvier 1662. Champaigne offrit cette toile au couvent de Port-Royal en guise de gratitude filiale, avant que le site ne soit rasé et démantelé sur ordre direct du roi Louis XIV au début du XVIIIe siècle pour écraser l'hérésie janséniste."
+  },
+  {
+    "id": "entree-alexandre-babylone",
+    "title": "L'Entrée d'Alexandre le Grand dans Babylone",
+    "artist": "Charles Le Brun",
+    "date": 1665,
+    "movement": "classicism",
+    "location": "Musée du Louvre (Paris, France)",
+    "image": "/artworks/classicism/entree-alexandre-babylone.jpg",
+    "description": "Charles Le Brun, premier peintre du roi et directeur de l'Académie royale, conçoit cette toile monumentale de près de sept mètres de large comme la pièce maîtresse de la célèbre « Série des Batailles d'Alexandre ». La composition dépeint le conquérant macédonien installé sur un char triomphal orné de reliefs de victoires ailées, faisant son entrée dans la cité de Babylone au milieu d'un défilé de soldats, de porteurs d'encens et d'esclaves chargés de richesses.\n\nLe programme iconographique de la série répondait à une commande de propagande politique orchestrée par Colbert. À travers la figure historique d'Alexandre le Grand, Le Brun célébrait de manière transparente les vertus militaires, la magnanimité et le triomphe impérial du jeune roi Louis XIV au début de son règne personnel. Les traits du visage du héros macédonien furent subtilement calqués sur le profil du monarque français, s'accordant avec les codes de la flatterie officielle de cour.\n\nPour graver et diffuser ces images à travers toutes les monarchies européennes, Le Brun mit en place un atelier d'artistes spécialisés qui reproduisirent les toiles sous la forme de monumentales tapisseries tissées au sein de la Manufacture des Gobelins. L'œuvre s'impose comme le modèle de la grande peinture d'histoire classique, associant la clarté de l'ordonnancement spatial à une profusion de détails archéologiques imaginés par le peintre."
+  },
+  {
+    "id": "embarquement-reine-de-saba",
+    "title": "L'Embarquement de la reine de Saba",
+    "artist": "Claude Lorrain (Le Lorrain)",
+    "date": 1648,
+    "movement": "classicism",
+    "location": "National Gallery (Londres, Angleterre)",
+    "image": "/artworks/classicism/embarquement-reine-de-saba.jpg",
+    "description": "Commandé par le duc de Bouillon, général de l'armée pontificale, ce tableau de Claude Lorrain utilise un épisode biblique de l'Ancien Testament comme prétexte à une étude d'atmosphère lumineuse magistrale. La reine de Saba est représentée quittant sa cité pour s'embarquer sur un navire à destination du royaume de Salomon, sa silhouette discrète descendant les marches de marbre d'un palais classique sur la droite.\n\nLa structure spatiale s'appuie sur une perspective rigoureuse, matérialisée par l'alignement des colonnes doriques et corinthiennes des édifices imaginaires qui encadrent le port. Le Lorrain a placé le point de fuite de la composition directement dans le soleil levant, dont l'éclat blanc traverse les gréements des navires pour venir frapper le premier plan, créant une transition fluide des tonalités chromatiques propre au classicisme de paysage.\n\nL'œuvre exerça une influence déterminante sur le peintre britannique William Turner deux siècles plus tard. Ce dernier fut si ébloui par la gestion de la lumière solaire chez Le Lorrain qu'il légua sa propre toile, « Didon construisant Carthage », à la National Gallery de Londres à la condition expresse qu'elle soit exposée de manière permanente côte à côte avec « L'Embarquement de la reine de Saba », un face-à-face esthétique préservé par l'institution."
+  }
+]

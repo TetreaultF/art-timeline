@@ -1,9 +1,9 @@
-import { byzantineArtworks } from "./byzantine";
-import { islamicArtworks } from "./islamic";
-import { anglosaxonArtworks } from "./anglo-saxon";
-import { vikingArtworks } from "./viking";
-import { romanesqueArtworks } from "./romanesque";
-import { gothicArtworks } from "./gothic";
+import byzantineArtworks from "./byzantine.json";
+import islamicArtworks from "./islamic.json";
+import anglosaxonArtworks from "./anglo-saxon.json";
+import vikingArtworks from "./viking.json";
+import romanesqueArtworks from "./romanesque.json";
+import gothicArtworks from "./gothic.json";
 
 export const medievalArtworks = [
   ...byzantineArtworks,
